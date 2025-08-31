@@ -1,18 +1,9 @@
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.chrome.options import Options
-
 from selenium import webdriver
-from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
-# chrome_options = Options()
-# chrome_options.add_argument('--headless')
-# chrome_options.add_argument('--no-sandbox')
-# chrome_options.add_argument('--disable-dev-shm-usage')
-
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 driver.get("https://dnd5e.wikidot.com/#toc2")
 
 try:
@@ -32,6 +23,7 @@ try:
 
         time.sleep(10)
 
+        #Captura a descricao da raca, tem uma mudança repentina no caminho XPath, caso falhe muda o XPath
         try:
             descricao = driver.find_element(By.XPATH, '/html/body/div[1]/div/div[1]/main/div/div/div/div/div[4]/p[1]/strong/em').text
             print(f"Descricao: {descricao}")
