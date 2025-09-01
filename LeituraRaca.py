@@ -16,7 +16,7 @@ def leituraRaca(raca):
     soup = BeautifulSoup(content, 'html.parser')
 
     # Extrai todas as tags de títulos e parágrafos
-    titles = soup.find_all(['h1', 'h2', 'ul', 'p'])
+    elementos = soup.find_all(['h1', 'h2', 'ul', 'li', 'p'])
     h1uns = soup.find_all(['h1'])
     startElement = soup.find(id="toc0")
 
@@ -26,40 +26,68 @@ def leituraRaca(raca):
 
     escrever = False
     encontrouOutroLivro = False
+    isLista = False
     print()
     print('Stop: ', stopElement)
     print('Start: ', startElement)
 
-    textoUtilDwarf = []
-    textoInutilDwarf = []
-    # Exibe os resultados
-    for title in titles:
-        if title == stopElement:
-            print('parar!')
+    textoUtil = []
+    textoInutil = []
+    listaDeTextos = []
+
+    list_stack = []
+
+    for elemento in elementos:
+        if elemento == stopElement:
             escrever = False
-            encontrouOutroLivro = True
 
-        if title == startElement:
-            print('escrever!')
+        if elemento == startElement:
             escrever = True
-        if escrever:
-            textoUtilDwarf.append(title.get_text()) ##.replace('\n', ''))
-            print(title)
-        if encontrouOutroLivro:
-            textoInutilDwarf.append(title.get_text()) ##.replace('\n', ''))
 
-    print('-------------- imprimindo h1uns ------------')
-    for h1 in h1uns:
-        print(h1.get_text())
+        if escrever:
+            # Check for the beginning of a list
+            if elemento.name == 'ul':
+                new_list = []
+
+                # Check if this <ul> is a child of the current list's <li>
+                is_nested = False
+                if list_stack and elemento.parent.name == 'li' and elemento.parent in list_stack[-1]:
+                    is_nested = True
+
+                if is_nested:
+                    list_stack[-1].append(new_list)
+                    list_stack.append(new_list)
+                else:
+                    # It's a top-level list or a sibling list.
+                    # Pop from the stack until it's empty to represent moving back to a top level.
+                    while list_stack:
+                        list_stack.pop()
+
+                    textoUtil.append(new_list)
+                    list_stack.append(new_list)
+                continue
+
+            # Check if the current element is a li
+            if elemento.name == 'li':
+                # Only add if we're in a list and the element is a direct child of a ul.
+                if list_stack and elemento.parent.name == 'ul':
+                    list_stack[-1].append(elemento.text.strip())
+                continue
+
+            # For non-list elements, we assume we've exited any list structure.
+            while list_stack:
+                list_stack.pop()
+
+            textoUtil.append(elemento.text.strip())
 
     texto = [
-        textoUtilDwarf,
-        textoInutilDwarf,
+        textoUtil,
+        textoInutil,
     ]
 
-    with open(f"texto{raca}.json", "w") as f:
+    with open(f"JsonSoup/{raca}.json", "w") as f:
         json.dump(texto, f, indent=4)
-    print('-------------- imprimindo texto.json ------------')
 
-
-leituraRaca("halfling")
+#Ainda não há a leitura de tabelas <tr>, então a tabela de spells do
+#Dragonborn não está sendo lida. O resto está ok!!
+leituraRaca("dwarf")
