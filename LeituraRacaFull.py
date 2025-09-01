@@ -39,10 +39,8 @@ try:
             print(f"Descricao: {descricao}")
         
         #Popula cada arquivo txt de cada raca         
-        arquivo = open(f'c:/RacasPLN/{nomeRaca}/Player Handbook.txt', 'w+')
-        arquivo.writelines(f"Raca: {item.text}")
-        arquivo.writelines(f"Descrição: {descricao}")
-        arquivo.close()
+        with open(f"c:/RacasPLN/{item}/Player Handbook.txt", "w", encoding="utf-8") as arquivo:
+            arquivo.write(f"Descricao: {descricao}\n")
 
 
 except Exception as e:
