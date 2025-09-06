@@ -21,6 +21,63 @@
             "Draconic Ancestry. You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain."
         ],
         [
+            [
+                "Dragon Color",
+                "Damage Type",
+                "Breath Weapon"
+            ],
+            [
+                "Black",
+                "Acid",
+                "5 by 30 ft. line (DEX save)"
+            ],
+            [
+                "Blue",
+                "Lightning",
+                "5 by 30 ft. line (DEX save)"
+            ],
+            [
+                "Brass",
+                "Fire",
+                "5 by 30 ft. line (DEX save)"
+            ],
+            [
+                "Bronze",
+                "Lightning",
+                "5 by 30 ft. line (DEX save)"
+            ],
+            [
+                "Copper",
+                "Acid",
+                "5 by 30 ft. line (DEX save)"
+            ],
+            [
+                "Gold",
+                "Fire",
+                "15 ft. cone (DEX save)"
+            ],
+            [
+                "Green",
+                "Poison",
+                "15 ft. cone (CON save)"
+            ],
+            [
+                "Red",
+                "Fire",
+                "15 ft. cone (DEX save)"
+            ],
+            [
+                "Silver",
+                "Cold",
+                "15 ft. cone (CON save)"
+            ],
+            [
+                "White",
+                "Cold",
+                "15 ft. cone (CON save)"
+            ]
+        ],
+        [
             "Breath Weapon. You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
         ],
         [
