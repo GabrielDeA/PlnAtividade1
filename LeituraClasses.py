@@ -21,28 +21,20 @@ def leituraClasse(classe):
     startElement = soup.find(class_='wiki-content-table')
 
     stopElement = soup.find(id="toc1")
-    #if h1uns.index(startElement) != len(h1uns) :
-        #stopElement = h1uns[h1uns.index(startElement) + 1]
 
     escrever = False
-    encontrouOutroLivro = False
-    isLista = False
+
     print()
     print('Stop: ', stopElement)
     print('Start: ', startElement)
 
     textoUtil = []
     textoInutil = []
-    listaDeTextos = []
     arrayH3 = []
-    h3 = False
     livrosAEvitar = ["amonkhet", "unearthed arcana"]
     list_stack = []
 
     for elemento in elementos:
-        #if elemento == stopElement:
-         #   escrever = False
-
         if elemento == startElement:
             escrever = True
 

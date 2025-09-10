@@ -25,15 +25,12 @@ def leituraRaca(raca):
         stopElement = h1uns[h1uns.index(startElement) + 1]
 
     escrever = False
-    encontrouOutroLivro = False
-    isLista = False
     print()
     print('Stop: ', stopElement)
     print('Start: ', startElement)
 
     textoUtil = []
     textoInutil = []
-    listaDeTextos = []
 
     list_stack = []
 

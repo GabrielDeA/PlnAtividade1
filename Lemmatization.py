@@ -2,6 +2,8 @@ import nltk
 nltk.download('wordnet')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt_tab')
+nltk.download('averaged_perceptron_tagger_eng')
 
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
