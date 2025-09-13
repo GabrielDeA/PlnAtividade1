@@ -8,6 +8,8 @@ def leituraRaca(raca):
     # URL da página a ser raspada
     url = f"http://dnd5e.wikidot.com/lineage:{raca}"
 
+    print(f'Lendo o {raca}')
+
     # Faz a requisição HTTP para obter o conteúdo da página
     response = requests.get(url)
     content = response.content
@@ -25,9 +27,6 @@ def leituraRaca(raca):
         stopElement = h1uns[h1uns.index(startElement) + 1]
 
     escrever = False
-    print()
-    print('Stop: ', stopElement)
-    print('Start: ', startElement)
 
     textoUtil = []
     textoInutil = []
@@ -111,6 +110,5 @@ def leituraRaca(raca):
     with open(f"JsonSoup/JsonRacas/{raca}.json", "w") as f:
         json.dump(texto, f, indent=4)
 
-#Ainda não há a leitura de tabelas <tr>, então a tabela de spells do
-#Dragonborn não está sendo lida. O resto está ok!!
-leituraRaca("dragonborn")
+
+#leituraRaca("dragonborn")

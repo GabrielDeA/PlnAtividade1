@@ -47,7 +47,7 @@ def lemmatize_dnd_data_structured(data_type, item_name):
         input_path = f"JsonSoup/JsonClasses/{item_name}.json"
         output_dir = "JsonSoup/JsonClasses/lemmma"
     elif data_type == "raca":
-        input_path = f"JsonSoup/{item_name}.json"
+        input_path = f"JsonSoup/JsonRacas/{item_name}.json"
         output_dir = "JsonSoup/JsonRacas/lemma"
     else:
         print("Invalid data_type specified. Use 'classe' or 'raca'.")
@@ -69,5 +69,5 @@ def lemmatize_dnd_data_structured(data_type, item_name):
 
     print(f"Structured lemmatization completed for {data_type}: {item_name}")
 
-lemmatize_dnd_data_structured("raca", "dragonborn")
+#lemmatize_dnd_data_structured("raca", "dragonborn")
 # lemmatize_dnd_data_structured("classe", "wizard")

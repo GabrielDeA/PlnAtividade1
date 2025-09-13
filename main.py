@@ -17,6 +17,7 @@ racas = [
 ]
 
 classes = [
+    'artificer',
     'barbarian',
     'bard',
     'cleric',

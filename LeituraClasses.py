@@ -5,6 +5,8 @@ import json
 
 def leituraClasse(classe):
 
+    print(f'lendo o {classe}')
+
     # URL da página a ser raspada
     url = f"http://dnd5e.wikidot.com/{classe}"
 
@@ -23,10 +25,6 @@ def leituraClasse(classe):
     stopElement = soup.find(id="toc1")
 
     escrever = False
-
-    print()
-    print('Stop: ', stopElement)
-    print('Start: ', startElement)
 
     textoUtil = []
     textoInutil = []
@@ -114,4 +112,4 @@ def leituraClasse(classe):
     with open(f"JsonSoup/JsonClasses/{classe}.json", "w") as f:
         json.dump(texto, f, indent=4)
 
-leituraClasse("warlock")
+#leituraClasse("warlock")
