@@ -31,6 +31,7 @@ def leituraRaca(raca):
 
     textoUtil = []
     textoInutil = []
+    arrayH3 = []
 
     list_stack = []
 
@@ -43,6 +44,10 @@ def leituraRaca(raca):
 
         if escrever:
             # Check for the beginning of a list
+
+            if elemento.name == 'h3':
+                textoUtil.append(arrayH3)
+                arrayH3 = []
 
             if elemento.name == 'ul':
                 new_list = []
@@ -61,7 +66,8 @@ def leituraRaca(raca):
                     while list_stack:
                         list_stack.pop()
 
-                    textoUtil.append(new_list)
+                    #textoUtil.append(new_list)
+                    arrayH3.append(new_list)
                     list_stack.append(new_list)
                 continue
 
@@ -94,17 +100,15 @@ def leituraRaca(raca):
             while list_stack:
                 list_stack.pop()
 
-
-
-
-            textoUtil.append(elemento.text.strip())
+            #textoUtil.append(elemento.text.strip())
+            arrayH3.append(elemento.text.strip())
 
     texto = [
         textoUtil,
         textoInutil,
     ]
 
-    with open(f"JsonSoup/{raca}.json", "w") as f:
+    with open(f"JsonSoup/JsonRacas/{raca}.json", "w") as f:
         json.dump(texto, f, indent=4)
 
 #Ainda não há a leitura de tabelas <tr>, então a tabela de spells do

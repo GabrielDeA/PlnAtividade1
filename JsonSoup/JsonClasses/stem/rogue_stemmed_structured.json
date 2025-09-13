@@ -1,0 +1,247 @@
+[
+    [
+        [
+            [
+                "the rogu"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "sneak attack",
+                "featur"
+            ],
+            [
+                "1st",
+                "+2",
+                "1d6",
+                "expertis, sneak attack, thiev' cant"
+            ],
+            [
+                "2nd",
+                "+2",
+                "1d6",
+                "cun action"
+            ],
+            [
+                "3rd",
+                "+2",
+                "2d6",
+                "roguish archetyp, steadi aim( option)"
+            ],
+            [
+                "4th",
+                "+2",
+                "2d6",
+                "abil score improv"
+            ],
+            [
+                "5th",
+                "+3",
+                "3d6",
+                "uncanni dodg"
+            ],
+            [
+                "6th",
+                "+3",
+                "3d6",
+                "expertis"
+            ],
+            [
+                "7th",
+                "+3",
+                "4d6",
+                "evas"
+            ],
+            [
+                "8th",
+                "+3",
+                "4d6",
+                "abil score improv"
+            ],
+            [
+                "9th",
+                "+4",
+                "5d6",
+                "roguish archetyp featur"
+            ],
+            [
+                "10th",
+                "+4",
+                "5d6",
+                "abil score improv"
+            ],
+            [
+                "11th",
+                "+4",
+                "6d6",
+                "reliabl talent"
+            ],
+            [
+                "12th",
+                "+4",
+                "6d6",
+                "abil score improv"
+            ],
+            [
+                "13th",
+                "+5",
+                "7d6",
+                "roguish archetyp featur"
+            ],
+            [
+                "14th",
+                "+5",
+                "7d6",
+                "blindsens"
+            ],
+            [
+                "15th",
+                "+5",
+                "8d6",
+                "slipperi mind"
+            ],
+            [
+                "16th",
+                "+5",
+                "8d6",
+                "abil score improv"
+            ],
+            [
+                "17th",
+                "+6",
+                "9d6",
+                "roguish archetyp featur"
+            ],
+            [
+                "18th",
+                "+6",
+                "9d6",
+                "elus"
+            ],
+            [
+                "19th",
+                "+6",
+                "10d6",
+                "abil score improv"
+            ],
+            [
+                "20th",
+                "+6",
+                "10d6",
+                "stroke of luck"
+            ]
+        ],
+        [
+            "class featur",
+            "as a rogu, you gain the follow class featur.",
+            "hit dice: 1d8 per rogu level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per rogu level after 1st",
+            "armor: light armor weapon: simpl weapon, hand crossbow, longsword, rapier, shortsword tool: thiev' tool save throw: dexter, intellig skill: choos four from acrobat, athlet, decept, insight, intimid, investig, percept, perform, persuas, sleight of hand, and stealth",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a rapier or( b) a shortsword",
+                "( a) a shortbow and quiver of 20 arrow or( b) a shortsword",
+                "( a) a burglar 's pack,( b) dungeon 's pack, or( c) an explor 's pack",
+                "leather armor, two dagger, and thiev' tool"
+            ]
+        ],
+        [
+            "expertis",
+            "at 1st level, choos two of your skill profici, or one of your skill profici and your profici with thiev' tool. your profici bonu is doubl for ani abil check you make that use either of the chosen profici.",
+            "at 6th level, you can choos two more of your profici( in skill or with thiev' tool) to gain thi benefit."
+        ],
+        [
+            "sneak attack",
+            "begin at 1st level, you know how to strike subtli and exploit a foe 's distract. onc per turn, you can deal an extra 1d6 damag to one creatur you hit with an attack if you have advantag on the attack roll. the attack must use a finess or a rang weapon.",
+            "you do n't need advantag on the attack roll if anoth enemi of the target is within 5 feet of it, that enemi is n't incapacit, and you do n't have disadvantag on the attack roll.",
+            "the amount of the extra damag increas as you gain level in thi class, as shown in the sneak attack column of the rogu tabl."
+        ],
+        [
+            "thiev' cant",
+            "dure your rogu train you learn thiev' cant, a secret mix of dialect, jargon, and code that allow you to hide messag in seemingli normal convers. onli anoth creatur that know thiev' cant understand such messag. it take four time longer to convey such a messag than it doe to speak the same idea plainli.",
+            "in addit, you understand a set of secret sign and symbol use to convey short, simpl messag, such as whether an area is danger or the territori of a thiev' guild, whether loot is nearbi, or whether the peopl in an area are easi mark or will provid a safe hous for thiev on the run."
+        ],
+        [
+            "cun action",
+            "start at 2nd level, your quick think and agil allow you to move and act quickli. you can take a bonu action on each of your turn in combat. thi action can be use onli to take the dash, disengag, or hide action."
+        ],
+        [
+            [
+                "archetyp",
+                "sourc"
+            ],
+            [
+                "arcan trickster",
+                "player 's handbook"
+            ],
+            [
+                "assassin",
+                "player 's handbook"
+            ],
+            [
+                "inquisit",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "mastermind",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "phantom",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "scout",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "soulknif",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "swashbuckl",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "thief",
+                "player 's handbook"
+            ]
+        ],
+        [
+            "roguish archetyp",
+            "at 3rd level, you choos an archetyp that you emul in the exercis of your rogu abil. your archetyp choic grant you featur at 3rd level and then again at 9th, 13th, and 17th level."
+        ],
+        [
+            "steadi aim( option)",
+            "at 3rd level, as a bonu action, you give yourself advantag on your next attack roll on the current turn. you can use thi bonu action onli if you have n't move dure thi turn, and after you use the bonu action, your speed is 0 until the end of the current turn."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "uncanni dodg",
+            "start at 5th level, when an attack that you can see hit you with an attack, you can use your reaction to halv the attack 's damag against you."
+        ],
+        [
+            "evas",
+            "begin at 7th level, you can nimbl dodg out of the way of certain area effect, such as a red dragon 's fieri breath or an ice storm spell. when you are subject to an effect that allow you to make a dexter save throw to take onli half damag, you instead take no damag if you succeed on the save throw, and onli half damag if you fail."
+        ],
+        [
+            "reliabl talent",
+            "by 11th level, you have refin your chosen skill until they approach perfect. whenev you make an abil check that let you add your profici bonu, you can treat a d20 roll of 9 or lower as a 10."
+        ],
+        [
+            "blindsens",
+            "start at 14th level, if you are abl to hear, you are awar of the locat of ani hidden or invis creatur within 10 feet of you."
+        ],
+        [
+            "slipperi mind",
+            "by 15th level, you have acquir greater mental strength. you gain profici in wisdom save throw."
+        ],
+        [
+            "elus",
+            "begin at 18th level, you are so evas that attack rare gain the upper hand against you. no attack roll ha advantag against you while you are n't incapacit."
+        ]
+    ],
+    []
+]

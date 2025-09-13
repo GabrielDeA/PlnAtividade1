@@ -1,0 +1,393 @@
+[
+    [
+        [
+            [
+                "the paladin",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th"
+            ],
+            [
+                "1st",
+                "+2",
+                "divin sens, lay on hand",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "fight style, spellcast, divin smite",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "divin health, sacr oath, har divin power( option)",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv, martial versatil( option)",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "extra attack",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "aura of protect",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "sacr oath featur",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv, martial versatil( option)",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "aura of courag",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "improv divin smite",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, martial versatil( option)",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "cleans touch",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "sacr oath featur",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, martial versatil( option)",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "aura improv",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, martial versatil( option)",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ],
+            [
+                "20th",
+                "+6",
+                "sacr oath featur",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            "class featur",
+            "as a paladin, you gain the follow class featur.",
+            "hit dice: 1d10 per paladin level hit point at 1st level: 10+ your constitut modifi hit point at higher level: 1d10( or 6)+ your constitut modifi per paladin level after 1st",
+            "armor: all armor, shield weapon: simpl weapon, martial weapon tool: none save throw: wisdom, charisma skill: choos two from athlet, insight, intimid, medicin, persuas, and religion",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a martial weapon and a shield or( b) two martial weapon",
+                "( a) five javelin or( b) ani simpl mele weapon",
+                "( a) a priest 's pack or( b) an explor 's pack",
+                "chain mail and a holi symbol"
+            ]
+        ],
+        [
+            "divin sens",
+            "the presenc of strong evil regist on your sens like a noxiou odor, and power good ring like heavenli music in your ear. as an action, you can open your awar to detect such forc. until the end of your next turn, you know the locat of ani celesti, fiend, or undead within 60 feet of you that is not behind total cover. you know the type( celesti, fiend, or undead) of ani be whose presenc you sens, but not it ident( the vampir count strahd von zarovich, for instanc). within the same radiu, you also detect the presenc of ani place or object that ha been consecr or desecr, as with the hallow spell.",
+            "you can use thi featur a number of time equal to 1+ your charisma modifi. when you finish a long rest, you regain all expend use."
+        ],
+        [
+            "lay on hand",
+            "your bless touch can heal wound. you have a pool of heal power that replenish when you take a long rest. with that pool, you can restor a total number of hit point equal to your paladin level x 5.",
+            "as an action, you can touch a creatur and draw power from the pool to restor a number of hit point to that creatur, up to the maximum amount remain in your pool.",
+            "altern, you can expend 5 hit point from your pool of heal to cure the target of one diseas or neutral one poison affect it. you can cure multipl diseas and neutral multipl poison with a singl use of lay on hand, expend hit point separ for each one.",
+            "thi featur ha no effect on undead and construct."
+        ],
+        [
+            "fight style",
+            "start at 2nd level, you adopt a particular style of fight as your specialti. choos one of the follow option. you ca n't take a fight style option more than onc, even if you later get to choos again.",
+            [
+                "bless warrior. you learn two cantrip of your choic from the cleric spell list. they count as paladin spell for you, and charisma is your spellcast abil for them. whenev you gain a level in thi class, you can replac one of these cantrip with anoth cantrip from the cleric spell list."
+            ],
+            [
+                "blind fight. you have blindsight with a rang of 10 feet. within that rang, you can effect see anyth that is n't behind total cover, even if you 're blind or in dark. moreov, you can see an invis creatur within that rang, unless the creatur success hide from you."
+            ],
+            [
+                "defens. while you are wear armor, you gain a +1 bonu to ac."
+            ],
+            [
+                "duel. when you are wield a mele weapon in one hand and no other weapon, you gain a +2 bonu to damag roll with that weapon."
+            ],
+            [
+                "great weapon fight. when you roll a 1 or 2 on a damag die for an attack you make with a mele weapon that you are wield with two hand, you can rerol the die and must use the new roll, even if the new roll is a 1 or a 2. the weapon must have the two-hand or versatil properti for you to gain thi benefit."
+            ],
+            [
+                "intercept. when a creatur you can see hit a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduc the damag the target take by 1d10+ your profici bonu( to a minimum of 0 damag). you must be wield a shield or a simpl or martial weapon to use thi reaction."
+            ],
+            [
+                "protect. when a creatur you can see attack a target other than you that is within 5 feet of you, you can use your reaction to impos disadvantag on the attack roll. you must be wield a shield."
+            ],
+            [
+                "close quarter shooter( ua). when make a rang attack while you are within 5 feet of a hostil creatur, you do not have disadvantag on the attack roll. your rang attack ignor half cover and three-quart cover against target within 30 feet of you. you have a +1 bonu to attack roll on rang attack."
+            ],
+            [
+                "marin( ua). as long as you are not wear heavi armor or use a shield, you have a swim speed and a climb speed equal to your normal speed, and you gain a +1 bonu to armor class."
+            ],
+            [
+                "thrown weapon fight( ua). you can draw a weapon that ha the thrown properti as part of the attack you make with the weapon. in addit, when you hit with a rang attack use a thrown weapon, you gain a +1 bonu to the damag roll."
+            ],
+            [
+                "in addit, when you hit with a rang attack use a thrown weapon, you gain a +1 bonu to the damag roll."
+            ],
+            [
+                "tunnel fighter( ua). as a bonu action, you can enter a defens stanc that last until the start of your next turn. while in your defens stanc, you can make opportun attack without use your reaction, and you can use your reaction to make a mele attack against a creatur that move more than 5 feet while within your reach."
+            ],
+            [
+                "unarm fight( ua). your unarm strike can deal bludgeon damag equal to 1d6+ your strength modifi. if you strike with two free hand, the d6 becom a d8. when you success start a grappl, you can deal 1d4 bludgeon damag to the grappl creatur. until the grappl end, you can also deal thi damag to the creatur whenev you hit it with a mele attack."
+            ],
+            [
+                "when you success start a grappl, you can deal 1d4 bludgeon damag to the grappl creatur. until the grappl end, you can also deal thi damag to the creatur whenev you hit it with a mele attack."
+            ]
+        ],
+        [
+            "spellcast",
+            "by 2nd level, you have learn to draw on divin magic through medit and prayer to cast spell as a cleric doe.",
+            "the paladin tabl show how mani spell slot you have to cast your paladin spell. to cast one of your paladin spell of 1st level or higher, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "you prepar the list of paladin spell that are avail for you to cast, choos from the paladin spell list. when you do so, choos a number of paladin spell equal to your charisma modifi+ half your paladin level, round down( minimum of one spell). the spell must be of a level for which you have spell slot.",
+            "for exampl, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slot. with a charisma of 14, your list of prepar spell can includ four spell of 1st or 2nd level, in ani combin. if you prepar the 1st-level spell cure wound, you can cast it use a 1st-level or a 2nd-level slot. cast the spell doe n't remov it from your list of prepar spell.",
+            "you can chang your list of prepar spell when you finish a long rest. prepar a new list of paladin spell requir time spent in prayer and medit: at least 1 minut per spell level for each spell on your list.",
+            "charisma is your spellcast abil for your paladin spell, sinc their power deriv from the strength of your convict. you use your charisma whenev a spell refer to your spellcast abil. in addit, you use your charisma modifi when set the save throw dc for a paladin spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your charisma modifi",
+            "spell attack modifi= your profici bonu+ your charisma modifi",
+            "you can use a holi symbol as a spellcast focu for your paladin spell."
+        ],
+        [
+            "divin smite",
+            "start at 2nd level, when you hit a creatur with a mele weapon attack, you can expend one spell slot to deal radiant damag to the target, in addit to the weapon 's damag. the extra damag is 2d8 for a 1st-level spell slot, plu 1d8 for each spell level higher than 1st, to a maximum of 5d8. the damag increas by 1d8 if the target is an undead or a fiend, to a maximum of 6d8."
+        ],
+        [
+            "divin health",
+            "by 3rd level, the divin magic flow through you make you immun to diseas."
+        ],
+        [
+            [
+                "oath",
+                "sourc"
+            ],
+            [
+                "ancient",
+                "player 's handbook"
+            ],
+            [
+                "conquest",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "crown",
+                "sword coast adventur 's guid"
+            ],
+            [
+                "devot",
+                "player 's handbook"
+            ],
+            [
+                "glori",
+                "mythic odyssey of thero tasha 's cauldron of everyth"
+            ],
+            [
+                "redempt",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "vengeanc",
+                "player 's handbook"
+            ],
+            [
+                "watcher",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "oathbreak",
+                "dungeon master \u2019 s guid"
+            ]
+        ],
+        [
+            "sacr oath",
+            "when you reach 3rd level, you swear the oath that bind you as a paladin forev. up to thi time you have been in a preparatori stage, commit to the path but not yet sworn to it. your choic grant you featur at 3rd level and again at 7th, 15th, and 20th level. those featur includ oath spell and the channel divin featur.",
+            "each oath ha a list of associ spell. you gain access to these spell at the level specifi in the oath descript. onc you gain access to an oath spell, you alway have it prepar. oath spell do n't count against the number of spell you can prepar each day.",
+            "if you gain an oath spell that doe n't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.",
+            "your oath allow you to channel divin energi to fuel magic effect. each channel divin option provid by your oath explain how to use it.",
+            "when you use your channel divin, you choos which option to use. you must then finish a short or long rest to use your channel divin again.",
+            "some channel divin effect requir save throw. when you use such an effect from thi class, the dc equal your paladin spell save dc."
+        ],
+        [
+            "har divin power( option)",
+            "also at 3rd level, you can expend a use of your channel divin to fuel your spell. as a bonu action, you touch your holi symbol, utter a prayer, and regain one expend spell slot, the level of which can be no higher than half your profici bonu( round up). the number of time you can use thi featur is base on the level you 've reach in thi class: 3rd level, onc; 7th level, twice; and 15th level, thrice. you regain all expend use when you finish a long rest."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "martial versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can replac a fight style you know with anoth fight style avail to paladin. thi replac repres a shift of focu in your martial practic."
+        ],
+        [
+            "extra attack",
+            "begin at 5th level, you can attack twice, instead of onc, whenev you take the attack action on your turn."
+        ],
+        [
+            "aura of protect",
+            "start at 6th level, whenev you or a friendli creatur within 10 feet of you must make a save throw, the creatur gain a bonu to the save throw equal to your charisma modifi( with a minimum bonu of +1). you must be consciou to grant thi bonu.",
+            "at 18th level, the rang of thi aura increas to 30 feet."
+        ],
+        [
+            "aura of courag",
+            "start at 10th level, you and friendli creatur within 10 feet of you ca n't be frighten while you are consciou.",
+            "at 18th level, the rang of thi aura increas to 30 feet."
+        ],
+        [
+            "improv divin smite",
+            "by 11th level, you are so suffus with righteou might that all your mele weapon strike carri divin power with them. whenev you hit a creatur with a mele weapon, the creatur take an extra 1d8 radiant damag."
+        ]
+    ],
+    []
+]

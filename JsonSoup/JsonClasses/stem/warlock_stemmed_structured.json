@@ -1,0 +1,368 @@
+[
+    [
+        [
+            [
+                "the warlock"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "cantrip known",
+                "spell known",
+                "spell slot",
+                "slot level",
+                "invoc known"
+            ],
+            [
+                "1st",
+                "+2",
+                "otherworldli patron, pact magic",
+                "2",
+                "2",
+                "1",
+                "1st",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "eldritch invoc",
+                "2",
+                "3",
+                "2",
+                "1st",
+                "2"
+            ],
+            [
+                "3rd",
+                "+2",
+                "pact boon",
+                "2",
+                "4",
+                "2",
+                "2nd",
+                "2"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv, eldritch versatil( option)",
+                "3",
+                "5",
+                "2",
+                "2nd",
+                "2"
+            ],
+            [
+                "5th",
+                "+3",
+                "",
+                "3",
+                "6",
+                "2",
+                "3rd",
+                "3"
+            ],
+            [
+                "6th",
+                "+3",
+                "otherworldli patron featur",
+                "3",
+                "7",
+                "2",
+                "3rd",
+                "3"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "3",
+                "8",
+                "2",
+                "4th",
+                "4"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv, eldritch versatil( option)",
+                "3",
+                "9",
+                "2",
+                "4th",
+                "4"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "3",
+                "10",
+                "2",
+                "5th",
+                "5"
+            ],
+            [
+                "10th",
+                "+4",
+                "otherworldli patron featur",
+                "4",
+                "10",
+                "2",
+                "5th",
+                "5"
+            ],
+            [
+                "11th",
+                "+4",
+                "mystic arcanum( 6th level)",
+                "4",
+                "11",
+                "3",
+                "5th",
+                "5"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, eldritch versatil( option)",
+                "4",
+                "11",
+                "3",
+                "5th",
+                "6"
+            ],
+            [
+                "13th",
+                "+5",
+                "mystic arcanum( 7th level)",
+                "4",
+                "12",
+                "3",
+                "5th",
+                "6"
+            ],
+            [
+                "14th",
+                "+5",
+                "otherworldli patron featur",
+                "4",
+                "12",
+                "3",
+                "5th",
+                "6"
+            ],
+            [
+                "15th",
+                "+5",
+                "mystic arcanum( 8th level)",
+                "4",
+                "13",
+                "3",
+                "5th",
+                "7"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, eldritch versatil( option)",
+                "4",
+                "13",
+                "3",
+                "5th",
+                "7"
+            ],
+            [
+                "17th",
+                "+6",
+                "mystic arcanum( 9th level)",
+                "4",
+                "14",
+                "4",
+                "5th",
+                "7"
+            ],
+            [
+                "18th",
+                "+6",
+                "",
+                "4",
+                "14",
+                "4",
+                "5th",
+                "8"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, eldritch versatil( option)",
+                "4",
+                "15",
+                "4",
+                "5th",
+                "8"
+            ],
+            [
+                "20th",
+                "+6",
+                "eldritch master",
+                "4",
+                "15",
+                "4",
+                "5th",
+                "8"
+            ]
+        ],
+        [
+            "class featur",
+            "as a warlock, you gain the follow class featur.",
+            "hit dice: 1d8 per warlock level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per warlock level after 1st",
+            "armor: light armor weapon: simpl weapon tool: none save throw: wisdom, charisma skill: choos two from arcana, decept, histori, intimid, investig, natur, and religion",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a light crossbow and 20 bolt or( b) ani simpl weapon",
+                "( a) a compon pouch or( b) an arcan focu",
+                "( a) a scholar 's pack or( b) a dungeon 's pack",
+                "leather armor, ani simpl weapon, and two dagger"
+            ]
+        ],
+        [
+            [
+                "patron",
+                "sourc"
+            ],
+            [
+                "archfey",
+                "player 's handbook"
+            ],
+            [
+                "celesti",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "fathomless",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "fiend",
+                "player 's handbook"
+            ],
+            [
+                "geni",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "great old one",
+                "player 's handbook"
+            ],
+            [
+                "hexblad",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "undead",
+                "van richten 's guid to ravenloft"
+            ],
+            [
+                "undi",
+                "sword coast adventur 's guid"
+            ]
+        ],
+        [
+            "otherworldli patron",
+            "at 1st level, you have struck a bargain with an otherworldli be of your choic. your choic grant you featur at 1st level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "pact magic",
+            "your arcan research and the magic bestow on you by your patron have given you facil with spell.",
+            "you know two cantrip of your choic from the warlock spell list. you learn addit warlock cantrip of your choic at higher level, as shown in the cantrip known column of the warlock tabl.",
+            "the warlock tabl show how mani spell slot you have to cast your warlock spell of 1st through 5th level. the tabl also show what the level of those slot is; all of your spell slot are the same level. to cast one of your warlock spell of 1st level or higher, you must expend a spell slot. you regain all expend spell slot when you finish a short or long rest.",
+            "for exampl, when you are 5th level, you have two 3rd-level spell slot. to cast the 1st-level spell witch bolt, you must spend one of those slot, and you cast it as a 3rd-level spell.",
+            "at 1st level, you know two 1st-level spell of your choic from the warlock spell list.",
+            "the spell known column of the warlock tabl show when you learn more warlock spell of your choic of 1st level or higher. a spell you choos must be of a level no higher than what 's shown in the tabl 's slot level column for your level. when you reach 6th level, for exampl, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.",
+            "addit, when you gain a level in thi class, you can choos one of the warlock spell you know and replac it with anoth spell from the warlock spell list, which also must be of a level for which you have spell slot.",
+            "charisma is your spellcast abil for your warlock spell, so you use your charisma whenev a spell refer to your spellcast abil. in addit, you use your charisma modifi when set the save throw dc for a warlock spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your charisma modifi",
+            "spell attack modifi= your profici bonu+ your charisma modifi",
+            "you can use an arcan focu as a spellcast focu for your warlock spell."
+        ],
+        [
+            "eldritch invoc",
+            "in your studi of occult lore, you have unearth eldritch invoc, fragment of forbidden knowledg that imbu you with an abid magic abil.",
+            "at 2nd level, you gain two eldritch invoc of your choic. when you gain certain warlock level, you gain addit invoc of your choic, as shown in the invoc known column of the warlock tabl. a level prerequisit refer to your level in thi class.",
+            "addit, when you gain a level in thi class, you can choos one of the invoc you know and replac it with anoth invoc that you could learn at that level."
+        ],
+        [
+            "pact boon",
+            "at 3rd level, your otherworldli patron bestow a gift upon you for your loyal servic. you gain one of the follow featur of your choic.",
+            [
+                "pact of the blade you can use your action to creat a pact weapon in your empti hand. you can choos the form that thi mele weapon take each time you creat it. you are profici with it while you wield it. thi weapon count as magic for the purpos of overcom resist and immun to nonmag attack and damag. your pact weapon disappear if it is more than 5 feet away from you for 1 minut or more. it also disappear if you use thi featur again, if you dismiss the weapon( no action requir), or if you die. you can transform one magic weapon into your pact weapon by perform a special ritual while you hold the weapon. you perform the ritual over the cours of 1 hour, which can be done dure a short rest. you can then dismiss the weapon, shunt it into an extradimension space, and it appear whenev you creat your pact weapon thereaft. you ca n't affect an artifact or a sentient weapon in thi way. the weapon ceas be your pact weapon if you die, if you perform the 1-hour ritual on a differ weapon, or if you use a 1-hour ritual to break your bond to it. the weapon appear at your feet if it is in the extradimension space when the bond break."
+            ],
+            [
+                "you can use your action to creat a pact weapon in your empti hand. you can choos the form that thi mele weapon take each time you creat it. you are profici with it while you wield it. thi weapon count as magic for the purpos of overcom resist and immun to nonmag attack and damag.",
+                "your pact weapon disappear if it is more than 5 feet away from you for 1 minut or more. it also disappear if you use thi featur again, if you dismiss the weapon( no action requir), or if you die.",
+                "you can transform one magic weapon into your pact weapon by perform a special ritual while you hold the weapon. you perform the ritual over the cours of 1 hour, which can be done dure a short rest.",
+                "you can then dismiss the weapon, shunt it into an extradimension space, and it appear whenev you creat your pact weapon thereaft. you ca n't affect an artifact or a sentient weapon in thi way. the weapon ceas be your pact weapon if you die, if you perform the 1-hour ritual on a differ weapon, or if you use a 1-hour ritual to break your bond to it. the weapon appear at your feet if it is in the extradimension space when the bond break."
+            ],
+            [
+                "pact of the chain you learn the find familiar spell and can cast it as a ritual. the spell doe n't count against your number of spell known. when you cast the spell, you can choos one of the normal form for your familiar or one of the follow special form: imp, pseudodragon, quasit, or sprite. addit, when you take the attack action, you can forgo one of your own attack to allow your familiar to make one attack with it reaction."
+            ],
+            [
+                "you learn the find familiar spell and can cast it as a ritual. the spell doe n't count against your number of spell known.",
+                "when you cast the spell, you can choos one of the normal form for your familiar or one of the follow special form: imp, pseudodragon, quasit, or sprite.",
+                "addit, when you take the attack action, you can forgo one of your own attack to allow your familiar to make one attack with it reaction."
+            ],
+            [
+                "pact of the tome your patron give you a grimoir call a book of shadow. when you gain thi featur, choos three cantrip from ani class 's spell list( the three need n't be from the same list). while the book is on your person, you can cast those cantrip at will. they do n't count against your number of cantrip known. if they do n't appear on the warlock spell list, they are nonetheless warlock spell for you. if you lose your book of shadow, you can perform a 1-hour ceremoni to receiv a replac from your patron. thi ceremoni can be perform dure a short or long rest, and it destroy the previou book. the book turn to ash when you die."
+            ],
+            [
+                "your patron give you a grimoir call a book of shadow. when you gain thi featur, choos three cantrip from ani class 's spell list( the three need n't be from the same list). while the book is on your person, you can cast those cantrip at will. they do n't count against your number of cantrip known. if they do n't appear on the warlock spell list, they are nonetheless warlock spell for you.",
+                "if you lose your book of shadow, you can perform a 1-hour ceremoni to receiv a replac from your patron. thi ceremoni can be perform dure a short or long rest, and it destroy the previou book. the book turn to ash when you die."
+            ],
+            [
+                "pact of the talisman your patron give you an amulet, a talisman that can aid the wearer when the need is great. when the wearer fail an abil check, they can add a d4 to the roll, potenti turn the roll into a success. thi benefit can be use a number of time equal to your profici bonu, and all expend use are restor when you finish a long rest. if you lose the talisman, you can perform a 1-hour ceremoni to receiv a replac from your patron. thi ceremoni can be perform dure a short or long rest, and it destroy the previou amulet. the talisman turn to ash when you die."
+            ],
+            [
+                "your patron give you an amulet, a talisman that can aid the wearer when the need is great. when the wearer fail an abil check, they can add a d4 to the roll, potenti turn the roll into a success. thi benefit can be use a number of time equal to your profici bonu, and all expend use are restor when you finish a long rest.",
+                "if you lose the talisman, you can perform a 1-hour ceremoni to receiv a replac from your patron. thi ceremoni can be perform dure a short or long rest, and it destroy the previou amulet. the talisman turn to ash when you die."
+            ],
+            [
+                "pact of the star chain( ua) prerequisit: seeker patron the seeker grant you a chain forg from starlight, decor with seven gleam mote of bright. while the chain is on your person, you know the auguri spell and can cast it as a ritual. the spell doe n't count against your number of spell known. addit, you can invok the seeker 's power to gain advantag on an intellig check while you carri thi item. onc you use thi abil, you can not use it again until you complet a short or long rest. if you lose your star chain, you can perform a 1-hour ceremoni to receiv a replac from the seeker. the ceremoni can be perform dure a short or long rest, and it destroy the previou chain. the chain disappear in a flash of light when you die. the exact form of thi item might be differ depend on your patron. the star chain is inspir by the greyhawk deiti celestian."
+            ],
+            [
+                "prerequisit: seeker patron",
+                "the seeker grant you a chain forg from starlight, decor with seven gleam mote of bright. while the chain is on your person, you know the auguri spell and can cast it as a ritual. the spell doe n't count against your number of spell known.",
+                "addit, you can invok the seeker 's power to gain advantag on an intellig check while you carri thi item. onc you use thi abil, you can not use it again until you complet a short or long rest.",
+                "if you lose your star chain, you can perform a 1-hour ceremoni to receiv a replac from the seeker. the ceremoni can be perform dure a short or long rest, and it destroy the previou chain. the chain disappear in a flash of light when you die.",
+                "the exact form of thi item might be differ depend on your patron. the star chain is inspir by the greyhawk deiti celestian."
+            ]
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "eldritch versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can do one of the follow, repres a chang of focu in your occult studi:",
+            [
+                "replac one cantrip you learn from thi class 's pact magic featur with anoth cantrip from the warlock spell list."
+            ],
+            [
+                "replac the option you chose for the pact boon featur with one of that featur 's other option."
+            ],
+            [
+                "if you 're 12th level or higher, replac one spell from your mystic arcanum featur with anoth warlock spell of the same level."
+            ],
+            "if thi chang make you inelig for ani of your eldritch invoc, you must also replac them now, choos invoc for which you qualifi."
+        ],
+        [
+            "mystic arcanum",
+            "at 11th level, your patron bestow upon you a magic secret call an arcanum. choos one 6th-level spell from the warlock spell list as thi arcanum.",
+            "you can cast your arcanum spell onc without expend a spell slot. you must finish a long rest befor you can do so again.",
+            "at higher level, you gain more warlock spell of your choic that can be cast in thi way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. you regain all use of your mystic arcanum when you finish a long rest."
+        ]
+    ],
+    []
+]

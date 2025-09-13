@@ -1,0 +1,442 @@
+[
+    [
+        [
+            [
+                "The Wizard",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "Cantrips Known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "Spellcasting, Arcane Recovery",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Arcane Tradition",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Cantrip Formulas( Optional)",
+                "3",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement",
+                "4",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "Arcane Tradition feature",
+                "4",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "Arcane Tradition feature",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "Arcane Tradition feature",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "Spell Mastery",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "Signature Spells",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a wizard, you gain the follow class feature.",
+            "Hit Dice: 1d6 per wizard level Hit Points at 1st Level: 6+ your Constitution modifier Hit Points at Higher Levels: 1d6( or 4)+ your Constitution modifier per wizard level after 1st",
+            "Armor: None Weapons: Daggers, dart, sling, quarterstaff, light crossbow Tools: None Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a quarterstaff or( b) a dagger",
+                "( a) a component pouch or( b) an arcane focus",
+                "( a) a scholar 's pack or( b) an explorer 's pack",
+                "A spellbook"
+            ]
+        ],
+        [
+            "Spellcasting",
+            "As a student of arcane magic, you have a spellbook contain spell that show the first glimmering of your true power.",
+            "At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at high level, a show in the Cantrips Known column of the Wizard table.",
+            "At 1st level, you have a spellbook contain six 1st-level wizard spell of your choice. Your spellbook be the repository of the wizard spell you know, except your cantrips, which be fix in your mind.",
+            "The spell that you add to your spellbook a you gain level reflect the arcane research you conduct on your own, a well a intellectual breakthrough you have have about the nature of the multiverse. You might find other spell during your adventure. You could discover a spell record on a scroll in an evil wizard 's chest, for example, or in a dusty tome in an ancient library.",
+            "Copying a Spell into the Book. When you find a wizard spell of 1st level or high, you can add it to your spellbook if it be of a spell level you can prepare and if you can spare the time to decipher and copy it.",
+            "Copying a spell into your spellbook involves reproduce the basic form of the spell, then decipher the unique system of notation use by the wizard who write it. You must practice the spell until you understand the sound or gesture require, then transcribe it into your spellbook use your own notation.",
+            "For each level of the spell, the process take 2 hour and cost 50 gp. The cost represent material component you expend a you experiment with the spell to master it, a well a the fine ink you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spell.",
+            "Replacing the Book. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This be just like copying a new spell into your spellbook, but faster and easy, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copy spell.",
+            "If you lose your spellbook, you can use the same procedure to transcribe the spell that you have prepared into a new spellbook. Filling out the remainder of your spellbook require you to find new spell to do so, a normal. For this reason, many wizard keep backup spellbooks in a safe place.",
+            "The Book 's Appearance. Your spellbook be a unique compilation of spell, with it own decorative flourish and margin note. It might be a plain, functional leather volume that you receive a a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of note scrounge together after you lose your previous spellbook in a mishap.",
+            "The Wizard table show how many spell slot you have to cast your wizard spell of 1st level and high. To cast one of these spell, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest.",
+            "You prepare the list of wizard spell that be available for you to cast. To do so, choose a number of wizard spell from your spellbook equal to your Intelligence modifier+ your wizard level( minimum of one spell). The spell must be of a level for which you have spell slot.",
+            "For example, if you 're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slot. With an Intelligence of 16, your list of prepared spell can include six spell of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it use a 1st-level or a 2nd-level slot. Casting the spell do n't remove it from your list of prepared spell.",
+            "You can change your list of prepared spell when you finish a long rest. Preparing a new list of wizard spell require time spent study your spellbook and memorize the incantation and gesture you must make to cast the spell: at least 1 minute per spell level for each spell on your list.",
+            "Intelligence be your spellcasting ability for your wizard spell, since you learn your spell through dedicate study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when set the save throw DC for a wizard spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Intelligence modifier",
+            "Spell attack modifier= your proficiency bonus+ your Intelligence modifier",
+            "You can cast a wizard spell a a ritual if that spell have the ritual tag and you have the spell in your spellbook. You do n't need to have the spell prepared.",
+            "You can use an arcane focus a a spellcasting focus for your wizard spell.",
+            "Each time you gain a wizard level, you can add two wizard spell of your choice to your spellbook. Each of these spell must be of a level for which you have spell slot, a show on the Wizard table. On your adventure, you might find other spell that you can add to your spellbook."
+        ],
+        [
+            "Arcane Recovery",
+            "You have learn to regain some of your magical energy by study your spellbook. Once per day when you finish a short rest, you can choose expend spell slot to recover. The spell slot can have a combine level that be equal to or less than half your wizard level( round up), and none of the slot can be 6th level or high.",
+            "For example, if you 're a 4th-level wizard, you can recover up to two level worth of spell slot. You can recover either a 2nd-level spell slot or two 1st-level spell slot."
+        ],
+        [
+            [
+                "School",
+                "Source"
+            ],
+            [
+                "Abjuration",
+                "Player 's Handbook"
+            ],
+            [
+                "Bladesinging",
+                "Sword Coast Adventurer 's Guide Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Chronurgy",
+                "Explorer 's Guide to Wildemount"
+            ],
+            [
+                "Conjuration",
+                "Player 's Handbook"
+            ],
+            [
+                "Divination",
+                "Player 's Handbook"
+            ],
+            [
+                "Enchantment",
+                "Player 's Handbook"
+            ],
+            [
+                "Evocation",
+                "Player 's Handbook"
+            ],
+            [
+                "Graviturgy",
+                "Explorer 's Guide to Wildemount"
+            ],
+            [
+                "Illusion",
+                "Player 's Handbook"
+            ],
+            [
+                "Necromancy",
+                "Player 's Handbook"
+            ],
+            [
+                "Order of Scribes",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Transmutation",
+                "Player 's Handbook"
+            ],
+            [
+                "War Magic",
+                "Xanathar 's Guide to Everything"
+            ]
+        ],
+        [
+            "Arcane Tradition",
+            "When you reach 2nd level, you choose an arcane tradition, shape your practice of magic through one of the follow school. Your choice grant you feature at 2nd level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "Cantrip Formulas( Optional)",
+            "At 3rd level, you have scribed a set of arcane formula in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formula in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Spell Mastery",
+            "At 18th level, you have achieve such mastery over certain spell that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that be in your spellbook. You can cast those spell at their low level without expend a spell slot when you have them prepared. If you want to cast either spell at a high level, you must expend a spell slot a normal.",
+            "By spending 8 hour in study, you can exchange one or both of the spell you chose for different spell of the same level."
+        ]
+    ],
+    []
+]

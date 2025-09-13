@@ -45,10 +45,10 @@ def lemmatize_recursive(data):
 def lemmatize_dnd_data_structured(data_type, item_name):
     if data_type == "classe":
         input_path = f"JsonSoup/JsonClasses/{item_name}.json"
-        output_dir = "JsonSoup/JsonClasses"
+        output_dir = "JsonSoup/JsonClasses/lemmma"
     elif data_type == "raca":
         input_path = f"JsonSoup/{item_name}.json"
-        output_dir = "JsonSoup"
+        output_dir = "JsonSoup/JsonRacas/lemma"
     else:
         print("Invalid data_type specified. Use 'classe' or 'raca'.")
         return

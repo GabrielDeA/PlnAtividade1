@@ -1,0 +1,545 @@
+[
+    [
+        [
+            [
+                "the sorcer",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "sorceri point",
+                "featur",
+                "cantrip known",
+                "spell known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "-",
+                "spellcast, sorcer origin",
+                "4",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "2",
+                "font of magic",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "3",
+                "metamag",
+                "4",
+                "4",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "4",
+                "abil score improv, sorcer versatil( option)",
+                "5",
+                "5",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "5",
+                "magic guidanc( option)",
+                "5",
+                "6",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "6",
+                "sorcer origin featur",
+                "5",
+                "7",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "7",
+                "",
+                "5",
+                "8",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "8",
+                "abil score improv, sorcer versatil( option)",
+                "5",
+                "9",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "9",
+                "",
+                "5",
+                "10",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "10",
+                "metamag",
+                "6",
+                "11",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "11",
+                "",
+                "6",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "12",
+                "abil score improv, sorcer versatil( option)",
+                "6",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "13",
+                "",
+                "6",
+                "13",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "14",
+                "sorcer origin featur",
+                "6",
+                "13",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "15",
+                "",
+                "6",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "16",
+                "abil score improv, sorcer versatil( option)",
+                "6",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "17",
+                "metamag",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "18",
+                "sorcer origin featur",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "19",
+                "abil score improv, sorcer versatil( option)",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "20",
+                "sorcer restor",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "class featur",
+            "as a sorcer, you gain the follow class featur.",
+            "hit dice: 1d6 per sorcer level hit point at 1st level: 6+ your constitut modifi hit point at higher level: 1d6( or 4)+ your constitut modifi per sorcer level after 1st",
+            "armor: none weapon: dagger, dart, sling, quarterstaff, light crossbow tool: none save throw: constitut, charisma skill: choos two from arcana, decept, insight, intimid, persuas, and religion",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a light crossbow and 20 bolt or( b) ani simpl weapon",
+                "( a) a compon pouch or( b) an arcan focu",
+                "( a) a dungeon 's pack or( b) an explor 's pack",
+                "two dagger"
+            ]
+        ],
+        [
+            "spellcast",
+            "an event in your past, or in the life of a parent or ancestor, left an indel mark on you, infus you with arcan magic. thi font of magic, whatev it origin, fuel your spell.",
+            "at 1st level, you know four cantrip of your choic from the sorcer spell list. you learn addit sorcer cantrip of your choic at higher level, as shown in the cantrip known column of the sorcer tabl.",
+            "the sorcer tabl show how mani spell slot you have to cast your sorcer spell of 1st level and higher. to cast one of these sorcer spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "for exampl, if you know the 1st-level spell burn hand and have a 1st-level and a 2nd-level spell slot avail, you can cast burn hand use either slot.",
+            "you know two 1st-level spell of your choic from the sorcer spell list.",
+            "the spell known column of the sorcer tabl show when you learn more sorcer spell of your choic. each of these spell must be of a level for which you have spell slot. for instanc, when you reach 3rd level in thi class, you can learn one new spell of 1st or 2nd level.",
+            "addit, when you gain a level in thi class, you can choos one of the sorcer spell you know and replac it with anoth spell from the sorcer spell list, which also must be of a level for which you have spell slot.",
+            "charisma is your spellcast abil for your sorcer spell, sinc the power of your magic reli on your abil to project your will into the world. you use your charisma whenev a spell refer to your spellcast abil. in addit, you use your charisma modifi when set the save throw dc for a sorcer spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your charisma modifi",
+            "spell attack modifi= your profici bonu+ your charisma modifi",
+            "you can use an arcan focu as a spellcast focu for your sorcer spell."
+        ],
+        [
+            [
+                "origin",
+                "sourc"
+            ],
+            [
+                "aberr mind",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "clockwork soul",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "dracon bloodlin",
+                "player 's handbook"
+            ],
+            [
+                "divin soul",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "lunar sorceri",
+                "dragonl: shadow of the dragon queen"
+            ],
+            [
+                "shadow magic",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "storm sorceri",
+                "sword coast adventur 's guid xanathar 's guid to everyth"
+            ],
+            [
+                "wild magic",
+                "player 's handbook"
+            ]
+        ],
+        [
+            "sorcer origin",
+            "choos a sorcer origin, which describ the sourc of your innat magic power. your choic grant you featur when you choos it at 1st level and again at 6th, 14th, and 18th level."
+        ],
+        [
+            [
+                "creat spell slot"
+            ],
+            [
+                "spell slot level",
+                "sorceri point cost"
+            ],
+            [
+                "1st",
+                "2"
+            ],
+            [
+                "2nd",
+                "3"
+            ],
+            [
+                "3rd",
+                "5"
+            ],
+            [
+                "4th",
+                "6"
+            ],
+            [
+                "5th",
+                "7"
+            ]
+        ],
+        [
+            "font of magic",
+            "at 2nd level, you tap into a deep wellspr of magic within yourself. thi wellspr is repres by sorceri point, which allow you to creat a varieti of magic effect.",
+            [
+                "sorceri point. you have 2 sorceri point, and you gain more as you reach higher level, as shown in the sorceri point column of the sorcer tabl. you can never have more sorceri point than shown on the tabl for your level. you regain all spent sorceri point when you finish a long rest."
+            ],
+            [
+                "flexibl cast. you can use your sorceri point to gain addit spell slot, or sacrific spell slot to gain addit sorceri point. you learn other way to use your sorceri point as you reach higher level. creat spell slot. you can transform unexpend sorceri point into one spell slot as a bonu action on your turn. the creat spell slot tabl show the cost of creat a spell slot of a given level. you can creat spell slot no higher in level than 5th. ani spell slot you creat with thi featur vanish when you finish a long rest. convert a spell slot to sorceri point. as a bonu action on your turn, you can expend one spell slot and gain a number of sorceri point equal to the slot 's level."
+            ],
+            [
+                "creat spell slot. you can transform unexpend sorceri point into one spell slot as a bonu action on your turn. the creat spell slot tabl show the cost of creat a spell slot of a given level. you can creat spell slot no higher in level than 5th. ani spell slot you creat with thi featur vanish when you finish a long rest.",
+                "convert a spell slot to sorceri point. as a bonu action on your turn, you can expend one spell slot and gain a number of sorceri point equal to the slot 's level."
+            ]
+        ],
+        [
+            "metamag",
+            "at 3rd level, you gain the abil to twist your spell to suit your need. you gain two of the follow metamag option of your choic. you gain anoth one at 10th and 17th level.",
+            "you can use onli one metamag option on a spell when you cast it, unless otherwis note.",
+            [
+                "care spell. when you cast a spell that forc other creatur to make a save throw, you can protect some of those creatur from the spell 's full forc. to do so, you spend 1 sorceri point and choos a number of those creatur up to your charisma modifi( minimum of one creatur). a chosen creatur automat succe on it save throw against the spell."
+            ],
+            [
+                "distant spell. when you cast a spell that ha a rang of 5 feet or greater, you can spend 1 sorceri point to doubl the rang of the spell. when you cast a spell that ha a rang of touch, you can spend 1 sorceri point to make the rang of the spell 30 feet."
+            ],
+            [
+                "when you cast a spell that ha a rang of touch, you can spend 1 sorceri point to make the rang of the spell 30 feet."
+            ],
+            [
+                "empow spell. when you roll damag for a spell, you can spend 1 sorceri point to rerol a number of the damag dice up to your charisma modifi( minimum of one). you must use the new roll. you can use empow spell even if you have alreadi use a differ metamag option dure the cast of the spell."
+            ],
+            [
+                "you can use empow spell even if you have alreadi use a differ metamag option dure the cast of the spell."
+            ],
+            [
+                "extend spell. when you cast a spell that ha a durat of 1 minut or longer, you can spend 1 sorceri point to doubl it durat, to a maximum durat of 24 hour."
+            ],
+            [
+                "heighten spell. when you cast a spell that forc a creatur to make a save throw to resist it effect, you can spend 3 sorceri point to give one target of the spell disadvantag on it first save throw made against the spell."
+            ],
+            [
+                "quicken spell. when you cast a spell that ha a cast time of 1 action, you can spend 2 sorceri point to chang the cast time to 1 bonu action for thi cast."
+            ],
+            [
+                "seek spell. if you make an attack roll for a spell and miss, you can spend 2 sorceri point to rerol the d20, and you must use the new roll. you can use seek spell even if you have alreadi use a differ metamag option dure the cast of the spell."
+            ],
+            [
+                "you can use seek spell even if you have alreadi use a differ metamag option dure the cast of the spell."
+            ],
+            [
+                "seek spell( ua). when you cast a spell that requir you to make a spell attack roll or that forc a target to make a dexter save throw, you can spend 1 sorceri point to ignor the effect of half- and three-quart cover against target of the spell."
+            ],
+            [
+                "subtl spell. when you cast a spell, you can spend 1 sorceri point to cast it without ani somat or verbal compon."
+            ],
+            [
+                "transmut spell. when you cast a spell that deal a type of damag from the follow list, you can spend 1 sorceri point to chang that damag type to one of the other list type: acid, cold, fire, lightn, poison, thunder."
+            ],
+            [
+                "twin spell. when you cast a spell that target onli one creatur and doe n't have a rang of self, you can spend a number of sorceri point equal to the spell 's level to target a second creatur in rang with the same spell( 1 sorceri point if the spell is a cantrip). to be elig, a spell must be incap of target more than one creatur at the spell 's current level. for exampl, magic missil and scorch ray are n't elig, but ray of frost and chromat orb are."
+            ]
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "sorcer versatil( option)",
+            "when you reach a level in thi class that grant the abil score improv featur, you can do one of the follow, repres the magic within you flow in new way:",
+            [
+                "replac one of the option you chose for the metamag featur with a differ metamag option avail to you."
+            ],
+            [
+                "replac one cantrip you learn from thi class' spellcast featur with anoth cantrip from the sorcer spell list."
+            ]
+        ],
+        [
+            "magic guidanc( option)",
+            "when you reach 5th level, you can tap into your inner wellspr of magic to tri and conjur success from failur. when you make an abil check that fail, you can spend 1 sorceri point to rerol the d20, and you must use the new roll, potenti turn the failur into a success."
+        ]
+    ],
+    []
+]

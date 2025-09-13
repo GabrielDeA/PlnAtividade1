@@ -1,0 +1,393 @@
+[
+    [
+        [
+            [
+                "The Paladin",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th"
+            ],
+            [
+                "1st",
+                "+2",
+                "Divine Sense, Lay on Hands",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Fighting Style, Spellcasting, Divine Smite",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Divine Health, Sacred Oath, Harness Divine Power( Optional)",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement, Martial Versatility( Optional)",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "Extra Attack",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "Aura of Protection",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "Sacred Oath feature",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement, Martial Versatility( Optional)",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "Aura of Courage",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "Improved Divine Smite",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement, Martial Versatility( Optional)",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "Cleansing Touch",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "Sacred Oath feature",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement, Martial Versatility( Optional)",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "Aura improvement",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement, Martial Versatility( Optional)",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ],
+            [
+                "20th",
+                "+6",
+                "Sacred Oath feature",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a paladin, you gain the follow class feature.",
+            "Hit Dice: 1d10 per paladin level Hit Points at 1st Level: 10+ your Constitution modifier Hit Points at Higher Levels: 1d10( or 6)+ your Constitution modifier per paladin level after 1st",
+            "Armor: All armor, shield Weapons: Simple weapon, martial weapon Tools: None Saving Throws: Wisdom, Charisma Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a martial weapon and a shield or( b) two martial weapon",
+                "( a) five javelin or( b) any simple melee weapon",
+                "( a) a priest 's pack or( b) an explorer 's pack",
+                "Chain mail and a holy symbol"
+            ]
+        ],
+        [
+            "Divine Sense",
+            "The presence of strong evil register on your sens like a noxious odor, and powerful good ring like heavenly music in your ear. As an action, you can open your awareness to detect such force. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 foot of you that be not behind total cover. You know the type( celestial, fiend, or undead) of any be whose presence you sense, but not it identity( the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that have be consecrate or desecrate, a with the Hallow spell.",
+            "You can use this feature a number of time equal to 1+ your Charisma modifier. When you finish a long rest, you regain all expend us."
+        ],
+        [
+            "Lay on Hands",
+            "Your bless touch can heal wound. You have a pool of heal power that replenishes when you take a long rest. With that pool, you can restore a total number of hit point equal to your paladin level x 5.",
+            "As an action, you can touch a creature and draw power from the pool to restore a number of hit point to that creature, up to the maximum amount remain in your pool.",
+            "Alternatively, you can expend 5 hit point from your pool of heal to cure the target of one disease or neutralize one poison affect it. You can cure multiple disease and neutralize multiple poison with a single use of Lay on Hands, expend hit point separately for each one.",
+            "This feature have no effect on undead and construct."
+        ],
+        [
+            "Fighting Style",
+            "Starting at 2nd level, you adopt a particular style of fight a your specialty. Choose one of the follow option. You ca n't take a Fighting Style option more than once, even if you later get to choose again.",
+            [
+                "Blessed Warrior. You learn two cantrips of your choice from the cleric spell list. They count a paladin spell for you, and Charisma be your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list."
+            ],
+            [
+                "Blind Fighting. You have blindsight with a range of 10 foot. Within that range, you can effectively see anything that be n't behind total cover, even if you 're blind or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hide from you."
+            ],
+            [
+                "Defense. While you be wear armor, you gain a +1 bonus to AC."
+            ],
+            [
+                "Dueling. When you be wield a melee weapon in one hand and no other weapon, you gain a +2 bonus to damage roll with that weapon."
+            ],
+            [
+                "Great Weapon Fighting. When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you be wield with two hand, you can reroll the die and must use the new roll, even if the new roll be a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."
+            ],
+            [
+                "Interception. When a creature you can see hit a target, other than you, within 5 foot of you with an attack, you can use your reaction to reduce the damage the target take by 1d10+ your proficiency bonus( to a minimum of 0 damage). You must be wield a shield or a simple or martial weapon to use this reaction."
+            ],
+            [
+                "Protection. When a creature you can see attack a target other than you that be within 5 foot of you, you can use your reaction to impose disadvantage on the attack roll. You must be wield a shield."
+            ],
+            [
+                "Close Quarters Shooter( UA). When make a range attack while you be within 5 foot of a hostile creature, you do not have disadvantage on the attack roll. Your range attack ignore half cover and three-quarters cover against target within 30 foot of you. You have a +1 bonus to attack roll on range attack."
+            ],
+            [
+                "Mariner( UA). As long a you be not wear heavy armor or use a shield, you have a swim speed and a climb speed equal to your normal speed, and you gain a +1 bonus to armor class."
+            ],
+            [
+                "Thrown Weapon Fighting( UA). You can draw a weapon that have the thrown property a part of the attack you make with the weapon. In addition, when you hit with a range attack use a thrown weapon, you gain a +1 bonus to the damage roll."
+            ],
+            [
+                "In addition, when you hit with a range attack use a thrown weapon, you gain a +1 bonus to the damage roll."
+            ],
+            [
+                "Tunnel Fighter( UA). As a bonus action, you can enter a defensive stance that last until the start of your next turn. While in your defensive stance, you can make opportunity attack without use your reaction, and you can use your reaction to make a melee attack against a creature that move more than 5 foot while within your reach."
+            ],
+            [
+                "Unarmed Fighting( UA). Your unarmed strike can deal bludgeoning damage equal to 1d6+ your Strength modifier. If you strike with two free hand, the d6 becomes a d8. When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grapple creature. Until the grapple end, you can also deal this damage to the creature whenever you hit it with a melee attack."
+            ],
+            [
+                "When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grapple creature. Until the grapple end, you can also deal this damage to the creature whenever you hit it with a melee attack."
+            ]
+        ],
+        [
+            "Spellcasting",
+            "By 2nd level, you have learn to draw on divine magic through meditation and prayer to cast spell a a cleric do.",
+            "The Paladin table show how many spell slot you have to cast your paladin spell. To cast one of your paladin spell of 1st level or high, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest.",
+            "You prepare the list of paladin spell that be available for you to cast, choose from the paladin spell list. When you do so, choose a number of paladin spell equal to your Charisma modifier+ half your paladin level, round down( minimum of one spell). The spell must be of a level for which you have spell slot.",
+            "For example, if you be a 5th-level paladin, you have four 1st-level and two 2nd-level spell slot. With a Charisma of 14, your list of prepared spell can include four spell of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it use a 1st-level or a 2nd-level slot. Casting the spell do n't remove it from your list of prepared spell.",
+            "You can change your list of prepared spell when you finish a long rest. Preparing a new list of paladin spell require time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.",
+            "Charisma be your spellcasting ability for your paladin spell, since their power derives from the strength of your conviction. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when set the save throw DC for a paladin spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Charisma modifier",
+            "Spell attack modifier= your proficiency bonus+ your Charisma modifier",
+            "You can use a holy symbol a a spellcasting focus for your paladin spell."
+        ],
+        [
+            "Divine Smite",
+            "Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon 's damage. The extra damage be 2d8 for a 1st-level spell slot, plus 1d8 for each spell level high than 1st, to a maximum of 5d8. The damage increase by 1d8 if the target be an undead or a fiend, to a maximum of 6d8."
+        ],
+        [
+            "Divine Health",
+            "By 3rd level, the divine magic flow through you make you immune to disease."
+        ],
+        [
+            [
+                "Oath",
+                "Source"
+            ],
+            [
+                "Ancients",
+                "Player 's Handbook"
+            ],
+            [
+                "Conquest",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Crown",
+                "Sword Coast Adventurer 's Guide"
+            ],
+            [
+                "Devotion",
+                "Player 's Handbook"
+            ],
+            [
+                "Glory",
+                "Mythic Odysseys of Theros Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Redemption",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Vengeance",
+                "Player 's Handbook"
+            ],
+            [
+                "Watchers",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Oathbreaker",
+                "Dungeon Master \u2019 s Guide"
+            ]
+        ],
+        [
+            "Sacred Oath",
+            "When you reach 3rd level, you swear the oath that bind you a a paladin forever. Up to this time you have be in a preparatory stage, commit to the path but not yet sworn to it. Your choice grant you feature at 3rd level and again at 7th, 15th, and 20th level. Those feature include oath spell and the Channel Divinity feature.",
+            "Each oath have a list of associate spell. You gain access to these spell at the level specify in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spell do n't count against the number of spell you can prepare each day.",
+            "If you gain an oath spell that do n't appear on the paladin spell list, the spell be nonetheless a paladin spell for you.",
+            "Your oath allows you to channel divine energy to fuel magical effect. Each Channel Divinity option provide by your oath explains how to use it.",
+            "When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.",
+            "Some Channel Divinity effect require save throw. When you use such an effect from this class, the DC equal your paladin spell save DC."
+        ],
+        [
+            "Harness Divine Power( Optional)",
+            "Also at 3rd level, you can expend a use of your Channel Divinity to fuel your spell. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expend spell slot, the level of which can be no high than half your proficiency bonus( round up). The number of time you can use this feature be base on the level you 've reach in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expend us when you finish a long rest."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Martial Versatility( Optional)",
+            "Whenever you reach a level in this class that grant the Ability Score Improvement feature, you can replace a fight style you know with another fight style available to paladin. This replacement represent a shift of focus in your martial practice."
+        ],
+        [
+            "Extra Attack",
+            "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        ],
+        [
+            "Aura of Protection",
+            "Starting at 6th level, whenever you or a friendly creature within 10 foot of you must make a save throw, the creature gain a bonus to the save throw equal to your Charisma modifier( with a minimum bonus of +1). You must be conscious to grant this bonus.",
+            "At 18th level, the range of this aura increase to 30 foot."
+        ],
+        [
+            "Aura of Courage",
+            "Starting at 10th level, you and friendly creature within 10 foot of you ca n't be frighten while you be conscious.",
+            "At 18th level, the range of this aura increase to 30 foot."
+        ],
+        [
+            "Improved Divine Smite",
+            "By 11th level, you be so suffuse with righteous might that all your melee weapon strike carry divine power with them. Whenever you hit a creature with a melee weapon, the creature take an extra 1d8 radiant damage."
+        ]
+    ],
+    []
+]

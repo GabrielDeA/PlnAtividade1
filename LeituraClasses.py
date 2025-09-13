@@ -62,7 +62,8 @@ def leituraClasse(classe):
                     while list_stack:
                         list_stack.pop()
 
-                    textoUtil.append(new_list)
+                    #textoUtil.append(new_list)
+                    arrayH3.append(new_list)
                     list_stack.append(new_list)
                 continue
 
@@ -102,7 +103,8 @@ def leituraClasse(classe):
             while list_stack:
                 list_stack.pop()
 
-            textoUtil.append(elemento.text.strip())
+            #textoUtil.append(elemento.text.strip())
+            arrayH3.append(elemento.text.strip())
 
     texto = [
         textoUtil,

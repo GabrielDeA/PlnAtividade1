@@ -1,0 +1,442 @@
+[
+    [
+        [
+            [
+                "the wizard",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "cantrip known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "spellcast, arcan recoveri",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "arcan tradit",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "cantrip formula( option)",
+                "3",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv",
+                "4",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "arcan tradit featur",
+                "4",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "arcan tradit featur",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "arcan tradit featur",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "spell masteri",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "signatur spell",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "class featur",
+            "as a wizard, you gain the follow class featur.",
+            "hit dice: 1d6 per wizard level hit point at 1st level: 6+ your constitut modifi hit point at higher level: 1d6( or 4)+ your constitut modifi per wizard level after 1st",
+            "armor: none weapon: dagger, dart, sling, quarterstaff, light crossbow tool: none save throw: intellig, wisdom skill: choos two from arcana, histori, insight, investig, medicin, and religion",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a quarterstaff or( b) a dagger",
+                "( a) a compon pouch or( b) an arcan focu",
+                "( a) a scholar 's pack or( b) an explor 's pack",
+                "a spellbook"
+            ]
+        ],
+        [
+            "spellcast",
+            "as a student of arcan magic, you have a spellbook contain spell that show the first glimmer of your true power.",
+            "at 1st level, you know three cantrip of your choic from the wizard spell list. you learn addit wizard cantrip of your choic at higher level, as shown in the cantrip known column of the wizard tabl.",
+            "at 1st level, you have a spellbook contain six 1st-level wizard spell of your choic. your spellbook is the repositori of the wizard spell you know, except your cantrip, which are fix in your mind.",
+            "the spell that you add to your spellbook as you gain level reflect the arcan research you conduct on your own, as well as intellectu breakthrough you have had about the natur of the multivers. you might find other spell dure your adventur. you could discov a spell record on a scroll in an evil wizard 's chest, for exampl, or in a dusti tome in an ancient librari.",
+            "copi a spell into the book. when you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepar and if you can spare the time to deciph and copi it.",
+            "copi a spell into your spellbook involv reproduc the basic form of the spell, then deciph the uniqu system of notat use by the wizard who wrote it. you must practic the spell until you understand the sound or gestur requir, then transcrib it into your spellbook use your own notat.",
+            "for each level of the spell, the process take 2 hour and cost 50 gp. the cost repres materi compon you expend as you experi with the spell to master it, as well as the fine ink you need to record it. onc you have spent thi time and money, you can prepar the spell just like your other spell.",
+            "replac the book. you can copi a spell from your own spellbook into anoth book-for exampl, if you want to make a backup copi of your spellbook. thi is just like copi a new spell into your spellbook, but faster and easier, sinc you understand your own notat and alreadi know how to cast the spell. you need spend onli 1 hour and 10 gp for each level of the copi spell.",
+            "if you lose your spellbook, you can use the same procedur to transcrib the spell that you have prepar into a new spellbook. fill out the remaind of your spellbook requir you to find new spell to do so, as normal. for thi reason, mani wizard keep backup spellbook in a safe place.",
+            "the book 's appear. your spellbook is a uniqu compil of spell, with it own decor flourish and margin note. it might be a plain, function leather volum that you receiv as a gift from your master, a fine bound gilt-edg tome you found in an ancient librari or even a loos collect of note scroung togeth after you lost your previou spellbook in a mishap.",
+            "the wizard tabl show how mani spell slot you have to cast your wizard spell of 1st level and higher. to cast one of these spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "you prepar the list of wizard spell that are avail for you to cast. to do so, choos a number of wizard spell from your spellbook equal to your intellig modifi+ your wizard level( minimum of one spell). the spell must be of a level for which you have spell slot.",
+            "for exampl, if you 're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slot. with an intellig of 16, your list of prepar spell can includ six spell of 1st or 2nd level, in ani combin, chosen from your spellbook. if you prepar the 1st-level spell magic missil, you can cast it use a 1st-level or a 2nd-level slot. cast the spell doe n't remov it from your list of prepar spell.",
+            "you can chang your list of prepar spell when you finish a long rest. prepar a new list of wizard spell requir time spent studi your spellbook and memor the incant and gestur you must make to cast the spell: at least 1 minut per spell level for each spell on your list.",
+            "intellig is your spellcast abil for your wizard spell, sinc you learn your spell through dedic studi and memor. you use your intellig whenev a spell refer to your spellcast abil. in addit, you use your intellig modifi when set the save throw dc for a wizard spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your intellig modifi",
+            "spell attack modifi= your profici bonu+ your intellig modifi",
+            "you can cast a wizard spell as a ritual if that spell ha the ritual tag and you have the spell in your spellbook. you do n't need to have the spell prepar.",
+            "you can use an arcan focu as a spellcast focu for your wizard spell.",
+            "each time you gain a wizard level, you can add two wizard spell of your choic to your spellbook. each of these spell must be of a level for which you have spell slot, as shown on the wizard tabl. on your adventur, you might find other spell that you can add to your spellbook."
+        ],
+        [
+            "arcan recoveri",
+            "you have learn to regain some of your magic energi by studi your spellbook. onc per day when you finish a short rest, you can choos expend spell slot to recov. the spell slot can have a combin level that is equal to or less than half your wizard level( round up), and none of the slot can be 6th level or higher.",
+            "for exampl, if you 're a 4th-level wizard, you can recov up to two level worth of spell slot. you can recov either a 2nd-level spell slot or two 1st-level spell slot."
+        ],
+        [
+            [
+                "school",
+                "sourc"
+            ],
+            [
+                "abjur",
+                "player 's handbook"
+            ],
+            [
+                "bladesing",
+                "sword coast adventur 's guid tasha 's cauldron of everyth"
+            ],
+            [
+                "chronurgi",
+                "explor 's guid to wildemount"
+            ],
+            [
+                "conjur",
+                "player 's handbook"
+            ],
+            [
+                "divin",
+                "player 's handbook"
+            ],
+            [
+                "enchant",
+                "player 's handbook"
+            ],
+            [
+                "evoc",
+                "player 's handbook"
+            ],
+            [
+                "graviturgi",
+                "explor 's guid to wildemount"
+            ],
+            [
+                "illus",
+                "player 's handbook"
+            ],
+            [
+                "necrom",
+                "player 's handbook"
+            ],
+            [
+                "order of scribe",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "transmut",
+                "player 's handbook"
+            ],
+            [
+                "war magic",
+                "xanathar 's guid to everyth"
+            ]
+        ],
+        [
+            "arcan tradit",
+            "when you reach 2nd level, you choos an arcan tradit, shape your practic of magic through one of the follow school. your choic grant you featur at 2nd level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "cantrip formula( option)",
+            "at 3rd level, you have scribe a set of arcan formula in your spellbook that you can use to formul a cantrip in your mind. whenev you finish a long rest and consult those formula in your spellbook, you can replac one wizard cantrip you know with anoth cantrip from the wizard spell list."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "spell masteri",
+            "at 18th level, you have achiev such masteri over certain spell that you can cast them at will. choos a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. you can cast those spell at their lowest level without expend a spell slot when you have them prepar. if you want to cast either spell at a higher level, you must expend a spell slot as normal.",
+            "by spend 8 hour in studi, you can exchang one or both of the spell you chose for differ spell of the same level."
+        ]
+    ],
+    []
+]

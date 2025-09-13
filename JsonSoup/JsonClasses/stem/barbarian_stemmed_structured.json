@@ -1,0 +1,283 @@
+[
+    [
+        [
+            [
+                "the barbarian"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "rage",
+                "rage damag"
+            ],
+            [
+                "1st",
+                "+2",
+                "rage, unarmor defens",
+                "2",
+                "+2"
+            ],
+            [
+                "2nd",
+                "+2",
+                "reckless attack, danger sens",
+                "2",
+                "+2"
+            ],
+            [
+                "3rd",
+                "+2",
+                "primal path, primal knowledg( option)",
+                "3",
+                "+2"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv",
+                "3",
+                "+2"
+            ],
+            [
+                "5th",
+                "+3",
+                "extra attack, fast movement",
+                "3",
+                "+2"
+            ],
+            [
+                "6th",
+                "+3",
+                "path featur",
+                "4",
+                "+2"
+            ],
+            [
+                "7th",
+                "+3",
+                "feral instinct, instinct pounc( option)",
+                "4",
+                "+2"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv",
+                "4",
+                "+2"
+            ],
+            [
+                "9th",
+                "+4",
+                "brutal critic( 1 die)",
+                "4",
+                "+3"
+            ],
+            [
+                "10th",
+                "+4",
+                "path featur, primal knowledg( option)",
+                "4",
+                "+3"
+            ],
+            [
+                "11th",
+                "+4",
+                "relentless rage",
+                "4",
+                "+3"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv",
+                "5",
+                "+3"
+            ],
+            [
+                "13th",
+                "+5",
+                "brutal critic( 2 dice)",
+                "5",
+                "+3"
+            ],
+            [
+                "14th",
+                "+5",
+                "path featur",
+                "5",
+                "+3"
+            ],
+            [
+                "15th",
+                "+5",
+                "persist rage",
+                "5",
+                "+3"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv",
+                "5",
+                "+4"
+            ],
+            [
+                "17th",
+                "+6",
+                "brutal critic( 3 dice)",
+                "6",
+                "+4"
+            ],
+            [
+                "18th",
+                "+6",
+                "indomit might",
+                "6",
+                "+4"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv",
+                "6",
+                "+4"
+            ],
+            [
+                "20th",
+                "+6",
+                "primal champion",
+                "unlimit",
+                "+4"
+            ]
+        ],
+        [
+            "class featur",
+            "as a barbarian, you gain the follow class featur.",
+            "hit dice: 1d12 per barbarian level hit point at 1st level: 12+ your constitut modifi hit point at higher level: 1d12( or 7)+ your constitut modifi per barbarian level after 1st",
+            "armor: light armor, medium armor, shield weapon: simpl weapon, martial weapon tool: none save throw: strength, constitut skill: choos two from anim handl, athlet, intimid, natur, percept, and surviv",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a greatax or( b) ani martial mele weapon",
+                "( a) two handax or( b) ani simpl weapon",
+                "an explor 's pack and four javelin"
+            ]
+        ],
+        [
+            "rage",
+            "in battl, you fight with primal feroc. on your turn, you can enter a rage as a bonu action.",
+            "while rage, you gain the follow benefit if you are n't wear heavi armor:",
+            [
+                "you have advantag on strength check and strength save throw.",
+                "when you make a mele weapon attack use strength, you gain a bonu to the damag roll that increas as you gain level as a barbarian, as shown in the rage damag column of the barbarian tabl.",
+                "you have resist to bludgeon, pierc, and slash damag."
+            ],
+            "if you are abl to cast spell, you ca n't cast them or concentr on them while rage.",
+            "your rage last for 1 minut. it end earli if you are knock unconsci or if your turn end and you have n't attack a hostil creatur sinc your last turn or taken damag sinc then. you can also end your rage on your turn as a bonu action.",
+            "onc you have rage the number of time shown for your barbarian level in the rage column of the barbarian tabl, you must finish a long rest befor you can rage again."
+        ],
+        [
+            "unarmor defens",
+            "while you are not wear ani armor, your armor class equal 10+ your dexter modifi+ your constitut modifi. you can use a shield and still gain thi benefit."
+        ],
+        [
+            "danger sens",
+            "at 2nd level, you gain an uncanni sens of when thing nearbi are n't as they should be, give you an edg when you dodg away from danger. you have advantag on dexter save throw against effect that you can see, such as trap and spell. to gain thi benefit, you ca n't be blind, deafen, or incapacit."
+        ],
+        [
+            "reckless attack",
+            "start at 2nd level, you can throw asid all concern for defens to attack with fierc desper. when you make your first attack on your turn, you can decid to attack recklessli. do so give you advantag on mele weapon attack roll use strength dure thi turn, but attack roll against you have advantag until your next turn."
+        ],
+        [
+            [
+                "path",
+                "sourc"
+            ],
+            [
+                "ancestr guardian",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "battlerag",
+                "sword coast adventur 's guid"
+            ],
+            [
+                "beast",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "berserk",
+                "player 's handbook"
+            ],
+            [
+                "giant",
+                "bigbi present: glori of the giant"
+            ],
+            [
+                "storm herald",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "totem warrior",
+                "player 's handbook"
+            ],
+            [
+                "wild magic",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "zealot",
+                "xanathar 's guid to everyth"
+            ]
+        ],
+        [
+            "primal path",
+            "at 3rd level, you choos a path that shape the natur of your rage. your choic grant you featur at 3rd level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "primal knowledg( option)",
+            "when you reach 3rd level and again at 10th level, you gain profici in one skill of your choic from the list of skill avail to barbarian at 1st level."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "extra attack",
+            "begin at 5th level, you can attack twice, instead of onc, whenev you take the attack action on your turn."
+        ],
+        [
+            "fast movement",
+            "start at 5th level, your speed increas by 10 feet while you are n't wear heavi armor."
+        ],
+        [
+            "feral instinct",
+            "by 7th level, your instinct are so hone that you have advantag on initi roll.",
+            "addit, if you are surpris at the begin of combat and are n't incapacit, you can act normal on your first turn, but onli if you enter your rage befor do anyth els on that turn."
+        ],
+        [
+            "instinct pounc( option)",
+            "at 7th level, as part of the bonu action you take to enter your rage, you can move up to half your speed."
+        ],
+        [
+            "brutal critic",
+            "begin at 9th level, you can roll one addit weapon damag die when determin the extra damag for a critic hit with a mele attack.",
+            "thi increas to two addit dice at 13th level and three addit dice at 17th level."
+        ],
+        [
+            "relentless rage",
+            "start at 11th level, your rage can keep you fight despit grievou wound. if you drop to 0 hit point while you 're rage and do n't die outright, you can make a dc 10 constitut save throw. if you succeed, you drop to 1 hit point instead.",
+            "each time you use thi featur after the first, the dc increas by 5. when you finish a short or long rest, the dc reset to 10."
+        ],
+        [
+            "persist rage",
+            "begin at 15th level, your rage is so fierc that it end earli onli if you fall unconsci or if you choos to end it."
+        ],
+        [
+            "indomit might",
+            "begin at 18th level, if your total for a strength check is less than your strength score, you can use that score in place of the total."
+        ]
+    ],
+    []
+]

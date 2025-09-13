@@ -1,0 +1,62 @@
+[
+    [
+        [
+            [
+                "dragon color",
+                "damag type",
+                "breath weapon"
+            ],
+            [
+                "black",
+                "acid",
+                "5 by 30 ft. line( dex save)"
+            ],
+            [
+                "blue",
+                "lightn",
+                "5 by 30 ft. line( dex save)"
+            ],
+            [
+                "brass",
+                "fire",
+                "5 by 30 ft. line( dex save)"
+            ],
+            [
+                "bronz",
+                "lightn",
+                "5 by 30 ft. line( dex save)"
+            ],
+            [
+                "copper",
+                "acid",
+                "5 by 30 ft. line( dex save)"
+            ],
+            [
+                "gold",
+                "fire",
+                "15 ft. cone( dex save)"
+            ],
+            [
+                "green",
+                "poison",
+                "15 ft. cone( con save)"
+            ],
+            [
+                "red",
+                "fire",
+                "15 ft. cone( dex save)"
+            ],
+            [
+                "silver",
+                "cold",
+                "15 ft. cone( con save)"
+            ],
+            [
+                "white",
+                "cold",
+                "15 ft. cone( con save)"
+            ]
+        ]
+    ],
+    []
+]

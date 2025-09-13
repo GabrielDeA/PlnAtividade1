@@ -1,0 +1,247 @@
+[
+    [
+        [
+            [
+                "The Rogue"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Sneak Attack",
+                "Features"
+            ],
+            [
+                "1st",
+                "+2",
+                "1d6",
+                "Expertise, Sneak Attack, Thieves' Cant"
+            ],
+            [
+                "2nd",
+                "+2",
+                "1d6",
+                "Cunning Action"
+            ],
+            [
+                "3rd",
+                "+2",
+                "2d6",
+                "Roguish Archetype, Steady Aim( Optional)"
+            ],
+            [
+                "4th",
+                "+2",
+                "2d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "5th",
+                "+3",
+                "3d6",
+                "Uncanny Dodge"
+            ],
+            [
+                "6th",
+                "+3",
+                "3d6",
+                "Expertise"
+            ],
+            [
+                "7th",
+                "+3",
+                "4d6",
+                "Evasion"
+            ],
+            [
+                "8th",
+                "+3",
+                "4d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "9th",
+                "+4",
+                "5d6",
+                "Roguish Archetype feature"
+            ],
+            [
+                "10th",
+                "+4",
+                "5d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "11th",
+                "+4",
+                "6d6",
+                "Reliable Talent"
+            ],
+            [
+                "12th",
+                "+4",
+                "6d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "13th",
+                "+5",
+                "7d6",
+                "Roguish Archetype feature"
+            ],
+            [
+                "14th",
+                "+5",
+                "7d6",
+                "Blindsense"
+            ],
+            [
+                "15th",
+                "+5",
+                "8d6",
+                "Slippery Mind"
+            ],
+            [
+                "16th",
+                "+5",
+                "8d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "17th",
+                "+6",
+                "9d6",
+                "Roguish Archetype feature"
+            ],
+            [
+                "18th",
+                "+6",
+                "9d6",
+                "Elusive"
+            ],
+            [
+                "19th",
+                "+6",
+                "10d6",
+                "Ability Score Improvement"
+            ],
+            [
+                "20th",
+                "+6",
+                "10d6",
+                "Stroke of Luck"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a rogue, you gain the follow class feature.",
+            "Hit Dice: 1d8 per rogue level Hit Points at 1st Level: 8+ your Constitution modifier Hit Points at Higher Levels: 1d8( or 5)+ your Constitution modifier per rogue level after 1st",
+            "Armor: Light armor Weapons: Simple weapon, hand crossbow, longswords, rapier, shortswords Tools: Thieves' tool Saving Throws: Dexterity, Intelligence Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a rapier or( b) a shortsword",
+                "( a) a shortbow and quiver of 20 arrow or( b) a shortsword",
+                "( a) a burglar 's pack,( b) dungeoneer 's pack, or( c) an explorer 's pack",
+                "Leather armor, two dagger, and thief' tool"
+            ]
+        ],
+        [
+            "Expertise",
+            "At 1st level, choose two of your skill proficiency, or one of your skill proficiency and your proficiency with thief' tool. Your proficiency bonus be double for any ability check you make that us either of the chosen proficiency.",
+            "At 6th level, you can choose two more of your proficiency( in skill or with thief' tool) to gain this benefit."
+        ],
+        [
+            "Sneak Attack",
+            "Beginning at 1st level, you know how to strike subtly and exploit a foe 's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a range weapon.",
+            "You do n't need advantage on the attack roll if another enemy of the target be within 5 foot of it, that enemy be n't incapacitate, and you do n't have disadvantage on the attack roll.",
+            "The amount of the extra damage increase a you gain level in this class, a show in the Sneak Attack column of the Rogue table."
+        ],
+        [
+            "Thieves' Cant",
+            "During your rogue training you learn thief' cant, a secret mix of dialect, jargon, and code that allows you to hide message in seemingly normal conversation. Only another creature that know thief' cant understands such message. It take four time longer to convey such a message than it do to speak the same idea plainly.",
+            "In addition, you understand a set of secret sign and symbol use to convey short, simple message, such a whether an area be dangerous or the territory of a thief' guild, whether loot be nearby, or whether the people in an area be easy mark or will provide a safe house for thief on the run."
+        ],
+        [
+            "Cunning Action",
+            "Starting at 2nd level, your quick think and agility allow you to move and act quickly. You can take a bonus action on each of your turn in combat. This action can be use only to take the Dash, Disengage, or Hide action."
+        ],
+        [
+            [
+                "Archetype",
+                "Source"
+            ],
+            [
+                "Arcane Trickster",
+                "Player 's Handbook"
+            ],
+            [
+                "Assassin",
+                "Player 's Handbook"
+            ],
+            [
+                "Inquisitive",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Mastermind",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Phantom",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Scout",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Soulknife",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Swashbuckler",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Thief",
+                "Player 's Handbook"
+            ]
+        ],
+        [
+            "Roguish Archetype",
+            "At 3rd level, you choose an archetype that you emulate in the exercise of your rogue ability. Your archetype choice grant you feature at 3rd level and then again at 9th, 13th, and 17th level."
+        ],
+        [
+            "Steady Aim( Optional)",
+            "At 3rd level, a a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you have n't move during this turn, and after you use the bonus action, your speed be 0 until the end of the current turn."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Uncanny Dodge",
+            "Starting at 5th level, when an attacker that you can see hit you with an attack, you can use your reaction to halve the attack 's damage against you."
+        ],
+        [
+            "Evasion",
+            "Beginning at 7th level, you can nimbly dodge out of the way of certain area effect, such a a red dragon 's fiery breath or an Ice Storm spell. When you be subject to an effect that allows you to make a Dexterity save throw to take only half damage, you instead take no damage if you succeed on the save throw, and only half damage if you fail."
+        ],
+        [
+            "Reliable Talent",
+            "By 11th level, you have refine your chosen skill until they approach perfection. Whenever you make an ability check that let you add your proficiency bonus, you can treat a d20 roll of 9 or low a a 10."
+        ],
+        [
+            "Blindsense",
+            "Starting at 14th level, if you be able to hear, you be aware of the location of any hidden or invisible creature within 10 foot of you."
+        ],
+        [
+            "Slippery Mind",
+            "By 15th level, you have acquire great mental strength. You gain proficiency in Wisdom save throw."
+        ],
+        [
+            "Elusive",
+            "Beginning at 18th level, you be so evasive that attacker rarely gain the upper hand against you. No attack roll have advantage against you while you be n't incapacitate."
+        ]
+    ],
+    []
+]

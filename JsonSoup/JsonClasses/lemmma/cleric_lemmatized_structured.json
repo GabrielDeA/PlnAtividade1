@@ -1,0 +1,452 @@
+[
+    [
+        [
+            [
+                "The Cleric",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "Cantrips Known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "Spellcasting, Divine Domain",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Channel Divinity( x1), Divine Domain feature, Harness Divine Power( Optional)",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "",
+                "3",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement, Cantrip Versatility( Optional)",
+                "4",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "Destroy Undead( CR 1/2)",
+                "4",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "Channel Divinity( x2), Divine Domain feature",
+                "4",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement, Destroy Undead( CR 1), Divine Domain feature, Cantrip Versatility( Optional)",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "Divine Intervention",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "Destroy Undead( CR 2)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement, Cantrip Versatility( Optional)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "Destroy Undead( CR 3)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement, Cantrip Versatility( Optional)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "Destroy Undead( CR 4), Divine Domain feature",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "Channel Divinity( x3)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement, Cantrip Versatility( Optional)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "Divine Intervention improvement",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a cleric, you gain the follow class feature.",
+            "Hit Dice: 1d8 per cleric level Hit Points at 1st Level: 8+ your Constitution modifier Hit Points at Higher Levels: 1d8( or 5)+ your Constitution modifier per cleric level after 1st",
+            "Armor: Light armor, medium armor, shield Weapons: All simple weapon Tools: None Saving Throws: Wisdom, Charisma Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a mace or( b) a warhammer( if proficient)",
+                "( a) scale mail,( b) leather armor, or( c) chain mail( if proficient)",
+                "( a) a light crossbow and 20 bolt or( b) any simple weapon",
+                "( a) a priest 's pack or( b) an explorer 's pack",
+                "A shield and a holy symbol"
+            ]
+        ],
+        [
+            "Spellcasting",
+            "As a conduit for divine power, you can cast cleric spell.",
+            "At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at high level, a show in the Cantrips Known column of the Cleric table.",
+            "The Cleric table show how many spell slot you have to cast your cleric spell of 1st level and high. To cast one of these spell, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest.",
+            "You prepare the list of cleric spell that be available for you to cast, choose from the cleric spell list. When you do so, choose a number of cleric spell equal to your Wisdom modifier+ your cleric level( minimum of one spell). The spell must be of a level for which you have spell slot.",
+            "For example, if you be a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slot. With a Wisdom of 16, your list of prepared spell can include six spell of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it use a 1st-level or 2nd-level slot. Casting the spell do n't remove it from your list of prepared spell.",
+            "You can change your list of prepared spell when you finish a long rest. Preparing a new list of cleric spell require time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.",
+            "Wisdom be your spellcasting ability for your cleric spell. The power of your spell come from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when set the save throw DC for a cleric spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Wisdom modifier",
+            "Spell attack modifier= your proficiency bonus+ your Wisdom modifier",
+            "You can cast a cleric spell a a ritual if that spell have the ritual tag and you have the spell prepared.",
+            "You can use a holy symbol a a spellcasting focus for your cleric spell."
+        ],
+        [
+            [
+                "Domain",
+                "Source"
+            ],
+            [
+                "Arcana",
+                "Sword Coast Adventurer 's Guide"
+            ],
+            [
+                "Death",
+                "Dungeon Master 's Guide"
+            ],
+            [
+                "Forge",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Grave",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Knowledge",
+                "Player 's Handbook"
+            ],
+            [
+                "Life",
+                "Player 's Handbook"
+            ],
+            [
+                "Light",
+                "Player 's Handbook"
+            ],
+            [
+                "Nature",
+                "Player 's Handbook"
+            ],
+            [
+                "Order",
+                "Guildmaster 's Guide to Ravnica Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Peace",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Tempest",
+                "Player 's Handbook"
+            ],
+            [
+                "Trickery",
+                "Player 's Handbook"
+            ],
+            [
+                "Twilight",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "War",
+                "Player 's Handbook"
+            ]
+        ],
+        [
+            "Divine Domain",
+            "At 1st level, you choose a domain shape by your choice of Deity and the gift they grant you. Your choice grant you domain spell and other feature when you choose it at 1st level. It also grant you additional way to use Channel Divinity when you gain that feature at 2nd level, and additional benefit at 6th, 8th, and 17th level.",
+            "Each domain have a list of spells-its domain spell that you gain at the cleric level note in the domain description. Once you gain a domain spell, you always have it prepared, and it do n't count against the number of spell you can prepare each day.",
+            "If you have a domain spell that do n't appear on the cleric spell list, the spell be nonetheless a cleric spell for you."
+        ],
+        [
+            "Channel Divinity",
+            "At 2nd level, you gain the ability to channel divine energy directly from your deity, use that energy to fuel magical effect. You start with two such effect: Turn Undead and an effect determine by your domain. Some domain grant you additional effect a you advance in level, a note in the domain description.",
+            "When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.",
+            "Some Channel Divinity effect require save throw. When you use such an effect from this class, the DC equal your cleric spell save DC.",
+            "Beginning at 6th level, you can use your Channel Divinity twice between rest, and begin at 18th level, you can use it three time between rest. When you finish a short or long rest, you regain your expend us.",
+            "As an action, you present your holy symbol and speak a prayer censure the undead. Each undead that can see or hear you within 30 foot of you must make a Wisdom save throw. If the creature fails it save throw, it be turn for 1 minute or until it take any damage.",
+            "A turn creature must spend it turn try to move a far away from you a it can, and it ca n't willingly move to a space within 30 foot of you. It also ca n't take reaction. For it action, it can use only the Dash action or try to escape from an effect that prevents it from move. If there 's nowhere to move, the creature can use the Dodge action."
+        ],
+        [
+            "Harness Divine Power( Optional)",
+            "At 2nd level, you can expend a use of your Channel Divinity to fuel your spell. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expend spell slot, the level of which can be no high than half your proficiency bonus( round up). The number of time you can use this feature be base on the level you 've reach in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expend us when you finish a long rest."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Cantrip Versatility( Optional)",
+            "Whenever you reach a level in this class that grant the Ability Score Improvement feature, you can replace one cantrip you learn from this class 's Spellcasting feature with another cantrip from the cleric spell list."
+        ],
+        [
+            "Destroy Undead",
+            "Starting at 5th level, when an undead fails it save throw against your Turn Undead feature, the creature be instantly destroyed if it challenge rating be at or below a certain threshold, a show in the Cleric table above."
+        ],
+        [
+            "Blessed Strikes( Optional)",
+            "Replaces the Divine Strike or Potent Spellcasting feature",
+            "When you reach 8th level, you be bless with divine might in battle. When a creature take damage from one of your cantrips or weapon attack, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you ca n't use this feature again until the start of your next turn."
+        ]
+    ],
+    []
+]

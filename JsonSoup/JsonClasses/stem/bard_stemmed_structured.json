@@ -1,0 +1,469 @@
+[
+    [
+        [
+            [
+                "the bard",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "cantrip known",
+                "spell known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "spellcast, bardic inspir( d6)",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "jack of all trade, song of rest( d6), magic inspir( option)",
+                "2",
+                "5",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "bard colleg, expertis",
+                "2",
+                "6",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv, bardic versatil( option)",
+                "3",
+                "7",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "bardic inspir( d8), font of inspir",
+                "3",
+                "8",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "countercharm, bard colleg featur",
+                "3",
+                "9",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "3",
+                "10",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv, bardic versatil( option)",
+                "3",
+                "11",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "song of rest( d8)",
+                "3",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "bardic inspir( d10), expertis, magic secret",
+                "4",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "",
+                "4",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, bardic versatil( option)",
+                "4",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "song of rest( d10)",
+                "4",
+                "16",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "magic secret, bard colleg featur",
+                "4",
+                "18",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "bardic inspir( d12)",
+                "4",
+                "19",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, bardic versatil( option)",
+                "4",
+                "19",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "song of rest( d12)",
+                "4",
+                "20",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "magic secret",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, bardic versatil( option)",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "superior inspir",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "class featur",
+            "as a bard, you gain the follow class featur.",
+            "hit dice: 1d8 per bard level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per bard level after 1st",
+            "armor: light armor weapon: simpl weapon, hand crossbow, longsword, rapier, shortsword tool: three music instrument of your choic save throw: dexter, charisma skill: choos ani three",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a rapier,( b) a longsword, or( c) ani simpl weapon",
+                "( a) a diplomat 's pack or( b) an entertain 's pack",
+                "( a) a lute or( b) ani other music instrument",
+                "leather armor and a dagger"
+            ]
+        ],
+        [
+            "spellcast",
+            "you have learn to untangl and reshap the fabric of realiti in harmoni with your wish and music. your spell are part of your vast repertoir, magic that you can tune to differ situat.",
+            "you know two cantrip of your choic from the bard spell list. you learn addit bard cantrip of your choic at higher level, as shown in the cantrip known column of the bard tabl.",
+            "the bard tabl show how mani spell slot you have to cast your bard spell of 1st level and higher. to cast one of these spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest. for exampl, if you know the 1st-level spell cure wound and have a 1st-level and a 2nd-level spell slot avail, you can cast cure wound use either slot.",
+            "you know four 1st-level spell of your choic from the bard spell list.",
+            "the spell known column of the bard tabl show when you learn more bard spell of your choic. each of these spell must be of a level for which you have spell slot, as shown on the tabl. for instanc, when you reach 3rd level in thi class, you can learn one new spell of 1st or 2nd level.",
+            "addit, when you gain a level in thi class, you can choos one of the bard spell you know and replac it with anoth spell from the bard spell list, which also must be of a level for which you have spell slot.",
+            "charisma is your spellcast abil for your bard spell. your magic come from the heart and soul you pour into the perform of your music or orat. you use your charisma whenev a spell refer to your spellcast abil. in addit, you use your charisma modifi when set the save throw dc for a bard spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your charisma modifi",
+            "spell attack modifi= your profici bonu+ your charisma modifi",
+            "you can cast ani bard spell you know as a ritual if that spell ha the ritual tag.",
+            "you can use a music instrument( found in chapter 5) as a spellcast focu for your bard spell."
+        ],
+        [
+            "bardic inspir",
+            "you can inspir other through stir word or music. to do so, you use a bonu action on your turn to choos one creatur other than yourself within 60 feet of you who can hear you. that creatur gain one bardic inspir die, a d6.",
+            "onc within the next 10 minut, the creatur can roll the die and add the number roll to one abil check, attack roll, or save throw it make. the creatur can wait until after it roll the d20 befor decid to use the bardic inspir die, but must decid befor the dm say whether the roll succe or fail. onc the bardic inspir die is roll, it is lost. a creatur can have onli one bardic inspir die at a time.",
+            "you can use thi featur a number of time equal to your charisma modifi( a minimum of onc). you regain ani expend use when you finish a long rest.",
+            "your bardic inspir die chang when you reach certain level in thi class. the die becom a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+        ],
+        [
+            "jack of all trade",
+            "start at 2nd level, you can add half your profici bonu, round down, to ani abil check you make that doe n't alreadi includ your profici bonu."
+        ],
+        [
+            "song of rest",
+            "begin at 2nd level, you can use sooth music or orat to help revit your wound alli dure a short rest. if you or ani friendli creatur who can hear your perform regain hit point at the end of the short rest by spend one or more hit dice, each of those creatur regain an extra 1d6 hit point.",
+            "the extra hit point increas when you reach certain level in thi class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level."
+        ],
+        [
+            "magic inspir( option)",
+            "at 2nd level, if a creatur ha a bardic inspir die from you and cast a spell that restor hit point or deal damag, the creatur can roll that die and choos a target affect by the spell. add the number roll as a bonu to the hit point regain or the damag dealt. the bardic inspir die is then lost."
+        ],
+        [
+            [
+                "colleg",
+                "sourc"
+            ],
+            [
+                "creation",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "eloqu",
+                "mythic odyssey of thero tasha 's cauldron of everyth"
+            ],
+            [
+                "glamour",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "lore",
+                "player 's handbook"
+            ],
+            [
+                "spirit",
+                "van richten 's guid to ravenloft"
+            ],
+            [
+                "sword",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "valor",
+                "player 's handbook"
+            ],
+            [
+                "whisper",
+                "xanathar 's guid to everyth"
+            ]
+        ],
+        [
+            "bard colleg",
+            "at 3rd level, you delv into the advanc techniqu of a bard colleg of your choic. your choic grant you featur at 3rd level and again at 6th and 14th level."
+        ],
+        [
+            "expertis",
+            "at 3rd level, choos two of your skill profici. your profici bonu is doubl for ani abil check you make that use either of the chosen profici.",
+            "at 10th level, you can choos anoth two skill profici to gain thi benefit."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "bardic versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can do one of the follow, repres a chang in focu as you use your skill and magic:",
+            [
+                "replac one of the skill you chose for the expertis featur with one of your other skill profici that is n't benefit from expertis."
+            ],
+            [
+                "replac one cantrip you learn from thi class 's spellcast featur with anoth cantrip from the bard spell list."
+            ]
+        ],
+        [
+            "font of inspir",
+            "begin when you reach 5th level, you regain all of your expend use of bardic inspir when you finish a short or long rest."
+        ],
+        [
+            "countercharm",
+            "at 6th level, you gain the abil to use music note or word of power to disrupt mind-influenc effect. as an action, you can start a perform that last until the end of your next turn. dure that time, you and ani friendli creatur within 30 feet of you have advantag on save throw against be frighten or charm. a creatur must be abl to hear you to gain thi benefit. the perform end earli if you are incapacit or silenc or if you voluntarili end it( no action requir)."
+        ],
+        [
+            "magic secret",
+            "by 10th level, you have plunder magic knowledg from a wide spectrum of disciplin. choos two spell from ani class, includ thi one. a spell you choos must be of a level you can cast, as shown on the bard tabl, or a cantrip.",
+            "the chosen spell count as bard spell for you and are includ in the number in the spell known column of the bard tabl.",
+            "you learn two addit spell from ani class at 14th level and again at 18th level."
+        ]
+    ],
+    []
+]

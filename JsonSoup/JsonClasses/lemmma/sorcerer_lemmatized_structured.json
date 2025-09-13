@@ -1,0 +1,545 @@
+[
+    [
+        [
+            [
+                "The Sorcerer",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Sorcery Points",
+                "Features",
+                "Cantrips Known",
+                "Spells Known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "-",
+                "Spellcasting, Sorcerous Origin",
+                "4",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "2",
+                "Font of Magic",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "3",
+                "Metamagic",
+                "4",
+                "4",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "4",
+                "Ability Score Improvement, Sorcerous Versatility( Optional)",
+                "5",
+                "5",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "5",
+                "Magical Guidance( Optional)",
+                "5",
+                "6",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "6",
+                "Sorcerous Origin feature",
+                "5",
+                "7",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "7",
+                "",
+                "5",
+                "8",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "8",
+                "Ability Score Improvement, Sorcerous Versatility( Optional)",
+                "5",
+                "9",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "9",
+                "",
+                "5",
+                "10",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "10",
+                "Metamagic",
+                "6",
+                "11",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "11",
+                "",
+                "6",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "12",
+                "Ability Score Improvement, Sorcerous Versatility( Optional)",
+                "6",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "13",
+                "",
+                "6",
+                "13",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "14",
+                "Sorcerous Origin feature",
+                "6",
+                "13",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "15",
+                "",
+                "6",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "16",
+                "Ability Score Improvement, Sorcerous Versatility( Optional)",
+                "6",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "17",
+                "Metamagic",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "18",
+                "Sorcerous Origin feature",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "19",
+                "Ability Score Improvement, Sorcerous Versatility( Optional)",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "20",
+                "Sorcerous Restoration",
+                "6",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a sorcerer, you gain the follow class feature.",
+            "Hit Dice: 1d6 per sorcerer level Hit Points at 1st Level: 6+ your Constitution modifier Hit Points at Higher Levels: 1d6( or 4)+ your Constitution modifier per sorcerer level after 1st",
+            "Armor: None Weapons: Daggers, dart, sling, quarterstaff, light crossbow Tools: None Saving Throws: Constitution, Charisma Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a light crossbow and 20 bolt or( b) any simple weapon",
+                "( a) a component pouch or( b) an arcane focus",
+                "( a) a dungeoneer 's pack or( b) an explorer 's pack",
+                "Two dagger"
+            ]
+        ],
+        [
+            "Spellcasting",
+            "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infuse you with arcane magic. This font of magic, whatever it origin, fuel your spell.",
+            "At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at high level, a show in the Cantrips Known column of the Sorcerer table.",
+            "The Sorcerer table show how many spell slot you have to cast your sorcerer spell of 1st level and high. To cast one of these sorcerer spell, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest.",
+            "For example, if you know the 1st-level spell burning hand and have a 1st-level and a 2nd-level spell slot available, you can cast burning hand use either slot.",
+            "You know two 1st-level spell of your choice from the sorcerer spell list.",
+            "The Spells Known column of the Sorcerer table show when you learn more sorcerer spell of your choice. Each of these spell must be of a level for which you have spell slot. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.",
+            "Additionally, when you gain a level in this class, you can choose one of the sorcerer spell you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slot.",
+            "Charisma be your spellcasting ability for your sorcerer spell, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when set the save throw DC for a sorcerer spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Charisma modifier",
+            "Spell attack modifier= your proficiency bonus+ your Charisma modifier",
+            "You can use an arcane focus a a spellcasting focus for your sorcerer spell."
+        ],
+        [
+            [
+                "Origin",
+                "Source"
+            ],
+            [
+                "Aberrant Mind",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Clockwork Soul",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Draconic Bloodline",
+                "Player 's Handbook"
+            ],
+            [
+                "Divine Soul",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Lunar Sorcery",
+                "Dragonlance: Shadow of the Dragon Queen"
+            ],
+            [
+                "Shadow Magic",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Storm Sorcery",
+                "Sword Coast Adventurer 's Guide Xanathar 's Guide to Everything"
+            ],
+            [
+                "Wild Magic",
+                "Player 's Handbook"
+            ]
+        ],
+        [
+            "Sorcerous Origin",
+            "Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grant you feature when you choose it at 1st level and again at 6th, 14th, and 18th level."
+        ],
+        [
+            [
+                "Creating Spell Slots"
+            ],
+            [
+                "Spell Slot Level",
+                "Sorcery Point Cost"
+            ],
+            [
+                "1st",
+                "2"
+            ],
+            [
+                "2nd",
+                "3"
+            ],
+            [
+                "3rd",
+                "5"
+            ],
+            [
+                "4th",
+                "6"
+            ],
+            [
+                "5th",
+                "7"
+            ]
+        ],
+        [
+            "Font of Magic",
+            "At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring be represent by sorcery point, which allow you to create a variety of magical effect.",
+            [
+                "Sorcery Points. You have 2 sorcery point, and you gain more a you reach high level, a show in the Sorcery Points column of the Sorcerer table. You can never have more sorcery point than show on the table for your level. You regain all spent sorcery point when you finish a long rest."
+            ],
+            [
+                "Flexible Casting. You can use your sorcery point to gain additional spell slot, or sacrifice spell slot to gain additional sorcery point. You learn other way to use your sorcery point a you reach high level. Creating Spell Slots. You can transform unexpended sorcery point into one spell slot a a bonus action on your turn. The Creating Spell Slots table show the cost of create a spell slot of a give level. You can create spell slot no high in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest. Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery point equal to the slot 's level."
+            ],
+            [
+                "Creating Spell Slots. You can transform unexpended sorcery point into one spell slot a a bonus action on your turn. The Creating Spell Slots table show the cost of create a spell slot of a give level. You can create spell slot no high in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.",
+                "Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery point equal to the slot 's level."
+            ]
+        ],
+        [
+            "Metamagic",
+            "At 3rd level, you gain the ability to twist your spell to suit your need. You gain two of the follow Metamagic option of your choice. You gain another one at 10th and 17th level.",
+            "You can use only one Metamagic option on a spell when you cast it, unless otherwise note.",
+            [
+                "Careful Spell. When you cast a spell that force other creature to make a save throw, you can protect some of those creature from the spell 's full force. To do so, you spend 1 sorcery point and choose a number of those creature up to your Charisma modifier( minimum of one creature). A chosen creature automatically succeed on it save throw against the spell."
+            ],
+            [
+                "Distant Spell. When you cast a spell that have a range of 5 foot or great, you can spend 1 sorcery point to double the range of the spell. When you cast a spell that have a range of touch, you can spend 1 sorcery point to make the range of the spell 30 foot."
+            ],
+            [
+                "When you cast a spell that have a range of touch, you can spend 1 sorcery point to make the range of the spell 30 foot."
+            ],
+            [
+                "Empowered Spell. When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier( minimum of one). You must use the new roll. You can use Empowered Spell even if you have already use a different Metamagic option during the cast of the spell."
+            ],
+            [
+                "You can use Empowered Spell even if you have already use a different Metamagic option during the cast of the spell."
+            ],
+            [
+                "Extended Spell. When you cast a spell that have a duration of 1 minute or longer, you can spend 1 sorcery point to double it duration, to a maximum duration of 24 hour."
+            ],
+            [
+                "Heightened Spell. When you cast a spell that force a creature to make a save throw to resist it effect, you can spend 3 sorcery point to give one target of the spell disadvantage on it first save throw make against the spell."
+            ],
+            [
+                "Quickened Spell. When you cast a spell that have a cast time of 1 action, you can spend 2 sorcery point to change the cast time to 1 bonus action for this cast."
+            ],
+            [
+                "Seeking Spell. If you make an attack roll for a spell and miss, you can spend 2 sorcery point to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already use a different Metamagic option during the cast of the spell."
+            ],
+            [
+                "You can use Seeking Spell even if you have already use a different Metamagic option during the cast of the spell."
+            ],
+            [
+                "Seeking Spell( UA). When you cast a spell that require you to make a spell attack roll or that force a target to make a Dexterity save throw, you can spend 1 sorcery point to ignore the effect of half- and three-quarters cover against target of the spell."
+            ],
+            [
+                "Subtle Spell. When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal component."
+            ],
+            [
+                "Transmuted Spell. When you cast a spell that deal a type of damage from the follow list, you can spend 1 sorcery point to change that damage type to one of the other list type: acid, cold, fire, lightning, poison, thunder."
+            ],
+            [
+                "Twinned Spell. When you cast a spell that target only one creature and do n't have a range of self, you can spend a number of sorcery point equal to the spell 's level to target a second creature in range with the same spell( 1 sorcery point if the spell be a cantrip). To be eligible, a spell must be incapable of target more than one creature at the spell 's current level. For example, magic missile and scorch ray be n't eligible, but ray of frost and chromatic orb be."
+            ]
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Sorcerous Versatility( Optional)",
+            "When you reach a level in this class that grant the Ability Score Improvement feature, you can do one of the follow, represent the magic within you flow in new way:",
+            [
+                "Replace one of the option you chose for the Metamagic feature with a different Metamagic option available to you."
+            ],
+            [
+                "Replace one cantrip you learn from this class' spellcasting feature with another cantrip from the sorcerer spell list."
+            ]
+        ],
+        [
+            "Magical Guidance( Optional)",
+            "When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turn the failure into a success."
+        ]
+    ],
+    []
+]

@@ -1,0 +1,473 @@
+[
+    [
+        [
+            [
+                "the ranger",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "spell known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th"
+            ],
+            [
+                "1st",
+                "+2",
+                "favor enemi, natur explor, deft explor( option), favor foe( option)",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "fight style, spellcast, spellcast focu( option)",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "primev awar, ranger conclav, primal awar( option)",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv, martial versatil( option)",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "extra attack",
+                "4",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "favor enemi improv, natur explor improv, deft explor improv( option)",
+                "4",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "ranger conclav featur",
+                "5",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv, land 's stride, martial versatil( option)",
+                "5",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "6",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "natur explor improv, hide in plain sight, deft explor featur( option), natur 's veil( option)",
+                "6",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "ranger conclav featur",
+                "7",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, martial versatil( option)",
+                "7",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "8",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "favor enemi improv, vanish",
+                "8",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "ranger conclav featur",
+                "9",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, martial versatil( option)",
+                "9",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "10",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "feral sens",
+                "10",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, martial versatil( option)",
+                "11",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ],
+            [
+                "20th",
+                "+6",
+                "foe slayer",
+                "11",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            "class featur",
+            "as a ranger, you gain the follow class featur.",
+            "hit dice: 1d10 per ranger level hit point at 1st level: 10+ your constitut modifi hit point at higher level: 1d10( or 6)+ your constitut modifi per ranger level after 1st",
+            "armor: light armor, medium armor, shield weapon: simpl weapon, martial weapon tool: none save throw: strength, dexter skill: choos three from anim handl, athlet, insight, investig, natur, percept, stealth, and surviv",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) scale mail or( b) leather armor",
+                "( a) two shortsword or( b) two simpl mele weapon",
+                "( a) a dungeon 's pack or( b) an explor 's pack",
+                "a longbow and a quiver of 20 arrow"
+            ]
+        ],
+        [
+            "favor enemi",
+            "begin at 1st level, you have signific experi studi, track, hunt, and even talk to a certain type of enemi.",
+            "choos a type of favor enemi: aberr, beast, celesti, construct, dragon, element, fey, fiend, giant, monstros, ooz, plant, or undead. altern, you can select two race of humanoid( such as gnoll and orc) as favor enemi.",
+            "you have advantag on wisdom( surviv) check to track your favor enemi, as well as on intellig check to recal inform about them.",
+            "when you gain thi featur, you also learn one languag of your choic that is spoken by your favor enemi, if they speak one at all.",
+            "you choos one addit favor enemi, as well as an associ languag, at 6th and 14th level. as you gain level, your choic should reflect the type of monster you have encount on your adventur."
+        ],
+        [
+            "favor foe( option)",
+            "thi 1st-level featur replac the favor enemi featur and work with the foe slayer featur. you gain no benefit from the replac featur and do n't qualifi for anyth in the game that requir it.",
+            "when you hit a creatur with an attack roll, you can call on your mystic bond with natur to mark the target as your favor enemi for 1 minut or until you lose your concentr( as if you were concentr on a spell).",
+            "the first time on each of your turn that you hit the favor enemi and deal damag to it, includ when you mark it, you increas that damag by 1d4.",
+            "you can use thi featur to mark a favor enemi a number of time equal to your profici bonu, and you regain all expend use when you finish a long rest.",
+            "thi featur 's extra damag increas when you reach certain level in thi class: to 1d6 at 6th level and to 1d8 at 14th level."
+        ],
+        [
+            "natur explor",
+            "also at 1st level, you are particularli familiar with one type of natur environ and are adept at travel and surviv in such region. choos one type of favor terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the underdark. when you make an intellig or wisdom check relat to your favor terrain, your profici bonu is doubl if you are use a skill that you \u2019 re profici in.",
+            "while travel for an hour or more in your favor terrain, you gain the follow benefit:",
+            [
+                "difficult terrain doesn \u2019 t slow your group \u2019 s travel.",
+                "your group can \u2019 t becom lost except by magic mean.",
+                "even when you are engag in anoth activ while travel( such as forag, navig, or track), you remain alert to danger.",
+                "if you are travel alon, you can move stealthili at a normal pace.",
+                "when you forag, you find twice as much food as you normal would.",
+                "while track other creatur, you also learn their exact number, their size, and how long ago they pass through the area."
+            ],
+            "you choos addit favor terrain type at 6th and 10th level."
+        ],
+        [
+            "deft explor( option)",
+            "thi 1st-level featur replac the natur explor featur. you gain no benefit from the replac featur and do n't qualifi for anyth in the game that requir it.",
+            "you are an unsurpass explor and survivor, both in the wilder and in deal with other on your travel. you gain the canni benefit below, and you gain an addit benefit when you reach 6th level and 10th level in thi class.",
+            "choos one of your skill profici. your profici bonu is doubl for ani abil check you make use the chosen skill.",
+            "you can also speak, read, and write 2 addit languag of your choic.",
+            "your walk speed increas by 5, and you gain a climb speed and a swim speed equal to your walk speed.",
+            "as an action, you can give yourself a number of temporari hit point equal to 1d8+ your wisdom modifi( minimum of 1 temporari hit point). you can use thi action a number of time equal to your profici bonu, and you regain all expend use when you finish a long rest.",
+            "in addit, whenev you finish a short rest, your exhaust level, if ani, is decreas by 1."
+        ],
+        [
+            "fight style",
+            "at 2nd level, you adopt a particular style of fight as your specialti. choos one of the follow option. you ca n't take a fight style option more than onc, even if you later get to choos again.",
+            [
+                "archeri. you gain a +2 bonu to attack roll you make with rang weapon."
+            ],
+            [
+                "blind fight. you have blind sight with a rang of 10 feet. within that rang, you can effect see anyth that is n't behind total cover, even if you 're blind or in dark. moreov, you can see an invis creatur within that rang, unless the creatur success hide from you."
+            ],
+            [
+                "defens. while you are wear armor, you gain a +1 bonu to ac."
+            ],
+            [
+                "druidic warrior. you learn two cantrip of your choic from the druid spell list. they count as ranger spell for you, and wisdom is your spellcast abil for them. whenev you gain a level in thi class, you can replac one of these cantrip with anoth cantrip from the druid spell list."
+            ],
+            [
+                "duel. when you are wield a mele weapon in one hand and no other weapon, you gain a +2 bonu to damag roll with that weapon."
+            ],
+            [
+                "thrown weapon fight. you can draw a weapon that ha the thrown properti as part of the attack you make with the weapon. in addit, when you hit with a rang attack use a thrown weapon, you gain a +2 bonu to the damag roll."
+            ],
+            [
+                "in addit, when you hit with a rang attack use a thrown weapon, you gain a +2 bonu to the damag roll."
+            ],
+            [
+                "two-weapon fight. when you engag in two-weapon fight, you can add your abil modifi to the damag of the second attack."
+            ],
+            [
+                "close quarter shooter( ua). when make a rang attack while you are within 5 feet of a hostil creatur, you do not have disadvantag on the attack roll. your rang attack ignor half cover and three-quart cover against target within 30 feet of you. you have a +1 bonu to attack roll on rang attack."
+            ],
+            [
+                "intercept( ua). when a creatur you can see hit a target that is within 5 feet of you with an attack, you can use your reaction to reduc the damag the target take by 1d10+ your profici bonu( to a minimum of 0 damag). you must be wield a shield or a simpl or martial weapon to use thi reaction."
+            ],
+            [
+                "marin( ua). as long as you are not wear heavi armor or use a shield, you have a swim speed and a climb speed equal to your normal speed, and you gain a +1 bonu to armor class."
+            ],
+            [
+                "tunnel fighter( ua). as a bonu action, you can enter a defens stanc that last until the start of your next turn. while in your defens stanc, you can make opportun attack without use your reaction, and you can use your reaction to make a mele attack against a creatur that move more than 5 feet while within your reach."
+            ],
+            [
+                "unarm fight( ua). your unarm strike can deal bludgeon damag equal to 1d6+ your strength modifi. if you strike with two free hand, the d6 becom a d8. when you success start a grappl, you can deal 1d4 bludgeon damag to the grappl creatur. until the grappl end, you can also deal thi damag to the creatur whenev you hit it with a mele attack."
+            ],
+            [
+                "when you success start a grappl, you can deal 1d4 bludgeon damag to the grappl creatur. until the grappl end, you can also deal thi damag to the creatur whenev you hit it with a mele attack."
+            ]
+        ],
+        [
+            "spellcast",
+            "by the time you reach 2nd level, you have learn to use the magic essenc of natur to cast spell, much as a druid doe.",
+            "the ranger tabl show how mani spell slot you have to cast your ranger spell of 1st level and higher. to cast one of these spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "for exampl, if you know the 1st-level spell anim friendship and have a 1st-level and a 2nd-level spell slot avail, you can cast anim friendship use either slot.",
+            "you know two 1st-level spell of your choic from the ranger spell list.",
+            "the spell known column of the ranger tabl show when you learn more ranger spell of your choic. each of these spell must be of a level for which you have spell slot. for instanc, when you reach 5th level in thi class, you can learn one new spell of 1st or 2nd level.",
+            "addit, when you gain a level in thi class, you can choos one of the ranger spell you know and replac it with anoth spell from the ranger spell list, which also must be of a level for which you have spell slot.",
+            "wisdom is your spellcast abil for your ranger spell, sinc your magic draw on your attun to natur. you use your wisdom whenev a spell refer to your spellcast abil. in addit, you use your wisdom modifi when set the save throw dc for a ranger spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your wisdom modifi",
+            "spell attack modifi= your profici bonu+ your wisdom modifi",
+            "at 2nd level, you can use a druidic focu as a spellcast focu for your ranger spell. a druidic focu might be a sprig of mistleto or holli, a wand or rod made of yew or anoth special wood, a staff drawn whole from a live tree, or an object incorpor feather, fur, bone, and teeth from sacr anim."
+        ],
+        [
+            "primev awar",
+            "begin at 3rd level, you can use your action and expend one ranger spell slot to focu your awar on the region around you. for 1 minut per level of the spell slot you expend, you can sens whether the follow type of creatur are present within 1 mile of you( or within up to 6 mile if you are in your favor terrain): aberr, celesti, dragon, element, fey, fiend, and undead. thi featur doesn \u2019 t reveal the creatur \u2019 locat or number."
+        ],
+        [
+            [
+                "primal awar spell",
+                ""
+            ],
+            [
+                "ranger level",
+                "spell"
+            ],
+            [
+                "3rd",
+                "speak with anim"
+            ],
+            [
+                "5th",
+                "beast sens"
+            ],
+            [
+                "9th",
+                "speak with plant"
+            ],
+            [
+                "13th",
+                "locat creatur"
+            ],
+            [
+                "17th",
+                "commun with natur"
+            ]
+        ],
+        [
+            "primal awar( option)",
+            "thi 3rd-level featur replac the primev awar featur. you gain no benefit from the replac featur and do n't qualifi for anyth in the game that requir it.",
+            "you can focu your awar through the interconnect of natur: you learn addit spell when you reach certain level in thi class if you do n't alreadi know them, as shown in the primal awar spell tabl. these spell do n't count against the number of ranger spell you know.",
+            "you can cast each of these spell onc without expend a spell slot. onc you cast a spell in thi way, you ca n't do so again until you finish a long rest."
+        ],
+        [
+            [
+                "conclav",
+                "sourc"
+            ],
+            [
+                "beast master",
+                "player 's handbook"
+            ],
+            [
+                "fey wander",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "gloom stalker",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "horizon walker",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "hunter",
+                "player 's handbook"
+            ],
+            [
+                "monster slayer",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "swarmkeep",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "drakewarden",
+                "fizban 's treasuri of dragon"
+            ]
+        ],
+        [
+            "ranger conclav",
+            "at 3rd level, you choos to emul the ideal and train of a ranger conclav. your choic grant you featur at 3rd level and again at 7th, 11th, and 15th level."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "martial versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can replac a fight style you know with anoth fight style avail to ranger. thi replac repres a shift of focu in your martial practic."
+        ],
+        [
+            "extra attack",
+            "begin at 5th level, you can attack twice, instead of onc, whenev you take the attack action on your turn."
+        ],
+        [
+            "land 's stride",
+            "start at 8th level, move through nonmag difficult terrain cost you no extra movement. you can also pass through nonmag plant without be slow by them and without take damag from them if they have thorn, spine, or a similar hazard.",
+            "in addit, you have advantag on save throw against plant that are magic creat or manipul to imped movement, such as those creat by the entangl spell."
+        ],
+        [
+            "hide in plain sight",
+            "start at 10th level, you can spend 1 minut creat camouflag for yourself. you must have access to fresh mud, dirt, plant, soot, and other natur occur materi with which to creat your camouflag.",
+            "onc you are camouflag in thi way, you can tri to hide by press yourself up against a solid surfac, such as a tree or wall, that is at least as tall and wide as you are. you gain a +10 bonu to dexter( stealth) check as long as you remain there without move or take action. onc you move or take an action or a reaction, you must camouflag yourself again to gain thi benefit."
+        ],
+        [
+            "natur 's veil( option)",
+            "thi 10th-level featur replac the hide in plain sight featur. you gain no benefit from the replac featur and do n't qualifi for anyth in the game that requir it.",
+            "you draw on the power of natur to hide yourself from view briefli. as a bonu action, you can magic becom invis, along with ani equip you are wear or carri, until the start of your next turn.",
+            "you can use thi featur a number of time equal to your profici bonu, and you regain all expend use when you finish a long rest."
+        ],
+        [
+            "vanish",
+            "start at 14th level, you can use the hide action as a bonu action on your turn. also, you ca n't be track by nonmag mean, unless you choos to leav a trail."
+        ],
+        [
+            "feral sens",
+            "at 18th level, you gain preternatur sens that help you fight creatur you ca n't see. when you attack a creatur you ca n't see, your inabl to see it doe n't impos disadvantag on your attack roll against it.",
+            "you are also awar of the locat of ani invis creatur within 30 feet of you, provid that the creatur is n't hidden from you and you are n't blind or deafen."
+        ]
+    ],
+    []
+]

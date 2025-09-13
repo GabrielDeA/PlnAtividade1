@@ -1,0 +1,460 @@
+[
+    [
+        [
+            [
+                "the druid",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "cantrip known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "druidic, spellcast",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "wild shape, druid circl, wild companion( option)",
+                "2",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "wild shape improv, abil score improv, cantrip versatil( option)",
+                "3",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "",
+                "3",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "druid circl featur",
+                "3",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "3",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "wild shape improv, abil score improv, cantrip versatil( option)",
+                "3",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "3",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "druid circl featur",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, cantrip versatil( option)",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "druid circl featur",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, cantrip versatil( option)",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "timeless bodi, beast spell",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, cantrip versatil( option)",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "archdruid",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "class featur",
+            "as a druid, you gain the follow class featur.",
+            "hit dice: 1d8 per druid level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per druid level after 1st",
+            "armor: light armor, medium armor, shield( druid will not wear armor or use shield made of metal) weapon: club, dagger, dart, javelin, mace, quarterstaff, scimitar, sickl, sling, spear tool: herbal kit save throw: intellig, wisdom skill: choos two from arcana, anim handl, insight, medicin, natur, percept, religion, and surviv",
+            "you start with the follow equip, in addit to the equip grant by your background: \u2022( a) a wooden shield or( b) ani simpl weapon \u2022( a) a scimitar or( b) ani simpl mele weapon \u2022 leather armor, an explor 's pack, and a druidic focu"
+        ],
+        [
+            "druidic",
+            "you know druidic, the secret languag of druid. you can speak the languag and use it to leav hidden messag. you and other who know thi languag automat spot such a messag. other spot the messag 's presenc with a success dc 15 wisdom( percept) check but ca n't deciph it without magic."
+        ],
+        [
+            "spellcast",
+            "draw on the divin essenc of natur itself, you can cast spell to shape that essenc to your will.",
+            "at 1st level, you know two cantrip of your choic from the druid spell list. you learn addit druid cantrip of your choic at higher level, as shown in the cantrip known column of the druid tabl.",
+            "the druid tabl show how mani spell slot you have to cast your druid spell of 1st level and higher. to cast one of these druid spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "you prepar the list of druid spell that are avail for you to cast, choos from the druid spell list. when you do so, choos a number of druid spell equal to your wisdom modifi+ your druid level( minimum of one spell). the spell must be of a level for which you have spell slot.",
+            "for exampl, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slot. with a wisdom of 16, your list of prepar spell can includ six spell of 1st or 2nd level, in ani combin. if you prepar the 1st-level spell cure wound, you can cast it use a 1st-level or 2nd-level slot. cast the spell doe n't remov it from your list of prepar spell. you can also chang your list of prepar spell when you finish a long rest. prepar a new list of druid spell requir time spent in prayer and medit: at least 1 minut per spell level for each spell on your list.",
+            "wisdom is your spellcast abil for your druid spell, sinc your magic draw upon your devot and attun to natur. you use your wisdom whenev a spell refer to your spellcast abil. in addit, you use your wisdom modifi when set the save throw dc for a druid spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your wisdom modifi",
+            "spell attack modifi= your profici bonu+ your wisdom modifi",
+            "you can cast a druid spell as a ritual if that spell ha the ritual tag and you have the spell prepar.",
+            "you can use a druidic focu as a spellcast focu for your druid spell."
+        ],
+        [
+            [
+                "beast shape"
+            ],
+            [
+                "level",
+                "max. cr",
+                "limit",
+                "exampl"
+            ],
+            [
+                "2nd",
+                "1/4",
+                "no fli or swim speed",
+                "wolf"
+            ],
+            [
+                "4th",
+                "1/2",
+                "no fli speed",
+                "crocodil"
+            ],
+            [
+                "8th",
+                "1",
+                "",
+                "giant eagl"
+            ]
+        ],
+        [
+            "wild shape",
+            "start at 2nd level, you can use your action to magic assum the shape of a beast that you have seen befor. you can use thi featur twice. you regain expend use when you finish a short or long rest.",
+            "your druid level determin the beast you can transform into, as shown in the beast shape tabl. at 2nd level, for exampl, you can transform into ani beast that ha a challeng rate of 1/4 or lower that doe n't have a fli or swim speed.",
+            "you can stay in a beast shape for a number of hour equal to half your druid level( round down). you then revert to your normal form unless you expend anoth use of thi featur. you can revert to your normal form earlier by use a bonu action on your turn. you automat revert if you fall unconsci, drop to 0 hit point, or die.",
+            "while you are transform, the follow rule appli:",
+            [
+                "your game statist are replac by the statist of the beast, but you retain your align, person, and intellig, wisdom, and charisma score. you also retain all of your skill and save throw profici, in addit to gain those of the creatur. if the creatur ha the same profici as you and the bonu in it stat block is higher than your, use the creatur 's bonu instead of your. if the creatur ha ani legendari or lair action, you ca n't use them."
+            ],
+            [
+                "when you transform, you assum the beast 's hit point and hit dice. when you revert to your normal form, you return to the number of hit point you had befor you transform. howev, if you revert as a result of drop to 0 hit point, ani excess damag carri over to your normal form, for exampl, if you take 10 damag in anim form and have onli 1 hit point left, you revert and take 9 damag. as long as the excess damag doe n't reduc your normal form to 0 hit point, you are n't knock unconsci."
+            ],
+            [
+                "you ca n't cast spell, and your abil to speak or take ani action that requir hand is limit to the capabl of your beast form. transform doe n't break your concentr on a spell you 've alreadi cast, howev, or prevent you from take action that are part of a spell, such as call lightn, that you 've alreadi cast."
+            ],
+            [
+                "you retain the benefit of ani featur from your class, race, or other sourc and can use them if the new form is physic capabl of do so. howev, you ca n't use ani of your special sens, such as darkvis, unless your new form also ha that sens."
+            ],
+            [
+                "you choos whether your equip fall to the ground in your space, merg into your new form, or is worn by it. worn equip function as normal, but the dm decid whether it is practic for the new form to wear a piec of equip, base on the creatur 's shape and size. your equip doe n't chang size or shape to match the new form, and ani equip that the new form ca n't wear must either fall to the ground or merg with it. equip that merg with the form ha no effect until you leav the form."
+            ]
+        ],
+        [
+            [
+                "circl",
+                "sourc"
+            ],
+            [
+                "dream",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "land",
+                "player 's handbook"
+            ],
+            [
+                "moon",
+                "player 's handbook"
+            ],
+            [
+                "shepherd",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "spore",
+                "guildmast 's guid to ravnica tasha 's cauldron of everyth"
+            ],
+            [
+                "star",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "wildfir",
+                "tasha 's cauldron of everyth"
+            ]
+        ],
+        [
+            "druid circl",
+            "at 2nd level, you choos to identifi with a circl of druid. your choic grant you featur at 2nd level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "wild companion( option)",
+            "at 2nd level, you gain the abil to summon a spirit that assum an anim form: as an action, you can expend a use of your wild shape featur to cast the find familiar spell, without materi compon.",
+            "when you cast the spell in thi way, the familiar is a fey instead of a beast, and the familiar disappear after a number of hour equal to half your druid level."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "cantrip versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can replac one cantrip you learn from thi class 's spellcast featur with anoth cantrip from the druid spell list."
+        ],
+        [
+            "timeless bodi",
+            "start at 18th level, the primal magic that you wield caus you to age more slowli. for everi 10 year that pass, your bodi age onli 1 year."
+        ],
+        [
+            "beast spell",
+            "begin at 18th level, you can cast mani of your druid spell in ani shape you assum use wild shape. you can perform the somat and verbal compon of a druid spell while in a beast shape, but you are n't abl to provid materi compon."
+        ]
+    ],
+    []
+]

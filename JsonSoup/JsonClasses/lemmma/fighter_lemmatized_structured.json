@@ -1,0 +1,262 @@
+[
+    [
+        [
+            [
+                "The Fighter"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features"
+            ],
+            [
+                "1st",
+                "+2",
+                "Fighting Style, Second Wind"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Action Surge( x1)"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Martial Archetype"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "5th",
+                "+3",
+                "Extra Attack( x1)"
+            ],
+            [
+                "6th",
+                "+3",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "7th",
+                "+3",
+                "Martial Archetype feature"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "9th",
+                "+4",
+                "Indomitable( x1)"
+            ],
+            [
+                "10th",
+                "+4",
+                "Martial Archetype feature"
+            ],
+            [
+                "11th",
+                "+4",
+                "Extra Attack( x2)"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "13th",
+                "+5",
+                "Indomitable( x2)"
+            ],
+            [
+                "14th",
+                "+5",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "15th",
+                "+5",
+                "Martial Archetype feature"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "17th",
+                "+6",
+                "Action Surge( x2), Indomitable( x3)"
+            ],
+            [
+                "18th",
+                "+6",
+                "Martial Archetype feature"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement, Martial Versatility( Optional)"
+            ],
+            [
+                "20th",
+                "+6",
+                "Extra Attack( x3)"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a fighter, you gain the follow class feature.",
+            "Hit Dice: 1d10 per fighter level Hit Points at 1st Level: 10+ your Constitution modifier Hit Points at Higher Levels: 1d10( or 6)+ your Constitution modifier per fighter level after 1st",
+            "Armor: All armor, shield Weapons: Simple weapon, martial weapon Tools: None Saving Throws: Strength, Constitution Skills: Choose two skill from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) chain mail or( b) leather, longbow, and 20 arrow",
+                "( a) a martial weapon and a shield or( b) two martial weapon",
+                "( a) a light crossbow and 20 bolt or( b) two handaxes",
+                "( a) a dungeoneer 's pack or( b) an explorer 's pack"
+            ]
+        ],
+        [
+            "Fighting Style",
+            "You adopt a particular style of fight a your specialty. Choose one of the follow option. You ca n't take a Fighting Style option more than once, even if you later get to choose again.",
+            [
+                "Archery( PHB). You gain a +2 bonus to attack roll you make with range weapon."
+            ],
+            [
+                "Blind Fighting( TCE). You have blindsight with a range of 10 foot. Within that range, you can effectively see anything that be n't behind total cover, even if you 're blind or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hide from you."
+            ],
+            [
+                "Defense( PHB). While you be wear armor, you gain a +1 bonus to AC."
+            ],
+            [
+                "Dueling( PHB). When you be wield a melee weapon in one hand and no other weapon, you gain a +2 bonus to damage roll with that weapon."
+            ],
+            [
+                "Great Weapon Fighting( PHB). When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you be wield with two hand, you can reroll the die and must use the new roll, even if the new roll be a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."
+            ],
+            [
+                "Interception( TCE). When a creature you can see hit a target, other than you, within 5 foot of you with an attack, you can use your reaction to reduce the damage the target take by 1d10+ your proficiency bonus( to a minimum of 0 damage). You must be wield a shield or a simple or martial weapon to use this reaction."
+            ],
+            [
+                "Protection( PHB). When a creature you can see attack a target other than you that be within 5 foot of you, you can use your reaction to impose disadvantage on the attack roll. You must be wield a shield."
+            ],
+            [
+                "Superior Technique( TCE). You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use require your target to make a save throw to resist the maneuver 's effect, the save throw DC equal 8+ your proficiency bonus+ your Strength or Dexterity modifier( your choice.) You gain one superiority die, which be a d6( this die be add to any superiority dice you have from another source). This die be use to fuel your maneuver. A superiority die be expend when you use it. You regain your expend superiority dice when you finish a short or long rest."
+            ],
+            [
+                "You gain one superiority die, which be a d6( this die be add to any superiority dice you have from another source). This die be use to fuel your maneuver. A superiority die be expend when you use it. You regain your expend superiority dice when you finish a short or long rest."
+            ],
+            [
+                "Thrown Weapon Fighting( TCE). You can draw a weapon that have the thrown property a part of the attack you make with the weapon. In addition, when you hit with a range attack use a thrown weapon, you gain a +2 bonus to the damage roll."
+            ],
+            [
+                "In addition, when you hit with a range attack use a thrown weapon, you gain a +2 bonus to the damage roll."
+            ],
+            [
+                "Two-Weapon Fighting( PHB). When you engage in two-weapon fight, you can add your ability modifier to the damage of the second attack."
+            ],
+            [
+                "Unarmed Fighting( TCE). Your unarmed strike can deal bludgeoning damage equal to 1d6+ your Strength modifier on a hit. If you be n't wield any weapon or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turn, you can deal 1d4 bludgeoning damage to one creature grapple by you."
+            ],
+            [
+                "At the start of each of your turn, you can deal 1d4 bludgeoning damage to one creature grapple by you."
+            ],
+            [
+                "Close Quarters Shooter( UA). When make a range attack while you be within 5 foot of a hostile creature, you do not have disadvantage on the attack roll. Your range attack ignore half cover and three-quarters cover against target within 30 foot of you. You have a +1 bonus to attack roll on range attack."
+            ],
+            [
+                "Mariner( UA). As long a you be not wear heavy armor or use a shield, you have a swim speed and a climb speed equal to your normal speed, and you gain a +1 bonus to armor class."
+            ],
+            [
+                "Tunnel Fighter( UA). As a bonus action, you can enter a defensive stance that last until the start of your next turn. While in your defensive stance, you can make opportunity attack without use your reaction, and you can use your reaction to make a melee attack against a creature that move more than 5 foot while within your reach."
+            ]
+        ],
+        [
+            "Second Wind",
+            "You have a limited well of stamen that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit point equal to 1d10+ your fighter level.",
+            "Once you use this feature, you must finish a short or long rest before you can use it again."
+        ],
+        [
+            "Action Surge",
+            "Starting at 2nd level, you can push yourself beyond your normal limit for a moment. On your turn, you can take one additional action.",
+            "Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+        ],
+        [
+            [
+                "Archetype",
+                "Source"
+            ],
+            [
+                "Arcane Archer",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Banneret",
+                "Sword Coast Adventurer 's Guide"
+            ],
+            [
+                "Battle Master",
+                "Player 's Handbook"
+            ],
+            [
+                "Cavalier",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Champion",
+                "Player 's Handbook"
+            ],
+            [
+                "Echo Knight",
+                "Explorer 's Guide to Wildemount"
+            ],
+            [
+                "Eldritch Knight",
+                "Player 's Handbook"
+            ],
+            [
+                "Psi Warrior",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Rune Knight",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Samurai",
+                "Xanathar 's Guide to Everything"
+            ]
+        ],
+        [
+            "Martial Archetype",
+            "At 3rd level, you choose an archetype that you strive to emulate in your combat style and technique. The archetype you choose grant you feature at 3rd level and again at 7th, 10th, 15th, and 18th level."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Martial Versatility( Optional)",
+            "Whenever you reach a level in this class that grant the Ability Score Improvement feature, you can do one of the follow, a you shift the focus of your martial practice:",
+            [
+                "Replace a fight style you know with another fight style available to fighter."
+            ],
+            [
+                "If you know any maneuver from the Battle Master archetype, you can replace one maneuver you know with a different maneuver."
+            ]
+        ],
+        [
+            "Extra Attack",
+            "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.",
+            "The number of attack increase to three when you reach 11th level in this class and to four when you reach 20th level in this class."
+        ]
+    ],
+    []
+]

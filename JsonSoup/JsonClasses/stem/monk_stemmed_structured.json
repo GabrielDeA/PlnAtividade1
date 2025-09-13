@@ -1,0 +1,362 @@
+[
+    [
+        [
+            [
+                "the monk"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "martial art",
+                "ki point",
+                "unarmor movement",
+                "featur"
+            ],
+            [
+                "1st",
+                "+2",
+                "1d4",
+                "\u2013",
+                "\u2013",
+                "unarmor defens, martial art"
+            ],
+            [
+                "2nd",
+                "+2",
+                "1d4",
+                "2",
+                "+10 ft.",
+                "ki, unarmor movement, dedic weapon( option)"
+            ],
+            [
+                "3rd",
+                "+2",
+                "1d4",
+                "3",
+                "+10 ft.",
+                "monast tradit, deflect missil, ki-fuel attack( option)"
+            ],
+            [
+                "4th",
+                "+2",
+                "1d4",
+                "4",
+                "+10 ft.",
+                "abil score improv, slow fall, quicken heal( option)"
+            ],
+            [
+                "5th",
+                "+3",
+                "1d6",
+                "5",
+                "+10 ft.",
+                "extra attack, stun strike, focus aim( option)"
+            ],
+            [
+                "6th",
+                "+3",
+                "1d6",
+                "6",
+                "+15 ft.",
+                "ki-empow strike, monast tradit featur"
+            ],
+            [
+                "7th",
+                "+3",
+                "1d6",
+                "7",
+                "+15 ft.",
+                "evas, still of mind"
+            ],
+            [
+                "8th",
+                "+3",
+                "1d6",
+                "8",
+                "+15 ft.",
+                "abil score improv"
+            ],
+            [
+                "9th",
+                "+4",
+                "1d6",
+                "9",
+                "+15 ft.",
+                "unarmor movement improv"
+            ],
+            [
+                "10th",
+                "+4",
+                "1d6",
+                "10",
+                "+20 ft.",
+                "puriti of bodi"
+            ],
+            [
+                "11th",
+                "+4",
+                "1d8",
+                "11",
+                "+20 ft.",
+                "monast tradit featur"
+            ],
+            [
+                "12th",
+                "+4",
+                "1d8",
+                "12",
+                "+20 ft.",
+                "abil score improv"
+            ],
+            [
+                "13th",
+                "+5",
+                "1d8",
+                "13",
+                "+20 ft.",
+                "tongu of the sun and moon"
+            ],
+            [
+                "14th",
+                "+5",
+                "1d8",
+                "14",
+                "+25 ft.",
+                "diamond soul"
+            ],
+            [
+                "15th",
+                "+5",
+                "1d8",
+                "15",
+                "+25 ft.",
+                "timeless bodi"
+            ],
+            [
+                "16th",
+                "+5",
+                "1d8",
+                "16",
+                "+25 ft.",
+                "abil score improv"
+            ],
+            [
+                "17th",
+                "+6",
+                "1d10",
+                "17",
+                "+25 ft.",
+                "monast tradit featur"
+            ],
+            [
+                "18th",
+                "+6",
+                "1d10",
+                "18",
+                "+30 ft.",
+                "empti bodi"
+            ],
+            [
+                "19th",
+                "+6",
+                "1d10",
+                "19",
+                "+30 ft.",
+                "abil score improv"
+            ],
+            [
+                "20th",
+                "+6",
+                "1d10",
+                "20",
+                "+30 ft.",
+                "perfect self"
+            ]
+        ],
+        [
+            "class featur",
+            "as a monk, you gain the follow class featur.",
+            "hit dice: 1d8 per monk level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per monk level after 1st",
+            "armor: none weapon: simpl weapon, shortsword tool: choos one type of artisan 's tool or one music instrument save throw: strength, dexter skill: choos two from acrobat, athlet, histori, insight, religion, and stealth",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a shortsword or( b) ani simpl weapon",
+                "( a) a dungeon 's pack or( b) an explor 's pack",
+                "10 dart"
+            ]
+        ],
+        [
+            "unarmor defens",
+            "begin at 1st level, while you are wear no armor and not wield a shield, your ac equal 10+ your dexter modifi+ your wisdom modifi."
+        ],
+        [
+            "martial art",
+            "at 1st level, your practic of martial art give you masteri of combat style that use unarm strike and monk weapon, which are shortsword and ani simpl mele weapon that do n't have the two-hand or heavi properti.",
+            "you gain the follow benefit while you are unarm or wield onli monk weapon and you are n't wear armor or wield a shield:",
+            [
+                "you can use dexter instead of strength for the attack and damag roll of your unarm strike and monk weapon."
+            ],
+            [
+                "you can roll a d4 in place of the normal damag of your unarm strike or monk weapon. thi die chang as you gain monk level, as shown in the martial art column of the monk tabl."
+            ],
+            [
+                "when you use the attack action with an unarm strike or a monk weapon on your turn, you can make one unarm strike as a bonu action. for exampl, if you take the attack action and attack with a quarterstaff, you can also make an unarm strike as a bonu action, assum you have n't alreadi taken a bonu action thi turn."
+            ],
+            "certain monasteri use special form of the monk weapon. for exampl, you might use a club that is two length of wood connect by a short chain( call a nunchaku) or a sickl with a shorter, straighter blade( call a kama). whatev name you use for a monk weapon, you can use the game statist provid for the weapon on the weapon page."
+        ],
+        [
+            "ki",
+            "start at 2nd level, your train allow you to har the mystic energi of ki. your access to thi energi is repres by a number of ki point. your monk level determin the number of point you have, as shown in the ki point column of the monk tabl.",
+            "you can spend these point to fuel variou ki featur. you start know three such featur: flurri of blow, patient defens, and step of the wind. you learn more ki featur as you gain level in thi class.",
+            "when you spend a ki point, it is unavail until you finish a short or long rest, at the end of which you draw all of your expend ki back into yourself. you must spend at least 30 minut of the rest medit to regain your ki point.",
+            "some of your ki featur requir your target to make a save throw to resist the featur 's effect. the save throw dc is calcul as follow:",
+            "ki save dc= 8+ your profici bonu+ your wisdom modifi",
+            [
+                "flurri of blow. immedi after you take the attack action on your turn, you can spend 1 ki point to make two unarm strike as a bonu action."
+            ],
+            [
+                "patient defens. you can spend 1 ki point to take the dodg action as a bonu action on your turn."
+            ],
+            [
+                "step of the wind. you can spend 1 ki point to take the disengag or dash action as a bonu action on your turn, and your jump distanc is doubl for the turn."
+            ]
+        ],
+        [
+            "unarmor movement",
+            "start at 2nd level, your speed increas by 10 feet while you are not wear armor or wield a shield. thi bonu increas when you reach certain monk level, as shown in the monk tabl.",
+            "at 9th level, you gain the abil to move along vertic surfac and across liquid on your turn without fall dure the move."
+        ],
+        [
+            "dedic weapon( option)",
+            "also at 2nd level, you train yourself to use a varieti of weapon as monk weapon, not just simpl mele weapon and shortsword. whenev you finish a short or long rest, you can touch one weapon, focu your ki on it, and then count that weapon as a monk weapon until you use thi featur again.",
+            "the chosen weapon must meet these criteria:",
+            [
+                "the weapon must be a simpl or martial weapon."
+            ],
+            [
+                "you must be profici with it."
+            ],
+            [
+                "it must lack the heavi and special properti."
+            ]
+        ],
+        [
+            [
+                "tradit",
+                "sourc"
+            ],
+            [
+                "astral self",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "ascend dragon",
+                "fizban 's treasuri of dragon"
+            ],
+            [
+                "drunken master",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "four element",
+                "player 's handbook"
+            ],
+            [
+                "kensei",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "long death",
+                "sword coast adventur 's guid"
+            ],
+            [
+                "merci",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "open hand",
+                "player 's handbook"
+            ],
+            [
+                "shadow",
+                "player 's handbook"
+            ],
+            [
+                "sun soul",
+                "sword coast adventur 's guid xanathar 's guid to everyth"
+            ]
+        ],
+        [
+            "monast tradit",
+            "when you reach 3rd level, you commit yourself to a monast tradit. your tradit grant you featur at 3rd level and again at 6th, 11th, and 17th level."
+        ],
+        [
+            "deflect missil",
+            "start at 3rd level, you can use your reaction to deflect or catch the missil when you are hit by a rang weapon attack. when you do so, the damag you take from the attack is reduc by 1d10+ your dexter modifi+ your monk level.",
+            "if you reduc the damag to 0, you can catch the missil if it is small enough for you to hold in one hand and you have at least one hand free. if you catch a missil in thi way, you can spend 1 ki point to make a rang attack with a rang of 20/60 use the weapon or piec of ammunit you just caught, as part of the same reaction. you make thi attack with profici, regardless of your weapon profici, and the missil count as a monk weapon for the attack."
+        ],
+        [
+            "ki-fuel attack( option)",
+            "also at 3rd level, if you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarm strike or a monk weapon as a bonu action befor the end of the turn."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "slow fall",
+            "begin at 4th level, you can use your reaction when you fall to reduc ani fall damag you take by an amount equal to five time your monk level."
+        ],
+        [
+            "quicken heal( option)",
+            "also at 4th level, as an action, you can spend 2 ki point and roll a martial art die. you regain a number of hit point equal to the number roll plu your profici bonu."
+        ],
+        [
+            "extra attack",
+            "begin at 5th level, you can attack twice, instead of onc, whenev you take the attack action on your turn."
+        ],
+        [
+            "stun strike",
+            "start at 5th level, you can interfer with the flow of ki in an oppon 's bodi. when you hit anoth creatur with a mele weapon attack, you can spend 1 ki point to attempt a stun strike. the target must succeed on a constitut save throw or be stun until the end of your next turn."
+        ],
+        [
+            "focus aim( option)",
+            "also at 5th level, when you miss with an attack roll, you can spend 1 to 3 ki point to increas your attack roll by 2 for each of these ki point you spend, potenti turn the miss into a hit."
+        ],
+        [
+            "ki-empow strike",
+            "start at 6th level, your unarm strike count as magic for the purpos of overcom resist and immun to nonmag attack and damag."
+        ],
+        [
+            "evas",
+            "at 7th level, your instinct agil let you dodg out of the way of certain area effect, such as a blue dragon 's lightn breath or a firebal spell. when you are subject to an effect that allow you to make a dexter save throw to take onli half damag, you instead take no damag if you succeed on the save throw, and onli half damag if you fail."
+        ],
+        [
+            "still of mind",
+            "start at 7th level, you can use your action to end one effect on yourself that is caus you to be charm or frighten."
+        ],
+        [
+            "puriti of bodi",
+            "at 10th level, your masteri of the ki flow through you make you immun to diseas and poison."
+        ],
+        [
+            "tongu of the sun and moon",
+            "start at 13th level, you learn to touch the ki of other mind so that you understand all spoken languag. moreov, ani creatur that can understand a languag can understand what you say."
+        ],
+        [
+            "diamond soul",
+            "begin at 14th level, your masteri of ki grant you profici in all save throw.",
+            "addit, whenev you make a save throw and fail, you can spend 1 ki point to rerol it and take the second result."
+        ],
+        [
+            "timeless bodi",
+            "at 15th level, your ki sustain you so that you suffer none of the frailti of old age, and you ca n't be age magic. you can still die of old age, howev. in addit, you no longer need food or water."
+        ],
+        [
+            "empti bodi",
+            "begin at 18th level, you can use your action to spend 4 ki point to becom invis for 1 minut. dure that time, you also have resist to all damag but forc damag.",
+            "addit, you can spend 8 ki point to cast the astral project spell, without need materi compon. when you do so, you ca n't take ani other creatur with you."
+        ]
+    ],
+    []
+]

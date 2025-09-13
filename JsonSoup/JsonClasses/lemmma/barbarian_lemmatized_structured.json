@@ -1,0 +1,283 @@
+[
+    [
+        [
+            [
+                "The Barbarian"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "Rages",
+                "Rage Damage"
+            ],
+            [
+                "1st",
+                "+2",
+                "Rage, Unarmored Defense",
+                "2",
+                "+2"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Reckless Attack, Danger Sense",
+                "2",
+                "+2"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Primal Path, Primal Knowledge( Optional)",
+                "3",
+                "+2"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement",
+                "3",
+                "+2"
+            ],
+            [
+                "5th",
+                "+3",
+                "Extra Attack, Fast Movement",
+                "3",
+                "+2"
+            ],
+            [
+                "6th",
+                "+3",
+                "Path feature",
+                "4",
+                "+2"
+            ],
+            [
+                "7th",
+                "+3",
+                "Feral Instinct, Instinctive Pounce( Optional)",
+                "4",
+                "+2"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement",
+                "4",
+                "+2"
+            ],
+            [
+                "9th",
+                "+4",
+                "Brutal Critical( 1 die)",
+                "4",
+                "+3"
+            ],
+            [
+                "10th",
+                "+4",
+                "Path feature, Primal Knowledge( Optional)",
+                "4",
+                "+3"
+            ],
+            [
+                "11th",
+                "+4",
+                "Relentless Rage",
+                "4",
+                "+3"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement",
+                "5",
+                "+3"
+            ],
+            [
+                "13th",
+                "+5",
+                "Brutal Critical( 2 dice)",
+                "5",
+                "+3"
+            ],
+            [
+                "14th",
+                "+5",
+                "Path feature",
+                "5",
+                "+3"
+            ],
+            [
+                "15th",
+                "+5",
+                "Persistent Rage",
+                "5",
+                "+3"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement",
+                "5",
+                "+4"
+            ],
+            [
+                "17th",
+                "+6",
+                "Brutal Critical( 3 dice)",
+                "6",
+                "+4"
+            ],
+            [
+                "18th",
+                "+6",
+                "Indomitable Might",
+                "6",
+                "+4"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement",
+                "6",
+                "+4"
+            ],
+            [
+                "20th",
+                "+6",
+                "Primal Champion",
+                "Unlimited",
+                "+4"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a barbarian, you gain the follow class feature.",
+            "Hit Dice: 1d12 per barbarian level Hit Points at 1st Level: 12+ your Constitution modifier Hit Points at Higher Levels: 1d12( or 7)+ your Constitution modifier per barbarian level after 1st",
+            "Armor: Light armor, medium armor, shield Weapons: Simple weapon, martial weapon Tools: None Saving Throws: Strength, Constitution Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a greataxe or( b) any martial melee weapon",
+                "( a) two handaxes or( b) any simple weapon",
+                "An explorer 's pack and four javelin"
+            ]
+        ],
+        [
+            "Rage",
+            "In battle, you fight with primal ferocity. On your turn, you can enter a rage a a bonus action.",
+            "While rag, you gain the follow benefit if you be n't wear heavy armor:",
+            [
+                "You have advantage on Strength check and Strength save throw.",
+                "When you make a melee weapon attack use Strength, you gain a bonus to the damage roll that increase a you gain level a a barbarian, a show in the Rage Damage column of the Barbarian table.",
+                "You have resistance to bludgeoning, pierce, and slash damage."
+            ],
+            "If you be able to cast spell, you ca n't cast them or concentrate on them while rag.",
+            "Your rage last for 1 minute. It end early if you be knock unconscious or if your turn end and you have n't attack a hostile creature since your last turn or take damage since then. You can also end your rage on your turn a a bonus action.",
+            "Once you have rag the number of time show for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again."
+        ],
+        [
+            "Unarmored Defense",
+            "While you be not wear any armor, your armor class equal 10+ your Dexterity modifier+ your Constitution modifier. You can use a shield and still gain this benefit."
+        ],
+        [
+            "Danger Sense",
+            "At 2nd level, you gain an uncanny sense of when thing nearby be n't a they should be, give you an edge when you dodge away from danger. You have advantage on Dexterity save throw against effect that you can see, such a trap and spell. To gain this benefit, you ca n't be blind, deafen, or incapacitate."
+        ],
+        [
+            "Reckless Attack",
+            "Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so give you advantage on melee weapon attack roll use Strength during this turn, but attack roll against you have advantage until your next turn."
+        ],
+        [
+            [
+                "Path",
+                "Source"
+            ],
+            [
+                "Ancestral Guardian",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Battlerager",
+                "Sword Coast Adventurer 's Guide"
+            ],
+            [
+                "Beast",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Berserker",
+                "Player 's Handbook"
+            ],
+            [
+                "Giant",
+                "Bigby Presents: Glory of the Giants"
+            ],
+            [
+                "Storm Herald",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Totem Warrior",
+                "Player 's Handbook"
+            ],
+            [
+                "Wild Magic",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Zealot",
+                "Xanathar 's Guide to Everything"
+            ]
+        ],
+        [
+            "Primal Path",
+            "At 3rd level, you choose a path that shape the nature of your rage. Your choice grant you feature at 3rd level and again at 6th, 10th, and 14th level."
+        ],
+        [
+            "Primal Knowledge( Optional)",
+            "When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skill available to barbarian at 1st level."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Extra Attack",
+            "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        ],
+        [
+            "Fast Movement",
+            "Starting at 5th level, your speed increase by 10 foot while you be n't wear heavy armor."
+        ],
+        [
+            "Feral Instinct",
+            "By 7th level, your instinct be so hone that you have advantage on initiative roll.",
+            "Additionally, if you be surprised at the begin of combat and be n't incapacitate, you can act normally on your first turn, but only if you enter your rage before do anything else on that turn."
+        ],
+        [
+            "Instinctive Pounce( Optional)",
+            "At 7th level, a part of the bonus action you take to enter your rage, you can move up to half your speed."
+        ],
+        [
+            "Brutal Critical",
+            "Beginning at 9th level, you can roll one additional weapon damage die when determine the extra damage for a critical hit with a melee attack.",
+            "This increase to two additional dice at 13th level and three additional dice at 17th level."
+        ],
+        [
+            "Relentless Rage",
+            "Starting at 11th level, your rage can keep you fight despite grievous wound. If you drop to 0 hit point while you 're rag and do n't die outright, you can make a DC 10 Constitution save throw. If you succeed, you drop to 1 hit point instead.",
+            "Each time you use this feature after the first, the DC increase by 5. When you finish a short or long rest, the DC reset to 10."
+        ],
+        [
+            "Persistent Rage",
+            "Beginning at 15th level, your rage be so fierce that it end early only if you fall unconscious or if you choose to end it."
+        ],
+        [
+            "Indomitable Might",
+            "Beginning at 18th level, if your total for a Strength check be less than your Strength score, you can use that score in place of the total."
+        ]
+    ],
+    []
+]

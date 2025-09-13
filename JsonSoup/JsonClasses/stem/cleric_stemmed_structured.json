@@ -1,0 +1,452 @@
+[
+    [
+        [
+            [
+                "the cleric",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "cantrip known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "spellcast, divin domain",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "channel divin( x1), divin domain featur, har divin power( option)",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "",
+                "3",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv, cantrip versatil( option)",
+                "4",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "destroy undead( cr 1/2)",
+                "4",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "channel divin( x2), divin domain featur",
+                "4",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv, destroy undead( cr 1), divin domain featur, cantrip versatil( option)",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "divin intervent",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "destroy undead( cr 2)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv, cantrip versatil( option)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "destroy undead( cr 3)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv, cantrip versatil( option)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "destroy undead( cr 4), divin domain featur",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "channel divin( x3)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv, cantrip versatil( option)",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "divin intervent improv",
+                "5",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "class featur",
+            "as a cleric, you gain the follow class featur.",
+            "hit dice: 1d8 per cleric level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per cleric level after 1st",
+            "armor: light armor, medium armor, shield weapon: all simpl weapon tool: none save throw: wisdom, charisma skill: choos two from histori, insight, medicin, persuas, and religion",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "( a) a mace or( b) a warhamm( if profici)",
+                "( a) scale mail,( b) leather armor, or( c) chain mail( if profici)",
+                "( a) a light crossbow and 20 bolt or( b) ani simpl weapon",
+                "( a) a priest 's pack or( b) an explor 's pack",
+                "a shield and a holi symbol"
+            ]
+        ],
+        [
+            "spellcast",
+            "as a conduit for divin power, you can cast cleric spell.",
+            "at 1st level, you know three cantrip of your choic from the cleric spell list. you learn addit cleric cantrip of your choic at higher level, as shown in the cantrip known column of the cleric tabl.",
+            "the cleric tabl show how mani spell slot you have to cast your cleric spell of 1st level and higher. to cast one of these spell, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "you prepar the list of cleric spell that are avail for you to cast, choos from the cleric spell list. when you do so, choos a number of cleric spell equal to your wisdom modifi+ your cleric level( minimum of one spell). the spell must be of a level for which you have spell slot.",
+            "for exampl, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slot. with a wisdom of 16, your list of prepar spell can includ six spell of 1st or 2nd level, in ani combin. if you prepar the 1st-level spell cure wound, you can cast it use a 1st-level or 2nd-level slot. cast the spell doe n't remov it from your list of prepar spell.",
+            "you can chang your list of prepar spell when you finish a long rest. prepar a new list of cleric spell requir time spent in prayer and medit: at least 1 minut per spell level for each spell on your list.",
+            "wisdom is your spellcast abil for your cleric spell. the power of your spell come from your devot to your deiti. you use your wisdom whenev a cleric spell refer to your spellcast abil. in addit, you use your wisdom modifi when set the save throw dc for a cleric spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your wisdom modifi",
+            "spell attack modifi= your profici bonu+ your wisdom modifi",
+            "you can cast a cleric spell as a ritual if that spell ha the ritual tag and you have the spell prepar.",
+            "you can use a holi symbol as a spellcast focu for your cleric spell."
+        ],
+        [
+            [
+                "domain",
+                "sourc"
+            ],
+            [
+                "arcana",
+                "sword coast adventur 's guid"
+            ],
+            [
+                "death",
+                "dungeon master 's guid"
+            ],
+            [
+                "forg",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "grave",
+                "xanathar 's guid to everyth"
+            ],
+            [
+                "knowledg",
+                "player 's handbook"
+            ],
+            [
+                "life",
+                "player 's handbook"
+            ],
+            [
+                "light",
+                "player 's handbook"
+            ],
+            [
+                "natur",
+                "player 's handbook"
+            ],
+            [
+                "order",
+                "guildmast 's guid to ravnica tasha 's cauldron of everyth"
+            ],
+            [
+                "peac",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "tempest",
+                "player 's handbook"
+            ],
+            [
+                "trickeri",
+                "player 's handbook"
+            ],
+            [
+                "twilight",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "war",
+                "player 's handbook"
+            ]
+        ],
+        [
+            "divin domain",
+            "at 1st level, you choos a domain shape by your choic of deiti and the gift they grant you. your choic grant you domain spell and other featur when you choos it at 1st level. it also grant you addit way to use channel divin when you gain that featur at 2nd level, and addit benefit at 6th, 8th, and 17th level.",
+            "each domain ha a list of spells-it domain spell that you gain at the cleric level note in the domain descript. onc you gain a domain spell, you alway have it prepar, and it doe n't count against the number of spell you can prepar each day.",
+            "if you have a domain spell that doe n't appear on the cleric spell list, the spell is nonetheless a cleric spell for you."
+        ],
+        [
+            "channel divin",
+            "at 2nd level, you gain the abil to channel divin energi directli from your deiti, use that energi to fuel magic effect. you start with two such effect: turn undead and an effect determin by your domain. some domain grant you addit effect as you advanc in level, as note in the domain descript.",
+            "when you use your channel divin, you choos which effect to creat. you must then finish a short or long rest to use your channel divin again.",
+            "some channel divin effect requir save throw. when you use such an effect from thi class, the dc equal your cleric spell save dc.",
+            "begin at 6th level, you can use your channel divin twice between rest, and begin at 18th level, you can use it three time between rest. when you finish a short or long rest, you regain your expend use.",
+            "as an action, you present your holi symbol and speak a prayer censur the undead. each undead that can see or hear you within 30 feet of you must make a wisdom save throw. if the creatur fail it save throw, it is turn for 1 minut or until it take ani damag.",
+            "a turn creatur must spend it turn tri to move as far away from you as it can, and it ca n't willingli move to a space within 30 feet of you. it also ca n't take reaction. for it action, it can use onli the dash action or tri to escap from an effect that prevent it from move. if there 's nowher to move, the creatur can use the dodg action."
+        ],
+        [
+            "har divin power( option)",
+            "at 2nd level, you can expend a use of your channel divin to fuel your spell. as a bonu action, you touch your holi symbol, utter a prayer, and regain one expend spell slot, the level of which can be no higher than half your profici bonu( round up). the number of time you can use thi featur is base on the level you 've reach in thi class: 2nd level, onc; 6th level, twice; and 18th level, thrice. you regain all expend use when you finish a long rest."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "cantrip versatil( option)",
+            "whenev you reach a level in thi class that grant the abil score improv featur, you can replac one cantrip you learn from thi class 's spellcast featur with anoth cantrip from the cleric spell list."
+        ],
+        [
+            "destroy undead",
+            "start at 5th level, when an undead fail it save throw against your turn undead featur, the creatur is instantli destroy if it challeng rate is at or below a certain threshold, as shown in the cleric tabl abov."
+        ],
+        [
+            "bless strike( option)",
+            "replac the divin strike or potent spellcast featur",
+            "when you reach 8th level, you are bless with divin might in battl. when a creatur take damag from one of your cantrip or weapon attack, you can also deal 1d8 radiant damag to that creatur. onc you deal thi damag, you ca n't use thi featur again until the start of your next turn."
+        ]
+    ],
+    []
+]

@@ -1,0 +1,469 @@
+[
+    [
+        [
+            [
+                "The Bard",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "Cantrips Known",
+                "Spells Known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ],
+            [
+                "1st",
+                "+2",
+                "Spellcasting, Bardic Inspiration( d6)",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Jack of All Trades, Song of Rest( d6), Magical Inspiration( Optional)",
+                "2",
+                "5",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Bard College, Expertise",
+                "2",
+                "6",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement, Bardic Versatility( Optional)",
+                "3",
+                "7",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "Bardic Inspiration( d8), Font of Inspiration",
+                "3",
+                "8",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "Countercharm, Bard College feature",
+                "3",
+                "9",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "",
+                "3",
+                "10",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement, Bardic Versatility( Optional)",
+                "3",
+                "11",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "Song of Rest( d8)",
+                "3",
+                "12",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "Bardic Inspiration( d10), Expertise, Magical Secrets",
+                "4",
+                "14",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "",
+                "4",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement, Bardic Versatility( Optional)",
+                "4",
+                "15",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "Song of Rest( d10)",
+                "4",
+                "16",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "Magical Secrets, Bard College feature",
+                "4",
+                "18",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "-",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "Bardic Inspiration( d12)",
+                "4",
+                "19",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement, Bardic Versatility( Optional)",
+                "4",
+                "19",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "Song of Rest( d12)",
+                "4",
+                "20",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "Magical Secrets",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement, Bardic Versatility( Optional)",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "1",
+                "1",
+                "1"
+            ],
+            [
+                "20th",
+                "+6",
+                "Superior Inspiration",
+                "4",
+                "22",
+                "4",
+                "3",
+                "3",
+                "3",
+                "3",
+                "2",
+                "2",
+                "1",
+                "1"
+            ]
+        ],
+        [
+            "Class Features",
+            "As a bard, you gain the follow class feature.",
+            "Hit Dice: 1d8 per bard level Hit Points at 1st Level: 8+ your Constitution modifier Hit Points at Higher Levels: 1d8( or 5)+ your Constitution modifier per bard level after 1st",
+            "Armor: Light armor Weapons: Simple weapon, hand crossbow, longswords, rapier, shortswords Tools: Three musical instrument of your choice Saving Throws: Dexterity, Charisma Skills: Choose any three",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "( a) a rapier,( b) a longsword, or( c) any simple weapon",
+                "( a) a diplomat 's pack or( b) an entertainer 's pack",
+                "( a) a lute or( b) any other musical instrument",
+                "Leather armor and a dagger"
+            ]
+        ],
+        [
+            "Spellcasting",
+            "You have learn to untangle and reshape the fabric of reality in harmony with your wish and music. Your spell be part of your vast repertoire, magic that you can tune to different situation.",
+            "You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at high level, a show in the Cantrips Known column of the Bard table.",
+            "The Bard table show how many spell slot you have to cast your bard spell of 1st level and high. To cast one of these spell, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest. For example, if you know the 1st-level spell Cure Wounds and have a 1st-level and a 2nd-level spell slot available, you can cast Cure Wounds use either slot.",
+            "You know four 1st-level spell of your choice from the bard spell list.",
+            "The Spells Known column of the Bard table show when you learn more bard spell of your choice. Each of these spell must be of a level for which you have spell slot, a show on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.",
+            "Additionally, when you gain a level in this class, you can choose one of the bard spell you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slot.",
+            "Charisma be your spellcasting ability for your bard spell. Your magic come from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when set the save throw DC for a bard spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Charisma modifier",
+            "Spell attack modifier= your proficiency bonus+ your Charisma modifier",
+            "You can cast any bard spell you know a a ritual if that spell have the ritual tag.",
+            "You can use a musical instrument( found in chapter 5) a a spellcasting focus for your bard spell."
+        ],
+        [
+            "Bardic Inspiration",
+            "You can inspire others through stir word or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 foot of you who can hear you. That creature gain one Bardic Inspiration die, a d6.",
+            "Once within the next 10 minute, the creature can roll the die and add the number roll to one ability check, attack roll, or save throw it make. The creature can wait until after it roll the d20 before decide to use the Bardic Inspiration die, but must decide before the DM say whether the roll succeed or fails. Once the Bardic Inspiration die be roll, it be lose. A creature can have only one Bardic Inspiration die at a time.",
+            "You can use this feature a number of time equal to your Charisma modifier( a minimum of once). You regain any expend us when you finish a long rest.",
+            "Your Bardic Inspiration die change when you reach certain level in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+        ],
+        [
+            "Jack of All Trades",
+            "Starting at 2nd level, you can add half your proficiency bonus, round down, to any ability check you make that do n't already include your proficiency bonus."
+        ],
+        [
+            "Song of Rest",
+            "Beginning at 2nd level, you can use soothe music or oration to help revitalize your wound ally during a short rest. If you or any friendly creature who can hear your performance regain hit point at the end of the short rest by spending one or more Hit Dice, each of those creature regains an extra 1d6 hit point.",
+            "The extra Hit Points increase when you reach certain level in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level."
+        ],
+        [
+            "Magical Inspiration( Optional)",
+            "At 2nd level, if a creature have a Bardic Inspiration die from you and cast a spell that restores hit point or deal damage, the creature can roll that die and choose a target affected by the spell. Add the number roll a a bonus to the hit point regain or the damage dealt. The Bardic Inspiration die be then lose."
+        ],
+        [
+            [
+                "College",
+                "Source"
+            ],
+            [
+                "Creation",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Eloquence",
+                "Mythic Odysseys of Theros Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Glamour",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Lore",
+                "Player 's Handbook"
+            ],
+            [
+                "Spirits",
+                "Van Richten 's Guide to Ravenloft"
+            ],
+            [
+                "Swords",
+                "Xanathar 's Guide to Everything"
+            ],
+            [
+                "Valor",
+                "Player 's Handbook"
+            ],
+            [
+                "Whispers",
+                "Xanathar 's Guide to Everything"
+            ]
+        ],
+        [
+            "Bard College",
+            "At 3rd level, you delve into the advanced technique of a bard college of your choice. Your choice grant you feature at 3rd level and again at 6th and 14th level."
+        ],
+        [
+            "Expertise",
+            "At 3rd level, choose two of your skill proficiency. Your proficiency bonus be double for any ability check you make that us either of the chosen proficiency.",
+            "At 10th level, you can choose another two skill proficiency to gain this benefit."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Bardic Versatility( Optional)",
+            "Whenever you reach a level in this class that grant the Ability Score Improvement feature, you can do one of the follow, represent a change in focus a you use your skill and magic:",
+            [
+                "Replace one of the skill you chose for the Expertise feature with one of your other skill proficiency that be n't benefiting from Expertise."
+            ],
+            [
+                "Replace one cantrip you learn from this class 's Spellcasting feature with another cantrip from the bard spell list."
+            ]
+        ],
+        [
+            "Font of Inspiration",
+            "Beginning when you reach 5th level, you regain all of your expend us of Bardic Inspiration when you finish a short or long rest."
+        ],
+        [
+            "Countercharm",
+            "At 6th level, you gain the ability to use musical note or word of power to disrupt mind-influencing effect. As an action, you can start a performance that last until the end of your next turn. During that time, you and any friendly creature within 30 foot of you have advantage on save throw against be frighten or charm. A creature must be able to hear you to gain this benefit. The performance end early if you be incapacitate or silence or if you voluntarily end it( no action require)."
+        ],
+        [
+            "Magical Secrets",
+            "By 10th level, you have plunder magical knowledge from a wide spectrum of discipline. Choose two spell from any class, include this one. A spell you choose must be of a level you can cast, a show on the Bard table, or a cantrip.",
+            "The chosen spell count a bard spell for you and be include in the number in the Spells Known column of the Bard table.",
+            "You learn two additional spell from any class at 14th level and again at 18th level."
+        ]
+    ],
+    []
+]

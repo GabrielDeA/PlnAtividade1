@@ -32,10 +32,10 @@ def stem_recursive(data):
 def stem_dnd_data_structured(data_type, item_name):
     if data_type == "classe":
         input_path = f"JsonSoup/JsonClasses/{item_name}.json"
-        output_dir = "JsonSoup/JsonClasses"
+        output_dir = "JsonSoup/JsonClasses/stem"
     elif data_type == "raca":
         input_path = f"JsonSoup/{item_name}.json"
-        output_dir = "JsonSoup"
+        output_dir = "JsonSoup/JsonRacas/stem"
     else:
         print("Invalid data_type specified. Use 'classe' or 'raca'.")
         return
@@ -57,4 +57,4 @@ def stem_dnd_data_structured(data_type, item_name):
     print(f"Structured stemming completed for {data_type}: {item_name}")
 
 stem_dnd_data_structured("raca", "dragonborn")
-# stem_dnd_data_structured("classe", "wizard")
+stem_dnd_data_structured("classe", "wizard")
