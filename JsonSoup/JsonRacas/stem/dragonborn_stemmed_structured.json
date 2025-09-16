@@ -56,6 +56,37 @@
                 "cold",
                 "15 ft. cone( con save)"
             ]
+        ],
+        [
+            "player 's handbook",
+            "born of dragon, as their name proclaim, the dragonborn walk proudli through a world that greet them with fear incomprehens. shape by dracon god or the dragon themselv, dragonborn origin hatch from dragon egg as a uniqu race, combin the best attribut of dragon and humanoid. some dragonborn are faith servant to true dragon, other form the rank of soldier in great war, and still other find themselv adrift, with no clear call in life.",
+            [
+                "abil score increas. your strength score increas by 2, and your charisma score increas by 1."
+            ],
+            [
+                "age. young dragonborn grow quickli. they walk hour after hatch, attain the size and develop of a 10-year-old human child by the age of 3, and reach adulthood by 15. they live to be around 80."
+            ],
+            [
+                "align. dragonborn tend toward extrem, make a consciou choic for one side or the other between good and evil( repres by bahamut and tiamat, respect). more side with bahamut than tiamat( whose non-dragon follow are mostli kobold), but villain dragonborn can be quit terribl inde. some rare few choos to devot themselv to lesser dragon deiti, such as chronepsi( neutral), and fewer still choos to worship io, the ninefold dragon, who is all align at onc."
+            ],
+            [
+                "size. dragonborn are taller and heavier than human, stand well over 6 feet tall and averag almost 250 pound. your size is medium."
+            ],
+            [
+                "speed. your base walk speed is 30 feet."
+            ],
+            [
+                "dracon ancestri. you are distantli relat to a particular kind of dragon. choos a type of dragon from the below list; thi determin the damag and area of your breath weapon, and the type of resist you gain."
+            ],
+            [
+                "breath weapon. you can use your action to exhal destruct energi. it deal damag in an area accord to your ancestri. when you use your breath weapon, all creatur in the area must make a save throw, the type of which is determin by your ancestri. the dc of thi save throw is 8+ your constitut modifi+ your profici bonu. a creatur take 2d6 damag on a fail save, and half as much damag on a success one. the damag increas to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. after use your breath weapon, you can not use it again until you complet a short or long rest."
+            ],
+            [
+                "damag resist. you have resist to the damag type associ with your ancestri."
+            ],
+            [
+                "languag. you can read, speak, and write common and dracon."
+            ]
         ]
     ],
     []

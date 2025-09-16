@@ -102,6 +102,7 @@ def leituraRaca(raca):
             #textoUtil.append(elemento.text.strip())
             arrayH3.append(elemento.text.strip())
 
+    textoUtil.append(arrayH3)
     texto = [
         textoUtil,
         textoInutil,

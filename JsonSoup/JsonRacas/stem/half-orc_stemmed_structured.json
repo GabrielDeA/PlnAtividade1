@@ -1,4 +1,39 @@
 [
-    [],
+    [
+        [
+            "player 's handbook",
+            "when allianc between human and orc are seal by marriag, half-orc are born. some half-orc rise to becom proud chief of orc tribe, their human blood give them an edg over their full-blood orc rival. some ventur into the world to prove their worth among human and other more civil race. mani of these becom adventur, achiev great for their mighti deed and notorieti for their barbar custom and savag furi.",
+            [
+                "abil score increas. your strength score increas by 2, and your constitut score increas by 1."
+            ],
+            [
+                "age. half-orc matur a littl faster than human, reach adulthood around age 14. they age notic faster and rare live longer than 75 year."
+            ],
+            [
+                "align. half-orc inherit a tendenc toward chao from their orc parent and are not strongli inclin toward good. half-orc rais among orc and will to live out their live among them are usual evil."
+            ],
+            [
+                "size. half-orc are somewhat larger and bulkier than human, and they rang from 5 to well over 6 feet tall. your size is medium."
+            ],
+            [
+                "speed. your base walk speed is 30 feet."
+            ],
+            [
+                "darkvis. thank to your orc blood, you have superior vision in dark and dim condit. you can see in dim light within 60 feet of you as if it were bright light, and in dark as if it were dim light. you ca n't discern color in dark, onli shade of gray."
+            ],
+            [
+                "menac. you gain profici in the intimid skill."
+            ],
+            [
+                "relentless endur. when you are reduc to 0 hit point but not kill outright, you can drop to 1 hit point instead. you ca n't use thi featur again until you finish a long rest."
+            ],
+            [
+                "savag attack. when you score a critic hit with a mele weapon attack, you can roll one of the weapon 's damag dice one addit time and add it to the extra damag of the critic hit."
+            ],
+            [
+                "languag. you can speak, read, and write common and orc. orc is a harsh, grate languag with hard conson. it ha no script of it own but is written in the dwarvish script."
+            ]
+        ]
+    ],
     []
 ]

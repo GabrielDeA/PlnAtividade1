@@ -56,6 +56,37 @@
                 "Cold",
                 "15 ft. cone( CON save)"
             ]
+        ],
+        [
+            "Player 's Handbook",
+            "Born of dragon, a their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic god or the dragon themselves, dragonborn originally hatch from dragon egg a a unique race, combine the best attribute of dragon and humanoid. Some dragonborn be faithful servant to true dragon, others form the rank of soldier in great war, and still others find themselves adrift, with no clear call in life.",
+            [
+                "Ability Score Increase. Your Strength score increase by 2, and your Charisma score increase by 1."
+            ],
+            [
+                "Age. Young dragonborn grow quickly. They walk hour after hatch, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+            ],
+            [
+                "Alignment. Dragonborn tend towards extreme, make a conscious choice for one side or the other between Good and Evil( represent by Bahamut and Tiamat, respectively). More side with Bahamut than Tiamat( whose non-dragon follower be mostly kobolds), but villainous dragonborn can be quite terrible indeed. Some rare few choose to devote themselves to lesser dragon deity, such a Chronepsis( Neutral), and few still choose to worship Io, the Ninefold Dragon, who be all alignment at once."
+            ],
+            [
+                "Size. Dragonborn be taller and heavier than human, stand well over 6 foot tall and average almost 250 pound. Your size be Medium."
+            ],
+            [
+                "Speed. Your base walk speed be 30 foot."
+            ],
+            [
+                "Draconic Ancestry. You be distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain."
+            ],
+            [
+                "Breath Weapon. You can use your action to exhale destructive energy. It deal damage in an area accord to your ancestry. When you use your breath weapon, all creature in the area must make a save throw, the type of which be determine by your ancestry. The DC of this save throw be 8+ your Constitution modifier+ your proficiency bonus. A creature take 2d6 damage on a fail save, and half a much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After use your breath weapon, you can not use it again until you complete a short or long rest."
+            ],
+            [
+                "Damage Resistance. You have resistance to the damage type associate with your ancestry."
+            ],
+            [
+                "Languages. You can read, speak, and write Common and Draconic."
+            ]
         ]
     ],
     []

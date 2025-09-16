@@ -1,4 +1,53 @@
 [
-    [],
+    [
+        [
+            "Player 's Handbook",
+            "The comfort of home be the goal of most halflings' life: a place to settle in peace and quiet, far from maraud monster and clash army. Others form nomadic band that travel constantly, lure by the open road and the wide horizon to discover the wonder of new land and people. Halflings work readily with others, and they be loyal to their friend, whether halfling or otherwise. They can display remarkable ferocity when their friend, family, or community be threaten.",
+            [
+                "Ability Score Increase. Your Dexterity score increase by 2."
+            ],
+            [
+                "Age. A halfling reach adulthood at the age of 20 and generally life into the middle of his or her second century."
+            ],
+            [
+                "Alignment. Most halflings be lawful good. As a rule, they be good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They be also very orderly and traditional, lean heavily on the support of their community and the comfort of the old way."
+            ],
+            [
+                "Size. Halflings average about 3 foot tall and weigh about 40 pound. Your size be small."
+            ],
+            [
+                "Speed. Your base walk speed be 25 foot."
+            ],
+            [
+                "Lucky. When you roll a 1 on an attack roll, ability check, or save throw, you can reroll the die. You must use the new result, even if it be a 1."
+            ],
+            [
+                "Brave. You have advantage on save throw against be frighten."
+            ],
+            [
+                "Nimble. You can move through the space of any creature that be of a size large than yours."
+            ],
+            [
+                "Languages. You can speak, read, and write Common and Halfling."
+            ],
+            "Lightfoot",
+            "As a lightfoot halfling, you can easily hide from notice, even use other people a cover. You 're inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus be the most common variety.",
+            "Lightfoots be more prone to wanderlust than other halflings, and often dwell alongside other race or take up a nomadic life. In the world of Grayhawk, these halflings be call hairfeet or tallfellows.",
+            [
+                "Ability Score Increase. Your Charisma score increase by 1."
+            ],
+            [
+                "Naturally Stealthy. You can attempt to hide even when you be only obscure by a creature that be at least one size large than you."
+            ],
+            "Stout",
+            "As a stout halfling, you 're hardier than average and have some resistance to poison. Some say that stout have dwarven blood. In the Forgotten Realms, these halflings be call stronghearts, and they 're most common in the south.",
+            [
+                "Ability Score Increase. Your Constitution score increase by 1."
+            ],
+            [
+                "Stout Resilience. You have advantage on save throw against poison, and you have resistance to poison damage."
+            ]
+        ]
+    ],
     []
 ]
