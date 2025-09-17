@@ -1,0 +1,415 @@
+[
+    [
+        [
+            [
+                "The Artificer",
+                "Spell Slots per Spell Level"
+            ],
+            [
+                "Level",
+                "Proficiency Bonus",
+                "Features",
+                "Infusions Known",
+                "Infused Items",
+                "Cantrips Known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th"
+            ],
+            [
+                "1st",
+                "+2",
+                "Magical Tinkering, Spellcasting",
+                "-",
+                "-",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "Infuse Item",
+                "4",
+                "2",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "Artificer Specialist, The Right Tool for the Job",
+                "4",
+                "2",
+                "2",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "Ability Score Improvement",
+                "4",
+                "2",
+                "2",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "Artificer Specialist feature",
+                "4",
+                "2",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "Tool Expertise",
+                "6",
+                "3",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "Flash of Genius",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "Ability Score Improvement",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "Artificer Specialist feature",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "Magic Item Adept",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "Spell-Storing Item",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "Ability Score Improvement",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "-",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "Magic Item Savant",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "Artificer Specialist feature",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "Ability Score Improvement",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "-",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "Magic Item Master",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "Ability Score Improvement",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ],
+            [
+                "20th",
+                "+6",
+                "Soul of Artifice",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            "Class Features",
+            "As an artificer, you gain the follow class feature.",
+            "Hit Dice: 1d8 per artificer level Hit Points at 1st Level: 8+ your Constitution modifier Hit Points at Higher Levels: 1d8( or 5)+ your Constitution modifier per artificer level after 1st",
+            "Armor: Light armor, medium armor, shield Weapons: Simple weapon Tools: Thieves \u2019 tool, tinker \u2019 s tool, one type of artisan \u2019 s tool of your choice Saving Throws: Constitution, Intelligence Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand",
+            "You start with the follow equipment, in addition to the equipment grant by your background:",
+            [
+                "any two simple weapon",
+                "a light crossbow and 20 bolt",
+                "( a) stud leather armor or( b) scale mail",
+                "thief \u2019 tool and a dungeoneer \u2019 s pack"
+            ],
+            "Alternatively, you may start with 5d4x10 start gold",
+            "The secret of gunpowder weapon have be discover in various corner of the D& D multiverse. If your Dungeon Master us the rule on firearm in the Dungeon Master 's Guide and your artificer have be expose to the operation of such weapon, your artificer be proficient with them."
+        ],
+        [
+            "Magical Tinkering",
+            "At 1st level, you 've learn how to invest a spark of magic into mundane object. To use this ability, you must have thief' tool or artisan 's tool in hand. You then touch a Tiny nonmagical object a an action and give it one of the follow magical property of your choice:",
+            [
+                "The object shed bright light in a 5-foot radius and dim light for an additional 5 foot."
+            ],
+            [
+                "Whenever tapped by a creature, the object emits a record message that can be heard up to 10 foot away. You utter the message when you bestow this property on the object, and the record can be no more than 6 second long."
+            ],
+            [
+                "The object continuously emits your choice of an odor or a nonverbal sound( wind, wave, chirp, or the like). The chosen phenomenon be perceivable up to 10 foot away."
+            ],
+            [
+                "A static visual effect appear on one of the object 's surface. This effect can be a picture, up to 25 word of text, line and shape, or a mixture of these element, a you like."
+            ],
+            "The chosen property last indefinitely. As an action, you can touch the object and end the property early.",
+            "You can bestow magic on multiple object, touch one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of object you can affect with this feature at one time be equal to your Intelligence modifier( minimum of one object). If you try to exceed your maximum, the old property immediately end, and then the new property applies."
+        ],
+        [
+            "Spellcasting",
+            "You 've study the working of magic and how to cast spell, channel the magic through object. To observer, you do n't appear to be cast spell in a conventional way; you appear to produce wonder from mundane item and outlandish invention.",
+            "You produce your artificer spell effect through your tool. You must have a spellcasting focus- specifically thief' tool or some kind of artisan 's tool- in hand when you cast any spell with this Spellcasting feature( meaning the spell have an `` M '' component when you cast it). You must be proficient with the tool to use it in this way. See the equipment chapter in the Player 's Handbook for description of these tool.",
+            "After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusion a a spellcasting focus.",
+            "At 1st level, you know two cantrips of your choice from the artificer spell list. At high level, you learn additional artificer cantrips of your choice, a show in the Cantrips Known column of the Artificer table.",
+            "When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.",
+            "The Artificer table show how many spell slot you have to cast your artificer spell. To cast one of your artificer spell of 1st level or high, you must expend a slot of the spell 's level or high. You regain all expend spell slot when you finish a long rest.",
+            "You prepare the list of artificer spell that be available for you to cast, choose from the artificer spell list. When you do so, choose a number of artificer spell equal to your Intelligence modifier+ half your artificer level, round down( minimum of one spell). The spell must be of a level for which you have spell slot.",
+            "For example, if you be a 5th-level artificer, you have four 1st-level and two 2nd-level spell slot. With an Intelligence of 14, your list of prepared spell can include four spell of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it use a lst-level or a 2nd-level slot. Casting the spell do n't remove it from your list of prepared spell.",
+            "You can change your list of prepared spell when you finish a long rest. Preparing a new list of artificer spell require time spent tinker with your spellcasting focus: at least 1 minute per spell level for each spell on your list.",
+            "Intelligence be your spellcasting ability for your artificer spell; your understand of the theory behind magic allows you to wield these spell with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when set the save throw DC for an artificer spell you cast and when make an attack roll with one.",
+            "Spell save DC= 8+ your proficiency bonus+ your Intelligence modifier",
+            "Spell attack modifier= your proficiency bonus+ your Intelligence modifier",
+            "You can cast an artificer spell a a ritual if that spell have the ritual tag and you have the spell prepared."
+        ],
+        [
+            "Infuse Item",
+            "At 2nd level, you 've gain the ability to imbue mundane item with certain magical infusion, turn those object into magic item.",
+            "When you gain this feature, pick four artificer infusion to learn. You learn additional infusion of your choice when you reach certain level in this class, a show in the Infusions Known column of the Artificer table.",
+            "Whenever you gain a level in this class, you can replace one of the artificer infusion you learn with a new one.",
+            "Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusion, turn it into a magic item. An infusion work on only certain kind of object, a specify in the infusion 's description. If the item require attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so use the normal process for attunement( see the attunement rule in the Dungeon Master 's Guide).",
+            "Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of day equal to your Intelligence modifier( minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.",
+            "You can infuse more than one nonmagical object at the end of a long rest; the maximum number of object appear in the Infused Items column of the Artificer table. You must touch each of the object, and each of your infusion can be in only one object at a time. Moreover, no object can bear more than one of your infusion at a time. If you try to exceed your maximum number of infusion, the old infusion end, and then the new infusion applies.",
+            "If an infusion end on an item that contains other thing, like a bag of hold, it content harmlessly appear in and around it space."
+        ],
+        [
+            [
+                "Specialty",
+                "Source"
+            ],
+            [
+                "Alchemist",
+                "Tasha 's Cauldron of Everything Eberron: Rising from the Last War"
+            ],
+            [
+                "Armorer",
+                "Tasha 's Cauldron of Everything"
+            ],
+            [
+                "Artillerist",
+                "Tasha 's Cauldron of Everything Eberron: Rising from the Last War"
+            ],
+            [
+                "Battle Smith",
+                "Tasha 's Cauldron of Everything Eberron: Rising from the Last War"
+            ]
+        ],
+        [
+            "Artificer Specialist",
+            "At 3rd level, you choose the type of specialist you be. Your choice grant you feature at 5th level and again at 9th and 15th level."
+        ],
+        [
+            "The Right Tool for the Job",
+            "At 3rd level, you 've learn how to produce exactly the tool you need: with thief' tool or artisan 's tool in hand, you can magically create one set of artisan 's tool in an unoccupied space within 5 foot of you. This creation require 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tool be nonmagical, and they vanish when you use this feature again."
+        ],
+        [
+            "Ability Score Improvement",
+            "When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability score of your choice by 1. As normal, you ca n't increase an ability score above 20 use this feature."
+        ],
+        [
+            "Tool Expertise",
+            "At 6th level, your proficiency bonus be now double for any ability check you make that us your proficiency with a tool."
+        ],
+        [
+            "Flash of Genius",
+            "At 7th level, you 've gain the ability to come up with solution under pressure. When you or another creature you can see within 30 foot of you make an ability check or a save throw, you can use your reaction to add your Intelligence modifier to the roll.",
+            "You can use this feature a number of time equal to your Intelligence modifier( minimum of once). You regain all expend us when you finish a long rest."
+        ],
+        [
+            "Magic Item Adept",
+            "When you reach 10th level, you achieve a profound understand of how to use and make magic item:",
+            [
+                "You can attune to up to four magic item at once."
+            ],
+            [
+                "If you craft a magic item with a rarity of common or uncommon, it take you a quarter of the normal time, and it cost you half a much of the usual gold."
+            ]
+        ],
+        [
+            "Spell-Storing Item",
+            "At 11th level, you can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use a a spellcasting focus, and you store a spell in it, choose a 1st- or 2nd-level spell from the artificer spell list that require 1 action to cast( you need n't have it prepared).",
+            "While hold the object, a creature can take an action to produce the spell 's effect from it, use your spellcasting ability modifier. If the spell require concentration, the creature must concentrate. The spell stay in the object until it 's be use a number of time equal to twice your Intelligence modifier( minimum of twice) or until you use this feature again to store a spell in an object."
+        ],
+        [
+            "Magic Item Savant",
+            "At 14th level, your skill with magic item deepens more:",
+            [
+                "You can attune to up to five magic item at once."
+            ],
+            [
+                "You ignore all class, race, spell and level requirement on attune to or use a magic item."
+            ]
+        ],
+        [
+            "Magic Item Master",
+            "Starting at 18th level, you can attune up to six magic item at once."
+        ]
+    ],
+    []
+]

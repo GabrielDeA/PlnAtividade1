@@ -1,0 +1,415 @@
+[
+    [
+        [
+            [
+                "the artific",
+                "spell slot per spell level"
+            ],
+            [
+                "level",
+                "profici bonu",
+                "featur",
+                "infus known",
+                "infus item",
+                "cantrip known",
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th"
+            ],
+            [
+                "1st",
+                "+2",
+                "magic tinker, spellcast",
+                "-",
+                "-",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "2nd",
+                "+2",
+                "infus item",
+                "4",
+                "2",
+                "2",
+                "2",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "3rd",
+                "+2",
+                "artific specialist, the right tool for the job",
+                "4",
+                "2",
+                "2",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "4th",
+                "+2",
+                "abil score improv",
+                "4",
+                "2",
+                "2",
+                "3",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "5th",
+                "+3",
+                "artific specialist featur",
+                "4",
+                "2",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "6th",
+                "+3",
+                "tool expertis",
+                "6",
+                "3",
+                "2",
+                "4",
+                "2",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "7th",
+                "+3",
+                "flash of geniu",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "8th",
+                "+3",
+                "abil score improv",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "-",
+                "-",
+                "-"
+            ],
+            [
+                "9th",
+                "+4",
+                "artific specialist featur",
+                "6",
+                "3",
+                "2",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "10th",
+                "+4",
+                "magic item adept",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "2",
+                "-",
+                "-"
+            ],
+            [
+                "11th",
+                "+4",
+                "spell-stor item",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "12th",
+                "+4",
+                "abil score improv",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "-",
+                "-"
+            ],
+            [
+                "13th",
+                "+5",
+                "-",
+                "8",
+                "4",
+                "3",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "14th",
+                "+5",
+                "magic item savant",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "1",
+                "-"
+            ],
+            [
+                "15th",
+                "+5",
+                "artific specialist featur",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "16th",
+                "+5",
+                "abil score improv",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "2",
+                "-"
+            ],
+            [
+                "17th",
+                "+6",
+                "-",
+                "10",
+                "5",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "18th",
+                "+6",
+                "magic item master",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "1"
+            ],
+            [
+                "19th",
+                "+6",
+                "abil score improv",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ],
+            [
+                "20th",
+                "+6",
+                "soul of artific",
+                "12",
+                "6",
+                "4",
+                "4",
+                "3",
+                "3",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            "class featur",
+            "as an artific, you gain the follow class featur.",
+            "hit dice: 1d8 per artific level hit point at 1st level: 8+ your constitut modifi hit point at higher level: 1d8( or 5)+ your constitut modifi per artific level after 1st",
+            "armor: light armor, medium armor, shield weapon: simpl weapon tool: thiev \u2019 tool, tinker \u2019 s tool, one type of artisan \u2019 s tool of your choic save throw: constitut, intellig skill: choos two from arcana, histori, investig, medicin, natur, percept, sleight of hand",
+            "you start with the follow equip, in addit to the equip grant by your background:",
+            [
+                "ani two simpl weapon",
+                "a light crossbow and 20 bolt",
+                "( a) stud leather armor or( b) scale mail",
+                "thiev \u2019 tool and a dungeon \u2019 s pack"
+            ],
+            "altern, you may start with 5d4x10 start gold",
+            "the secret of gunpowd weapon have been discov in variou corner of the d& d multivers. if your dungeon master use the rule on firearm in the dungeon master 's guid and your artific ha been expos to the oper of such weapon, your artific is profici with them."
+        ],
+        [
+            "magic tinker",
+            "at 1st level, you 've learn how to invest a spark of magic into mundan object. to use thi abil, you must have thiev' tool or artisan 's tool in hand. you then touch a tini nonmag object as an action and give it one of the follow magic properti of your choic:",
+            [
+                "the object shed bright light in a 5-foot radiu and dim light for an addit 5 feet."
+            ],
+            [
+                "whenev tap by a creatur, the object emit a record messag that can be heard up to 10 feet away. you utter the messag when you bestow thi properti on the object, and the record can be no more than 6 second long."
+            ],
+            [
+                "the object continu emit your choic of an odor or a nonverb sound( wind, wave, chirp, or the like). the chosen phenomenon is perceiv up to 10 feet away."
+            ],
+            [
+                "a static visual effect appear on one of the object 's surfac. thi effect can be a pictur, up to 25 word of text, line and shape, or a mixtur of these element, as you like."
+            ],
+            "the chosen properti last indefinit. as an action, you can touch the object and end the properti earli.",
+            "you can bestow magic on multipl object, touch one object each time you use thi featur, though a singl object can onli bear one properti at a time. the maximum number of object you can affect with thi featur at one time is equal to your intellig modifi( minimum of one object). if you tri to exceed your maximum, the oldest properti immedi end, and then the new properti appli."
+        ],
+        [
+            "spellcast",
+            "you 've studi the work of magic and how to cast spell, channel the magic through object. to observ, you do n't appear to be cast spell in a convent way; you appear to produc wonder from mundan item and outlandish invent.",
+            "you produc your artific spell effect through your tool. you must have a spellcast focu- specif thiev' tool or some kind of artisan 's tool- in hand when you cast ani spell with thi spellcast featur( mean the spell ha an `` m '' compon when you cast it). you must be profici with the tool to use it in thi way. see the equip chapter in the player 's handbook for descript of these tool.",
+            "after you gain the infus item featur at 2nd level, you can also use ani item bear one of your infus as a spellcast focu.",
+            "at 1st level, you know two cantrip of your choic from the artific spell list. at higher level, you learn addit artific cantrip of your choic, as shown in the cantrip known column of the artific tabl.",
+            "when you gain a level in thi class, you can replac one of the artific cantrip you know with anoth cantrip from the artific spell list.",
+            "the artific tabl show how mani spell slot you have to cast your artific spell. to cast one of your artific spell of 1st level or higher, you must expend a slot of the spell 's level or higher. you regain all expend spell slot when you finish a long rest.",
+            "you prepar the list of artific spell that are avail for you to cast, choos from the artific spell list. when you do so, choos a number of artific spell equal to your intellig modifi+ half your artific level, round down( minimum of one spell). the spell must be of a level for which you have spell slot.",
+            "for exampl, if you are a 5th-level artific, you have four 1st-level and two 2nd-level spell slot. with an intellig of 14, your list of prepar spell can includ four spell of 1st or 2nd level, in ani combin. if you prepar the 1st-level spell cure wound, you can cast it use a lst-level or a 2nd-level slot. cast the spell doe n't remov it from your list of prepar spell.",
+            "you can chang your list of prepar spell when you finish a long rest. prepar a new list of artific spell requir time spent tinker with your spellcast focus: at least 1 minut per spell level for each spell on your list.",
+            "intellig is your spellcast abil for your artific spell; your understand of the theori behind magic allow you to wield these spell with superior skill. you use your intellig whenev an artific spell refer to your spellcast abil. in addit, you use your intellig modifi when set the save throw dc for an artific spell you cast and when make an attack roll with one.",
+            "spell save dc= 8+ your profici bonu+ your intellig modifi",
+            "spell attack modifi= your profici bonu+ your intellig modifi",
+            "you can cast an artific spell as a ritual if that spell ha the ritual tag and you have the spell prepar."
+        ],
+        [
+            "infus item",
+            "at 2nd level, you 've gain the abil to imbu mundan item with certain magic infus, turn those object into magic item.",
+            "when you gain thi featur, pick four artific infus to learn. you learn addit infus of your choic when you reach certain level in thi class, as shown in the infus known column of the artific tabl.",
+            "whenev you gain a level in thi class, you can replac one of the artific infus you learn with a new one.",
+            "whenev you finish a long rest, you can touch a nonmag object and imbu it with one of your artific infus, turn it into a magic item. an infus work on onli certain kind of object, as specifi in the infus 's descript. if the item requir attun, you can attun yourself to it the instant you infus the item. if you decid to attun to the item later, you must do so use the normal process for attun( see the attun rule in the dungeon master 's guid).",
+            "your infus remain in an item indefinit, but when you die, the infus vanish after a number of day equal to your intellig modifi( minimum of 1 day). the infus also vanish if you replac your knowledg of the infus.",
+            "you can infus more than one nonmag object at the end of a long rest; the maximum number of object appear in the infus item column of the artific tabl. you must touch each of the object, and each of your infus can be in onli one object at a time. moreov, no object can bear more than one of your infus at a time. if you tri to exceed your maximum number of infus, the oldest infus end, and then the new infus appli.",
+            "if an infus end on an item that contain other thing, like a bag of hold, it content harmlessli appear in and around it space."
+        ],
+        [
+            [
+                "specialti",
+                "sourc"
+            ],
+            [
+                "alchemist",
+                "tasha 's cauldron of everyth eberron: rise from the last war"
+            ],
+            [
+                "armor",
+                "tasha 's cauldron of everyth"
+            ],
+            [
+                "artillerist",
+                "tasha 's cauldron of everyth eberron: rise from the last war"
+            ],
+            [
+                "battl smith",
+                "tasha 's cauldron of everyth eberron: rise from the last war"
+            ]
+        ],
+        [
+            "artific specialist",
+            "at 3rd level, you choos the type of specialist you are. your choic grant you featur at 5th level and again at 9th and 15th level."
+        ],
+        [
+            "the right tool for the job",
+            "at 3rd level, you 've learn how to produc exactli the tool you need: with thiev' tool or artisan 's tool in hand, you can magic creat one set of artisan 's tool in an unoccupi space within 5 feet of you. thi creation requir 1 hour of uninterrupt work, which can coincid with a short or long rest. though the product of magic, the tool are nonmag, and they vanish when you use thi featur again."
+        ],
+        [
+            "abil score improv",
+            "when you reach 4th level, 8th, 12th, 16th, and 19th level, you can increas one abil score of your choic by 2, or you can increas two abil score of your choic by 1. as normal, you ca n't increas an abil score abov 20 use thi featur."
+        ],
+        [
+            "tool expertis",
+            "at 6th level, your profici bonu is now doubl for ani abil check you make that use your profici with a tool."
+        ],
+        [
+            "flash of geniu",
+            "at 7th level, you 've gain the abil to come up with solut under pressur. when you or anoth creatur you can see within 30 feet of you make an abil check or a save throw, you can use your reaction to add your intellig modifi to the roll.",
+            "you can use thi featur a number of time equal to your intellig modifi( minimum of onc). you regain all expend use when you finish a long rest."
+        ],
+        [
+            "magic item adept",
+            "when you reach 10th level, you achiev a profound understand of how to use and make magic item:",
+            [
+                "you can attun to up to four magic item at onc."
+            ],
+            [
+                "if you craft a magic item with a rariti of common or uncommon, it take you a quarter of the normal time, and it cost you half as much of the usual gold."
+            ]
+        ],
+        [
+            "spell-stor item",
+            "at 11th level, you can now store a spell in an object. whenev you finish a long rest, you can touch one simpl or martial weapon or one item that you can use as a spellcast focu, and you store a spell in it, choos a 1st- or 2nd-level spell from the artific spell list that requir 1 action to cast( you need n't have it prepar).",
+            "while hold the object, a creatur can take an action to produc the spell 's effect from it, use your spellcast abil modifi. if the spell requir concentr, the creatur must concentr. the spell stay in the object until it 's been use a number of time equal to twice your intellig modifi( minimum of twice) or until you use thi featur again to store a spell in an object."
+        ],
+        [
+            "magic item savant",
+            "at 14th level, your skill with magic item deepen more:",
+            [
+                "you can attun to up to five magic item at onc."
+            ],
+            [
+                "you ignor all class, race, spell and level requir on attun to or use a magic item."
+            ]
+        ],
+        [
+            "magic item master",
+            "start at 18th level, you can attun up to six magic item at onc."
+        ]
+    ],
+    []
+]
