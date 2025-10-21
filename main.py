@@ -2,7 +2,6 @@ import LeituraClasses
 import LeituraRaca
 import Lemmatization
 import Stemming
-from LeituraClasses import leituraClasse
 
 racas = [
     'dragonborn',
